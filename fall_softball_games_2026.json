@@ -478,6 +478,15 @@
   },
   {
     "date": "2026-08-28",
+    "team1": "Summit Christian Academy",
+    "score1": 5,
+    "team2": "Bolivar",
+    "score2": 7,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-28",
     "team1": "Francis Howell Central",
     "score1": 14,
     "team2": "Bowling Green",
@@ -1207,6 +1216,15 @@
   },
   {
     "date": "2026-08-28",
+    "team1": "Fair Play",
+    "score1": 4,
+    "team2": "Montrose with Appleton City",
+    "score2": 8,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-28",
     "team1": "Windsor (Imperial)",
     "score1": 4,
     "team2": "Neosho",
@@ -1310,6 +1328,15 @@
     "score1": 5,
     "team2": "Oakville",
     "score2": 4,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-28",
+    "team1": "Truman",
+    "score1": 10,
+    "team2": "Odessa",
+    "score2": 6,
     "forfeit": false,
     "extra_innings": false
   },
@@ -1557,15 +1584,6 @@
     "extra_innings": false
   },
   {
-    "date": "2026-08-28",
-    "team1": "Truman",
-    "score1": null,
-    "team2": "Odessa",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
     "date": "2026-08-29",
     "team1": "King City with Pattonsburg",
     "score1": 5,
@@ -1580,6 +1598,15 @@
     "score1": 2,
     "team2": "Albany",
     "score2": 8,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-29",
+    "team1": "Vienna",
+    "score1": 5,
+    "team2": "Albany",
+    "score2": 6,
     "forfeit": false,
     "extra_innings": false
   },
@@ -1774,6 +1801,15 @@
   },
   {
     "date": "2026-08-29",
+    "team1": "Marshall",
+    "score1": 9,
+    "team2": "Carrollton",
+    "score2": 4,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-29",
     "team1": "Warrensburg",
     "score1": 10,
     "team2": "Carrollton",
@@ -1945,6 +1981,15 @@
   },
   {
     "date": "2026-08-29",
+    "team1": "Fair Play",
+    "score1": 1,
+    "team2": "Climax Springs",
+    "score2": 13,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-29",
     "team1": "Wright City",
     "score1": 5,
     "team2": "Clinton",
@@ -2098,6 +2143,15 @@
   },
   {
     "date": "2026-08-29",
+    "team1": "Weaubleau",
+    "score1": 13,
+    "team2": "Fair Play",
+    "score2": 1,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-29",
     "team1": "Rolla",
     "score1": 4,
     "team2": "Festus",
@@ -2219,6 +2273,15 @@
     "score1": 10,
     "team2": "Ft. Zumwalt South",
     "score2": 7,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-29",
+    "team1": "Clopton with Elsberry",
+    "score1": 8,
+    "team2": "Ft. Zumwalt South",
+    "score2": 11,
     "forfeit": false,
     "extra_innings": false
   },
@@ -2386,6 +2449,24 @@
   },
   {
     "date": "2026-08-29",
+    "team1": "William Chrisman",
+    "score1": 11,
+    "team2": "Harrisonville",
+    "score2": 6,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-29",
+    "team1": "Oak Park",
+    "score1": 0,
+    "team2": "Harrisonville",
+    "score2": 7,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-29",
     "team1": "Wheatland",
     "score1": 10,
     "team2": "Hartville",
@@ -2462,6 +2543,15 @@
     "score1": 14,
     "team2": "Humansville",
     "score2": 6,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-29",
+    "team1": "Parkway Central",
+    "score1": 10,
+    "team2": "Jackson",
+    "score2": 3,
     "forfeit": false,
     "extra_innings": false
   },
@@ -3142,6 +3232,24 @@
   },
   {
     "date": "2026-08-29",
+    "team1": "Fort Osage",
+    "score1": 7,
+    "team2": "Odessa",
+    "score2": 2,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-29",
+    "team1": "William Chrisman",
+    "score1": 2,
+    "team2": "Odessa",
+    "score2": 22,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-29",
     "team1": "Waynesville",
     "score1": 2,
     "team2": "Osage",
@@ -3394,6 +3502,15 @@
   },
   {
     "date": "2026-08-29",
+    "team1": "Valley Park",
+    "score1": 10,
+    "team2": "St. Charles West with St. Charles",
+    "score2": 1,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-29",
     "team1": "Community",
     "score1": 12,
     "team2": "St. Clair",
@@ -3416,6 +3533,15 @@
     "score1": 8,
     "team2": "St. Clair",
     "score2": 3,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-29",
+    "team1": "St. Joseph's Academy",
+    "score1": 1,
+    "team2": "St. Dominic",
+    "score2": 5,
     "forfeit": false,
     "extra_innings": false
   },
@@ -3592,15 +3718,6 @@
   },
   {
     "date": "2026-08-29",
-    "team1": "Marshall",
-    "score1": null,
-    "team2": "Carrollton",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-08-29",
     "team1": "Walnut Grove",
     "score1": null,
     "team2": "Halfway",
@@ -3613,33 +3730,6 @@
     "team1": "Ozark",
     "score1": null,
     "team2": "Halfway",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-08-29",
-    "team1": "Fort Osage",
-    "score1": null,
-    "team2": "Odessa",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-08-29",
-    "team1": "William Chrisman",
-    "score1": null,
-    "team2": "Odessa",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-08-29",
-    "team1": "Valley Park",
-    "score1": null,
-    "team2": "St. Charles West with St. Charles",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -3659,6 +3749,15 @@
     "score1": 2,
     "team2": "Albany",
     "score2": 8,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-30",
+    "team1": "Vienna",
+    "score1": 5,
+    "team2": "Albany",
+    "score2": 6,
     "forfeit": false,
     "extra_innings": false
   },
@@ -3853,6 +3952,15 @@
   },
   {
     "date": "2026-08-30",
+    "team1": "Marshall",
+    "score1": 9,
+    "team2": "Carrollton",
+    "score2": 4,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-30",
     "team1": "Warrensburg",
     "score1": 10,
     "team2": "Carrollton",
@@ -4024,6 +4132,15 @@
   },
   {
     "date": "2026-08-30",
+    "team1": "Fair Play",
+    "score1": 1,
+    "team2": "Climax Springs",
+    "score2": 13,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-30",
     "team1": "Wright City",
     "score1": 5,
     "team2": "Clinton",
@@ -4177,6 +4294,15 @@
   },
   {
     "date": "2026-08-30",
+    "team1": "Weaubleau",
+    "score1": 13,
+    "team2": "Fair Play",
+    "score2": 1,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-30",
     "team1": "Rolla",
     "score1": 4,
     "team2": "Festus",
@@ -4298,6 +4424,15 @@
     "score1": 10,
     "team2": "Ft. Zumwalt South",
     "score2": 7,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-30",
+    "team1": "Clopton with Elsberry",
+    "score1": 8,
+    "team2": "Ft. Zumwalt South",
+    "score2": 11,
     "forfeit": false,
     "extra_innings": false
   },
@@ -4465,6 +4600,24 @@
   },
   {
     "date": "2026-08-30",
+    "team1": "William Chrisman",
+    "score1": 11,
+    "team2": "Harrisonville",
+    "score2": 6,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-30",
+    "team1": "Oak Park",
+    "score1": 0,
+    "team2": "Harrisonville",
+    "score2": 7,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-30",
     "team1": "Wheatland",
     "score1": 10,
     "team2": "Hartville",
@@ -4541,6 +4694,15 @@
     "score1": 14,
     "team2": "Humansville",
     "score2": 6,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-30",
+    "team1": "Parkway Central",
+    "score1": 10,
+    "team2": "Jackson",
+    "score2": 3,
     "forfeit": false,
     "extra_innings": false
   },
@@ -5221,6 +5383,24 @@
   },
   {
     "date": "2026-08-30",
+    "team1": "Fort Osage",
+    "score1": 7,
+    "team2": "Odessa",
+    "score2": 2,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-30",
+    "team1": "William Chrisman",
+    "score1": 2,
+    "team2": "Odessa",
+    "score2": 22,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-30",
     "team1": "Waynesville",
     "score1": 2,
     "team2": "Osage",
@@ -5473,6 +5653,15 @@
   },
   {
     "date": "2026-08-30",
+    "team1": "Valley Park",
+    "score1": 10,
+    "team2": "St. Charles West with St. Charles",
+    "score2": 1,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-30",
     "team1": "Community",
     "score1": 12,
     "team2": "St. Clair",
@@ -5495,6 +5684,15 @@
     "score1": 8,
     "team2": "St. Clair",
     "score2": 3,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-30",
+    "team1": "St. Joseph's Academy",
+    "score1": 1,
+    "team2": "St. Dominic",
+    "score2": 5,
     "forfeit": false,
     "extra_innings": false
   },
@@ -5671,15 +5869,6 @@
   },
   {
     "date": "2026-08-30",
-    "team1": "Marshall",
-    "score1": null,
-    "team2": "Carrollton",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-08-30",
     "team1": "Walnut Grove",
     "score1": null,
     "team2": "Halfway",
@@ -5692,33 +5881,6 @@
     "team1": "Ozark",
     "score1": null,
     "team2": "Halfway",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-08-30",
-    "team1": "Fort Osage",
-    "score1": null,
-    "team2": "Odessa",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-08-30",
-    "team1": "William Chrisman",
-    "score1": null,
-    "team2": "Odessa",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-08-30",
-    "team1": "Valley Park",
-    "score1": null,
-    "team2": "St. Charles West with St. Charles",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -6013,6 +6175,15 @@
   },
   {
     "date": "2026-08-31",
+    "team1": "Vienna",
+    "score1": 4,
+    "team2": "New Bloomfield",
+    "score2": 5,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-08-31",
     "team1": "Russellville",
     "score1": 1,
     "team2": "North Callaway",
@@ -6229,19 +6400,19 @@
   },
   {
     "date": "2026-08-31",
-    "team1": "Vienna",
+    "team1": "Maplewood-Richmond Hts. with Brentwood",
     "score1": null,
-    "team2": "New Bloomfield",
+    "team2": "Pattonville",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
   },
   {
-    "date": "2026-08-31",
-    "team1": "Maplewood-Richmond Hts. with Brentwood",
-    "score1": null,
-    "team2": "Pattonville",
-    "score2": null,
+    "date": "2026-09-01",
+    "team1": "Vienna",
+    "score1": 5,
+    "team2": "Albany",
+    "score2": 3,
     "forfeit": false,
     "extra_innings": false
   },
@@ -6260,6 +6431,15 @@
     "score1": 11,
     "team2": "Benton",
     "score2": 15,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "East Buchanan",
+    "score1": 13,
+    "team2": "Bishop LeBlond",
+    "score2": 12,
     "forfeit": false,
     "extra_innings": false
   },
@@ -6286,6 +6466,15 @@
     "team1": "Aurora",
     "score1": 7,
     "team2": "Branson",
+    "score2": 2,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Worth County",
+    "score1": 15,
+    "team2": "Brashear",
     "score2": 2,
     "forfeit": false,
     "extra_innings": false
@@ -6328,10 +6517,46 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "Seneca",
+    "score1": 0,
+    "team2": "Carthage",
+    "score2": 15,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Logan-Rogersville",
+    "score1": 6,
+    "team2": "Cassville",
+    "score2": 1,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "East Carter",
     "score1": 11,
     "team2": "Central (Cape Girardeau)",
     "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Kelly",
+    "score1": 0,
+    "team2": "Chaffee",
+    "score2": 12,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Kirksville",
+    "score1": 9,
+    "team2": "Clark County",
+    "score2": 1,
     "forfeit": false,
     "extra_innings": false
   },
@@ -6355,6 +6580,15 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "Pacific",
+    "score1": 18,
+    "team2": "Cuba",
+    "score2": 0,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "Humansville",
     "score1": 7,
     "team2": "Dadeville with Everton",
@@ -6364,10 +6598,55 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "Perryville",
+    "score1": 9,
+    "team2": "East Carter",
+    "score2": 1,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Fulton",
+    "score1": 2,
+    "team2": "Eldon",
+    "score2": 12,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "Francis Howell North",
     "score1": 1,
     "team2": "Eureka",
     "score2": 11,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Kirkwood",
+    "score1": 3,
+    "team2": "Eureka",
+    "score2": 7,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Macks Creek",
+    "score1": 17,
+    "team2": "Fair Play",
+    "score2": 1,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Southern Boone",
+    "score1": 1,
+    "team2": "Fatima",
+    "score2": 0,
     "forfeit": false,
     "extra_innings": false
   },
@@ -6391,6 +6670,15 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "Troy Buchanan",
+    "score1": 10,
+    "team2": "Francis Howell Central",
+    "score2": 1,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "Parkway Central",
     "score1": 2,
     "team2": "Francis Howell North",
@@ -6409,9 +6697,36 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "Francis Howell",
+    "score1": 0,
+    "team2": "Ft. Zumwalt West",
+    "score2": 2,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "Winnetonka",
     "score1": 7,
     "team2": "Grandview",
+    "score2": 9,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Meadville",
+    "score1": 12,
+    "team2": "Green City",
+    "score2": 22,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Osage",
+    "score1": 7,
+    "team2": "Halfway",
     "score2": 9,
     "forfeit": false,
     "extra_innings": false
@@ -6431,6 +6746,15 @@
     "score1": 0,
     "team2": "Helias Catholic",
     "score2": 12,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Boonville",
+    "score1": 7,
+    "team2": "Hickman",
+    "score2": 8,
     "forfeit": false,
     "extra_innings": false
   },
@@ -6499,6 +6823,33 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "Parkway Central",
+    "score1": 20,
+    "team2": "Kirkwood",
+    "score2": 2,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Schuyler County",
+    "score1": 17,
+    "team2": "La Plata",
+    "score2": 3,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Ursuline Academy",
+    "score1": 11,
+    "team2": "Ladue Horton Watkins",
+    "score2": 5,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "Lee's Summit North",
     "score1": 8,
     "team2": "Lee's Summit",
@@ -6535,9 +6886,54 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "Paris",
+    "score1": 1,
+    "team2": "Mark Twain",
+    "score2": 3,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "St. Teresa's Academy",
+    "score1": 7,
+    "team2": "Marshall",
+    "score2": 8,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Polo",
+    "score1": 8,
+    "team2": "Maysville",
+    "score2": 15,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "Chillicothe",
     "score1": 5,
     "team2": "Mid-Buchanan",
+    "score2": 3,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Hermitage",
+    "score1": 13,
+    "team2": "Montrose with Appleton City",
+    "score2": 7,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Harrisonville",
+    "score1": 17,
+    "team2": "Nevada",
     "score2": 3,
     "forfeit": false,
     "extra_innings": false
@@ -6548,6 +6944,15 @@
     "score1": 12,
     "team2": "Newburg",
     "score2": 2,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "South Callaway",
+    "score1": 10,
+    "team2": "North Callaway",
+    "score2": 9,
     "forfeit": false,
     "extra_innings": false
   },
@@ -6580,6 +6985,15 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "Stewartsville with Osborn",
+    "score1": 7,
+    "team2": "Northeast Nodaway",
+    "score2": 18,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "St. Joseph's Academy",
     "score1": 9,
     "team2": "Owensville",
@@ -6589,10 +7003,37 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "Louisiana",
+    "score1": 2,
+    "team2": "Palmyra",
+    "score2": 13,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "Blue Springs South",
     "score1": 17,
     "team2": "Park Hill",
     "score2": 5,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Holt",
+    "score1": 2,
+    "team2": "Parkway West",
+    "score2": 11,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Cor Jesu Academy",
+    "score1": 3,
+    "team2": "Parkway West",
+    "score2": 1,
     "forfeit": false,
     "extra_innings": false
   },
@@ -6643,10 +7084,37 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "Carrollton",
+    "score1": 2,
+    "team2": "Salisbury",
+    "score2": 6,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "Trenton",
     "score1": 0,
     "team2": "Savannah",
     "score2": 15,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Glasgow",
+    "score1": 11,
+    "team2": "Slater",
+    "score2": 0,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Odessa",
+    "score1": 4,
+    "team2": "Smith-Cotton",
+    "score2": 9,
     "forfeit": false,
     "extra_innings": false
   },
@@ -6661,10 +7129,46 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "Lutheran St. Charles with Veritas Christian Academy",
+    "score1": 0,
+    "team2": "St. Dominic",
+    "score2": 13,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Webster Groves",
+    "score1": 0,
+    "team2": "St. Joseph's Academy",
+    "score2": 10,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Saxony Lutheran with St. Vincent",
+    "score1": 12,
+    "team2": "St. Pius X (Festus)",
+    "score2": 0,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "Smithville",
-    "score1": 1,
+    "score1": 2,
     "team2": "Staley",
     "score2": 6,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "Blue Springs",
+    "score1": 4,
+    "team2": "Truman",
+    "score2": 1,
     "forfeit": false,
     "extra_innings": false
   },
@@ -6679,10 +7183,28 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "St. Charles West with St. Charles",
+    "score1": 4,
+    "team2": "Warrenton",
+    "score2": 5,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "Ft. Zumwalt South",
     "score1": 1,
     "team2": "Washington",
     "score2": 16,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
+    "team1": "McDonald County",
+    "score1": 4,
+    "team2": "Webb City",
+    "score2": 14,
     "forfeit": false,
     "extra_innings": false
   },
@@ -6697,6 +7219,15 @@
   },
   {
     "date": "2026-09-01",
+    "team1": "Northeast (Cairo)",
+    "score1": 18,
+    "team2": "Westran",
+    "score2": 2,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-01",
     "team1": "Ozark",
     "score1": 2,
     "team2": "Willard",
@@ -6706,46 +7237,19 @@
   },
   {
     "date": "2026-09-01",
-    "team1": "Vienna",
-    "score1": null,
-    "team2": "Albany",
-    "score2": null,
+    "team1": "Lindbergh",
+    "score1": 4,
+    "team2": "Windsor (Imperial)",
+    "score2": 12,
     "forfeit": false,
     "extra_innings": false
   },
   {
     "date": "2026-09-01",
-    "team1": "East Buchanan",
-    "score1": null,
-    "team2": "Bishop LeBlond",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Worth County",
-    "score1": null,
-    "team2": "Brashear",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Seneca",
-    "score1": null,
-    "team2": "Carthage",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Logan-Rogersville",
-    "score1": null,
-    "team2": "Cassville",
-    "score2": null,
+    "team1": "North Andrew",
+    "score1": 0,
+    "team2": "Worth County",
+    "score2": 2,
     "forfeit": false,
     "extra_innings": false
   },
@@ -6769,108 +7273,9 @@
   },
   {
     "date": "2026-09-01",
-    "team1": "Kelly",
-    "score1": null,
-    "team2": "Chaffee",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Kirksville",
-    "score1": null,
-    "team2": "Clark County",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
     "team1": "Canton",
     "score1": null,
     "team2": "Clopton with Elsberry",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Pacific",
-    "score1": null,
-    "team2": "Cuba",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Perryville",
-    "score1": null,
-    "team2": "East Carter",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Fulton",
-    "score1": null,
-    "team2": "Eldon",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Macks Creek",
-    "score1": null,
-    "team2": "Fair Play",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Southern Boone",
-    "score1": null,
-    "team2": "Fatima",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Troy Buchanan",
-    "score1": null,
-    "team2": "Francis Howell Central",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Francis Howell",
-    "score1": null,
-    "team2": "Ft. Zumwalt West",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Meadville",
-    "score1": null,
-    "team2": "Green City",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Osage",
-    "score1": null,
-    "team2": "Halfway",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -6886,63 +7291,9 @@
   },
   {
     "date": "2026-09-01",
-    "team1": "Boonville",
-    "score1": null,
-    "team2": "Hickman",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Schuyler County",
-    "score1": null,
-    "team2": "La Plata",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Ursuline Academy",
-    "score1": null,
-    "team2": "Ladue Horton Watkins",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
     "team1": "Maryville",
     "score1": null,
     "team2": "Lathrop",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Belton",
-    "score1": null,
-    "team2": "Lee's Summit West",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Paris",
-    "score1": null,
-    "team2": "Mark Twain",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "St. Teresa's Academy",
-    "score1": null,
-    "team2": "Marshall",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -6958,63 +7309,9 @@
   },
   {
     "date": "2026-09-01",
-    "team1": "Polo",
-    "score1": null,
-    "team2": "Maysville",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Hermitage",
-    "score1": null,
-    "team2": "Montrose with Appleton City",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
     "team1": "Sikeston",
     "score1": null,
     "team2": "Naylor",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Harrisonville",
-    "score1": null,
-    "team2": "Nevada",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "South Callaway",
-    "score1": null,
-    "team2": "North Callaway",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Stewartsville with Osborn",
-    "score1": null,
-    "team2": "Northeast Nodaway",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Louisiana",
-    "score1": null,
-    "team2": "Palmyra",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -7048,87 +7345,6 @@
   },
   {
     "date": "2026-09-01",
-    "team1": "Carrollton",
-    "score1": null,
-    "team2": "Salisbury",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Glasgow",
-    "score1": null,
-    "team2": "Slater",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Odessa",
-    "score1": null,
-    "team2": "Smith-Cotton",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Lutheran St. Charles with Veritas Christian Academy",
-    "score1": null,
-    "team2": "St. Dominic",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Webster Groves",
-    "score1": null,
-    "team2": "St. Joseph's Academy",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Saxony Lutheran with St. Vincent",
-    "score1": null,
-    "team2": "St. Pius X (Festus)",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "Blue Springs",
-    "score1": null,
-    "team2": "Truman",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "St. Charles West with St. Charles",
-    "score1": null,
-    "team2": "Warrenton",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
-    "team1": "McDonald County",
-    "score1": null,
-    "team2": "Webb City",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-01",
     "team1": "Marquette",
     "score1": null,
     "team2": "Webster Groves",
@@ -7137,29 +7353,290 @@
     "extra_innings": false
   },
   {
-    "date": "2026-09-01",
-    "team1": "Northeast (Cairo)",
-    "score1": null,
-    "team2": "Westran",
-    "score2": null,
+    "date": "2026-09-02",
+    "team1": "North Platte",
+    "score1": 16,
+    "team2": "Bishop LeBlond",
+    "score2": 3,
     "forfeit": false,
     "extra_innings": false
   },
   {
-    "date": "2026-09-01",
-    "team1": "Lindbergh",
-    "score1": null,
-    "team2": "Windsor (Imperial)",
-    "score2": null,
+    "date": "2026-09-02",
+    "team1": "Sherwood",
+    "score1": 17,
+    "team2": "Clinton",
+    "score2": 14,
     "forfeit": false,
     "extra_innings": false
   },
   {
-    "date": "2026-09-01",
-    "team1": "North Andrew",
-    "score1": null,
-    "team2": "Worth County",
-    "score2": null,
+    "date": "2026-09-02",
+    "team1": "Maysville",
+    "score1": 6,
+    "team2": "DeKalb",
+    "score2": 4,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Pleasant Hill",
+    "score1": 6,
+    "team2": "Excelsior Springs",
+    "score2": 1,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "North Point",
+    "score1": 8,
+    "team2": "Francis Howell Central",
+    "score2": 10,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Westminster Christian Academy",
+    "score1": 4,
+    "team2": "Francis Howell North",
+    "score2": 5,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Washington",
+    "score1": 4,
+    "team2": "Ft. Zumwalt West",
+    "score2": 11,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Hallsville with Christian Fellowship Sr.",
+    "score1": 0,
+    "team2": "Harrisburg",
+    "score2": 7,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Lone Jack",
+    "score1": 3,
+    "team2": "Holden",
+    "score2": 10,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Warrensburg",
+    "score1": 18,
+    "team2": "Jefferson City",
+    "score2": 6,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Branson",
+    "score1": 8,
+    "team2": "Kickapoo",
+    "score2": 13,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Holt",
+    "score1": 19,
+    "team2": "Kirkwood",
+    "score2": 7,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "St. Joseph's Academy",
+    "score1": 0,
+    "team2": "Lafayette (Wildwood)",
+    "score2": 10,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Jackson",
+    "score1": 0,
+    "team2": "Lindbergh",
+    "score2": 4,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Capital City",
+    "score1": 3,
+    "team2": "Linn",
+    "score2": 2,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Oakville",
+    "score1": 17,
+    "team2": "Lutheran South",
+    "score2": 6,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Oak Grove",
+    "score1": 11,
+    "team2": "Marshall",
+    "score2": 0,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Putnam County",
+    "score1": 20,
+    "team2": "Mercer with Cainsville, Ridgeway",
+    "score2": 0,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Bowling Green",
+    "score1": 4,
+    "team2": "Mexico",
+    "score2": 15,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Mark Twain",
+    "score1": 12,
+    "team2": "Monroe City",
+    "score2": 9,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Laquey",
+    "score1": 0,
+    "team2": "Newburg",
+    "score2": 10,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Festus",
+    "score1": 10,
+    "team2": "Northwest (Cedar Hill)",
+    "score2": 4,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Chaffee",
+    "score1": 7,
+    "team2": "Notre Dame (Cape Girardeau)",
+    "score2": 5,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Benton",
+    "score1": 17,
+    "team2": "Oak Park",
+    "score2": 2,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Ft. Zumwalt North",
+    "score1": 18,
+    "team2": "Orchard Farm",
+    "score2": 3,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "South Shelby",
+    "score1": 6,
+    "team2": "Paris",
+    "score2": 12,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Platte County",
+    "score1": 16,
+    "team2": "Park Hill South",
+    "score2": 6,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Gilman City with Tri-County",
+    "score1": 19,
+    "team2": "Plattsburg",
+    "score2": 1,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Princeton with Mercer",
+    "score1": 13,
+    "team2": "Schuyler County",
+    "score2": 2,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Warrenton",
+    "score1": 2,
+    "team2": "St. Joseph's Academy",
+    "score2": 7,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Mid-Buchanan",
+    "score1": 14,
+    "team2": "St. Pius X (Kansas City)",
+    "score2": 2,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-02",
+    "team1": "Polo",
+    "score1": 11,
+    "team2": "Stewartsville with Osborn",
+    "score2": 5,
     "forfeit": false,
     "extra_innings": false
   },
@@ -7168,24 +7645,6 @@
     "team1": "Hancock",
     "score1": null,
     "team2": "Affton",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Oak Park",
-    "score1": null,
-    "team2": "Benton",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "North Platte",
-    "score1": null,
-    "team2": "Bishop LeBlond",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -7201,72 +7660,9 @@
   },
   {
     "date": "2026-09-02",
-    "team1": "Sherwood",
+    "team1": "Cor Jesu Academy",
     "score1": null,
-    "team2": "Clinton",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Lebanon",
-    "score1": null,
-    "team2": "Cuba",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Maysville",
-    "score1": null,
-    "team2": "DeKalb",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Pleasant Hill",
-    "score1": null,
-    "team2": "Excelsior Springs",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "North Point",
-    "score1": null,
-    "team2": "Francis Howell Central",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Westminster Christian Academy",
-    "score1": null,
-    "team2": "Francis Howell North",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Washington",
-    "score1": null,
-    "team2": "Ft. Zumwalt West",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Hallsville with Christian Fellowship Sr.",
-    "score1": null,
-    "team2": "Harrisburg",
+    "team2": "Eureka",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -7276,15 +7672,6 @@
     "team1": "North Shelby",
     "score1": null,
     "team2": "Highland",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Lone Jack",
-    "score1": null,
-    "team2": "Holden",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -7309,36 +7696,9 @@
   },
   {
     "date": "2026-09-02",
-    "team1": "Warrensburg",
-    "score1": null,
-    "team2": "Jefferson City",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Branson",
-    "score1": null,
-    "team2": "Kickapoo",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
     "team1": "Ruskin",
     "score1": null,
     "team2": "Knob Noster",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "St. Joseph's Academy",
-    "score1": null,
-    "team2": "Lafayette (Wildwood)",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -7354,63 +7714,9 @@
   },
   {
     "date": "2026-09-02",
-    "team1": "Jackson",
-    "score1": null,
-    "team2": "Lindbergh",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Capital City",
-    "score1": null,
-    "team2": "Linn",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Oakville",
-    "score1": null,
-    "team2": "Lutheran South",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Oak Grove",
-    "score1": null,
-    "team2": "Marshall",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
     "team1": "McCluer North",
     "score1": null,
     "team2": "Mehlville",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Putnam County",
-    "score1": null,
-    "team2": "Mercer with Cainsville, Ridgeway",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Bowling Green",
-    "score1": null,
-    "team2": "Mexico",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -7426,36 +7732,9 @@
   },
   {
     "date": "2026-09-02",
-    "team1": "Mark Twain",
-    "score1": null,
-    "team2": "Monroe City",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
     "team1": "Notre Dame de Sion",
     "score1": null,
     "team2": "North Kansas City",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Festus",
-    "score1": null,
-    "team2": "Northwest (Cedar Hill)",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Chaffee",
-    "score1": null,
-    "team2": "Notre Dame (Cape Girardeau)",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -7471,36 +7750,9 @@
   },
   {
     "date": "2026-09-02",
-    "team1": "Ft. Zumwalt North",
+    "team1": "Parkway West",
     "score1": null,
-    "team2": "Orchard Farm",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "South Shelby",
-    "score1": null,
-    "team2": "Paris",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Platte County",
-    "score1": null,
-    "team2": "Park Hill South",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Gilman City with Tri-County",
-    "score1": null,
-    "team2": "Plattsburg",
+    "team2": "Parkway Central",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -7510,42 +7762,6 @@
     "team1": "North County",
     "score1": null,
     "team2": "Poplar Bluff",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Princeton with Mercer",
-    "score1": null,
-    "team2": "Schuyler County",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Warrenton",
-    "score1": null,
-    "team2": "St. Joseph's Academy",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Mid-Buchanan",
-    "score1": null,
-    "team2": "St. Pius X (Kansas City)",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Polo",
-    "score1": null,
-    "team2": "Stewartsville with Osborn",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -7564,15 +7780,6 @@
     "team1": "DeSoto with Kingston",
     "score1": null,
     "team2": "Union",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-02",
-    "team1": "Lutheran St. Charles with Veritas Christian Academy",
-    "score1": null,
-    "team2": "Valley Park",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -7726,6 +7933,15 @@
     "team1": "Incarnate Word Academy",
     "score1": null,
     "team2": "Cor Jesu Academy",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Kelly",
+    "score1": null,
+    "team2": "Doniphan",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -7924,6 +8140,15 @@
     "team1": "Waynesville",
     "score1": null,
     "team2": "Joplin",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-03",
+    "team1": "Saxony Lutheran with St. Vincent",
+    "score1": null,
+    "team2": "Kelly",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -8254,6 +8479,15 @@
   },
   {
     "date": "2026-09-03",
+    "team1": "Newburg",
+    "score1": null,
+    "team2": "Richland",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-03",
     "team1": "Lutheran St. Charles with Veritas Christian Academy",
     "score1": null,
     "team2": "Ritenour",
@@ -8560,9 +8794,18 @@
   },
   {
     "date": "2026-09-04",
-    "team1": "St. Pius X (Festus)",
+    "team1": "Branson",
     "score1": null,
-    "team2": "Chaffee",
+    "team2": "Carl Junction",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-04",
+    "team1": "Bolivar",
+    "score1": null,
+    "team2": "Carl Junction",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -8731,6 +8974,15 @@
   },
   {
     "date": "2026-09-04",
+    "team1": "Notre Dame (Cape Girardeau)",
+    "score1": null,
+    "team2": "Kelly",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-04",
     "team1": "Ozark",
     "score1": null,
     "team2": "Lee's Summit North",
@@ -8806,15 +9058,6 @@
     "team1": "Wheatland",
     "score1": null,
     "team2": "Norwood",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-04",
-    "team1": "St. Pius X (Festus)",
-    "score1": null,
-    "team2": "Notre Dame (Cape Girardeau)",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -8941,15 +9184,6 @@
     "team1": "Warrenton",
     "score1": null,
     "team2": "Wright City",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-05",
-    "team1": "St. Pius X (Festus)",
-    "score1": null,
-    "team2": "Central (Cape Girardeau)",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -11233,6 +11467,15 @@
   },
   {
     "date": "2026-09-10",
+    "team1": "North Kansas City",
+    "score1": null,
+    "team2": "Liberty",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-10",
     "team1": "Francis Howell Central",
     "score1": null,
     "team2": "Liberty (Wentzville)",
@@ -11434,15 +11677,6 @@
     "team1": "Worth County",
     "score1": null,
     "team2": "North Harrison",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-10",
-    "team1": "Liberty",
-    "score1": null,
-    "team2": "North Kansas City",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -11929,6 +12163,15 @@
     "team1": "Sherwood",
     "score1": null,
     "team2": "Clinton",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-11",
+    "team1": "Canton",
+    "score1": null,
+    "team2": "Clopton with Elsberry",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -12529,6 +12772,24 @@
   },
   {
     "date": "2026-09-12",
+    "team1": "Ritenour",
+    "score1": null,
+    "team2": "DeSoto with Kingston",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-12",
+    "team1": "Webster Groves",
+    "score1": null,
+    "team2": "DeSoto with Kingston",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-12",
     "team1": "Westminster Christian Academy",
     "score1": null,
     "team2": "Elsberry",
@@ -12691,6 +12952,24 @@
   },
   {
     "date": "2026-09-12",
+    "team1": "Owensville",
+    "score1": null,
+    "team2": "Lafayette County",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-12",
+    "team1": "Polo",
+    "score1": null,
+    "team2": "Lathrop",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-12",
     "team1": "Van-Far",
     "score1": null,
     "team2": "Lee's Summit",
@@ -12745,6 +13024,15 @@
   },
   {
     "date": "2026-09-12",
+    "team1": "Vienna",
+    "score1": null,
+    "team2": "Osage",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-12",
     "team1": "New Bloomfield",
     "score1": null,
     "team2": "Paris",
@@ -12766,6 +13054,15 @@
     "team1": "Highland",
     "score1": null,
     "team2": "Schuyler County",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-12",
+    "team1": "Lathrop",
+    "score1": null,
+    "team2": "Slater",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -12827,6 +13124,15 @@
   {
     "date": "2026-09-12",
     "team1": "Hartville",
+    "score1": null,
+    "team2": "Waynesville",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-12",
+    "team1": "Vienna",
     "score1": null,
     "team2": "Waynesville",
     "score2": null,
@@ -13432,6 +13738,15 @@
     "team1": "Sherwood",
     "score1": null,
     "team2": "Pleasant Hill",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-14",
+    "team1": "Saxony Lutheran with St. Vincent",
+    "score1": null,
+    "team2": "Poplar Bluff",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -14806,6 +15121,15 @@
   },
   {
     "date": "2026-09-16",
+    "team1": "Linn County",
+    "score1": null,
+    "team2": "Bevier",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-16",
     "team1": "Kelly",
     "score1": null,
     "team2": "Central (Cape Girardeau)",
@@ -14818,6 +15142,15 @@
     "team1": "Hannibal",
     "score1": null,
     "team2": "Clark County",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-16",
+    "team1": "Lebanon",
+    "score1": null,
+    "team2": "Cuba",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -14962,15 +15295,6 @@
     "team1": "St. Joseph's Academy",
     "score1": null,
     "team2": "Lutheran St. Charles with Veritas Christian Academy",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-16",
-    "team1": "South Shelby",
-    "score1": null,
-    "team2": "Mark Twain",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -15994,6 +16318,15 @@
   },
   {
     "date": "2026-09-17",
+    "team1": "Notre Dame (St. Louis)",
+    "score1": null,
+    "team2": "St. Pius X (Festus)",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-17",
     "team1": "Cameron",
     "score1": null,
     "team2": "St. Pius X (Kansas City)",
@@ -16069,15 +16402,6 @@
     "team1": "Hazelwood West",
     "score1": null,
     "team2": "University City",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-17",
-    "team1": "Windsor (Imperial)",
-    "score1": null,
-    "team2": "Valley Park",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -16291,9 +16615,27 @@
   },
   {
     "date": "2026-09-18",
+    "team1": "Washington",
+    "score1": null,
+    "team2": "Hillsboro",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-18",
     "team1": "Northwest (Cedar Hill)",
     "score1": null,
     "team2": "Jackson",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-18",
+    "team1": "Webster Groves",
+    "score1": null,
+    "team2": "Kirkwood",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -16678,9 +17020,27 @@
   },
   {
     "date": "2026-09-19",
+    "team1": "Kirkwood",
+    "score1": null,
+    "team2": "Hillsboro",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-19",
     "team1": "Holt",
     "score1": null,
     "team2": "Jackson",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-19",
+    "team1": "Washington",
+    "score1": null,
+    "team2": "Kirkwood",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -16823,6 +17183,15 @@
   {
     "date": "2026-09-19",
     "team1": "Kirkwood",
+    "score1": null,
+    "team2": "Webster Groves",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-19",
+    "team1": "Washington",
     "score1": null,
     "team2": "Webster Groves",
     "score2": null,
@@ -19165,6 +19534,15 @@
     "team1": "Parkway Central",
     "score1": null,
     "team2": "Webster Groves",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-23",
+    "team1": "St. Pius X (Kansas City)",
+    "score1": null,
+    "team2": "West Platte",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -21601,15 +21979,6 @@
   },
   {
     "date": "2026-09-28",
-    "team1": "Fox",
-    "score1": null,
-    "team2": "Valley Park",
-    "score2": null,
-    "forfeit": false,
-    "extra_innings": false
-  },
-  {
-    "date": "2026-09-28",
     "team1": "Wellsville-Middletown",
     "score1": null,
     "team2": "Van-Far with Community",
@@ -22924,6 +23293,15 @@
   },
   {
     "date": "2026-09-30",
+    "team1": "Linn",
+    "score1": null,
+    "team2": "Iberia",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-30",
     "team1": "Notre Dame (St. Louis)",
     "score1": null,
     "team2": "Incarnate Word Academy",
@@ -22963,6 +23341,15 @@
     "team1": "Cameron",
     "score1": null,
     "team2": "Marceline",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-09-30",
+    "team1": "South Shelby",
+    "score1": null,
+    "team2": "Mark Twain",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
@@ -24124,6 +24511,15 @@
     "team1": "Norwood",
     "score1": null,
     "team2": "St. Clair",
+    "score2": null,
+    "forfeit": false,
+    "extra_innings": false
+  },
+  {
+    "date": "2026-10-01",
+    "team1": "Lutheran St. Charles with Veritas Christian Academy",
+    "score1": null,
+    "team2": "Valley Park",
     "score2": null,
     "forfeit": false,
     "extra_innings": false
