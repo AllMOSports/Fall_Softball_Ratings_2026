@@ -898,6 +898,7 @@ date,team1,score1,team2,score2,forfeit,extra_innings
 2026-09-03,Blair Oaks,8,Eugene,7,False,False
 2026-09-03,St. Elizabeth,10,Excelsior Springs,7,False,False
 2026-09-03,North County,6,Farmington,15,False,False
+2026-09-03,Union,2,Fatima,9,False,False
 2026-09-03,Worth County,2,Fayette,15,False,False
 2026-09-03,Blue Springs,4,Fort Osage,1,False,False
 2026-09-03,Liberty (Wentzville),0,Francis Howell,15,False,False
@@ -909,6 +910,7 @@ date,team1,score1,team2,score2,forfeit,extra_innings
 2026-09-03,Aurora,13,Hartville,3,False,False
 2026-09-03,Community,18,Hermann with New Haven,11,False,False
 2026-09-03,Humansville,13,Hermitage,16,False,False
+2026-09-03,Webster Groves,14,Incarnate Word Academy,13,False,False
 2026-09-03,Waynesville,4,Joplin,14,False,False
 2026-09-03,Saxony Lutheran with St. Vincent,6,Kelly,7,False,False
 2026-09-03,Webster Groves,2,Kirkwood,1,False,False
@@ -926,6 +928,7 @@ date,team1,score1,team2,score2,forfeit,extra_innings
 2026-09-03,Palmyra,0,Mark Twain,10,False,False
 2026-09-03,Northwest (Cedar Hill),5,Marquette,8,False,False
 2026-09-03,Cassville,1,Marshfield,5,False,False
+2026-09-03,Pattonville,17,McCluer North,0,False,False
 2026-09-03,Macon,10,Monroe City,7,False,False
 2026-09-03,East Carter,10,Naylor,4,False,False
 2026-09-03,Glendale,0,Neosho,11,False,False
@@ -946,6 +949,7 @@ date,team1,score1,team2,score2,forfeit,extra_innings
 2026-09-03,Lutheran St. Charles with Veritas Christian Academy,11,Ritenour,12,False,False
 2026-09-03,Hickman,5,Rolla,0,False,False
 2026-09-03,Camdenton,5,Russellville,15,False,False
+2026-09-03,Mid-Buchanan,8,Savannah,15,False,False
 2026-09-03,St. Clair,23,Sikeston,11,False,False
 2026-09-03,Montgomery County,4,Silex,3,False,False
 2026-09-03,New Franklin,0,Slater,8,False,False
@@ -971,25 +975,23 @@ date,team1,score1,team2,score2,forfeit,extra_innings
 2026-09-03,Lathrop,,Brookfield,,False,False
 2026-09-03,Truman,,Central (St. Joseph),,False,False
 2026-09-03,Wellsville-Middletown,,Clopton with Elsberry,,False,False
-2026-09-03,Union,,Fatima,,False,False
 2026-09-03,Helias Catholic,,Grain Valley,,False,False
 2026-09-03,"Mercer with Cainsville, Ridgeway",,Grundy County with Newtown-Harris,,False,False
-2026-09-03,Webster Groves,,Incarnate Word Academy,,False,False
 2026-09-03,Affton,,Jefferson (Festus),,False,False
 2026-09-03,Moberly,,Kirksville,,False,False
-2026-09-03,Pattonville,,McCluer North,,False,False
 2026-09-03,Fair Play,,Montrose with Appleton City,,False,False
 2026-09-03,Lee's Summit West,,Raymore-Peculiar,,False,False
-2026-09-03,Mid-Buchanan,,Savannah,,False,False
 2026-09-03,North Point,,Timberland,,False,False
 2026-09-03,St. Joseph's Academy,,Ursuline Academy,,False,False
 2026-09-03,Perryville,,Windsor (Imperial),,False,False
 2026-09-03,North Kansas City,,Winnetonka,,False,False
 2026-09-04,Branson,13,Bolivar,16,False,False
+2026-09-04,Linn County,15,Brashear,2,False,False
 2026-09-04,Green City,2,"Brunswick with Keytesville, Northwestern (Mendon)",12,False,False
 2026-09-04,Bolivar,8,Carl Junction,9,False,False
 2026-09-04,Westminster Christian Academy,7,Elsberry,2,False,False
 2026-09-04,Battle,4,Father Tolton with Calvary Lutheran,7,False,False
+2026-09-04,Capital City,2,Fatima,12,False,False
 2026-09-04,Francis Howell Central,1,Festus,3,False,False
 2026-09-04,Ft. Zumwalt West,9,Festus,4,False,False
 2026-09-04,St. Dominic,5,Francis Howell Central,5,False,False
@@ -999,51 +1001,56 @@ date,team1,score1,team2,score2,forfeit,extra_innings
 2026-09-04,Marshfield,22,Hillcrest,0,False,False
 2026-09-04,Ft. Zumwalt South,14,Holt,,False,False
 2026-09-04,Webster Groves,14,Incarnate Word Academy,13,False,False
+2026-09-04,Kelly,4,Jackson,3,False,False
+2026-09-04,Chaffee,12,Jackson,6,False,False
 2026-09-04,Van-Far,11,Jefferson City,0,False,False
 2026-09-04,Ozark,9,Joplin,1,False,False
 2026-09-04,Lee's Summit North,6,Joplin,0,False,False
 2026-09-04,Ozark,8,Lee's Summit North,6,False,False
+2026-09-04,Weaubleau,17,Macks Creek,1,False,False
 2026-09-04,Logan-Rogersville,0,Marshfield,1,False,False
+2026-09-04,St. Clair,19,Naylor,7,False,False
 2026-09-04,Madison,10,New Franklin,8,False,False
+2026-09-04,Wheatland,2,Norwood,3,False,False
 2026-09-04,Webb City,8,Park Hill South,5,False,False
 2026-09-04,Neosho,8,Park Hill South,7,False,False
 2026-09-04,Raymore-Peculiar,15,Park Hill South,1,False,False
 2026-09-04,Webb City,1,Raymore-Peculiar,1,False,False
+2026-09-04,Neosho,2,Raymore-Peculiar,14,False,False
 2026-09-04,Republic,8,Smith-Cotton,2,False,False
 2026-09-04,Neosho,6,Webb City,9,False,False
+2026-09-04,Warrenton,9,Wright City,1,False,False
 2026-09-04,Marion County,,Bevier,,False,False
 2026-09-04,McDonald County,,Blue Springs,,False,False
 2026-09-04,Carthage,,Blue Springs,,False,False
-2026-09-04,Linn County,,Brashear,,False,False
 2026-09-04,Branson,,Carl Junction,,False,False
 2026-09-04,McDonald County,,Carthage,,False,False
-2026-09-04,Capital City,,Fatima,,False,False
 2026-09-04,Oakville,,Francis Howell,,False,False
 2026-09-04,Lafayette (Wildwood),,Ft. Zumwalt West,,False,False
 2026-09-04,Humansville,,Halfway,,False,False
 2026-09-04,Clark County,,Harrisburg,,False,False
-2026-09-04,Kelly,,Jackson,,False,False
-2026-09-04,Chaffee,,Jackson,,False,False
 2026-09-04,Notre Dame (Cape Girardeau),,Kelly,,False,False
-2026-09-04,Weaubleau,,Macks Creek,,False,False
 2026-09-04,Rockwood Summit,,Marquette,,False,False
 2026-09-04,Walnut Grove,,Montrose with Appleton City,,False,False
-2026-09-04,St. Clair,,Naylor,,False,False
 2026-09-04,Northeast (Cairo),,New Bloomfield,,False,False
 2026-09-04,Seckman,,North County,,False,False
-2026-09-04,Wheatland,,Norwood,,False,False
 2026-09-04,Lincoln College Prep,,Notre Dame de Sion,,False,False
 2026-09-04,Parkway South,,Parkway North with Principia,,False,False
 2026-09-04,Winfield,,Parkway West,,False,False
-2026-09-04,Neosho,,Raymore-Peculiar,,False,False
 2026-09-04,Lee's Summit West,,Summit Christian Academy,,False,False
 2026-09-04,Climax Springs,,Tuscumbia,,False,False
 2026-09-04,St. Charles West with St. Charles,,Ursuline Academy,,False,False
-2026-09-04,Warrenton,,Wright City,,False,False
-2026-09-05,St. Dominic,,Festus,,False,False
-2026-09-05,Lafayette (Wildwood),,Festus,,False,False
-2026-09-05,Highland,,Francis Howell Central,,False,False
-2026-09-05,Highland,,Ft. Zumwalt West,,False,False
+2026-09-05,Park Hill South,9,Carthage,8,False,False
+2026-09-05,St. Dominic,2,Festus,0,False,False
+2026-09-05,Lafayette (Wildwood),7,Festus,1,False,False
+2026-09-05,Highland,14,Francis Howell Central,2,False,False
+2026-09-05,Highland,0,Ft. Zumwalt West,11,False,False
+2026-09-05,Park Hill South,6,Joplin,4,False,False
+2026-09-05,Neosho,2,Lee's Summit North,14,False,False
+2026-09-05,McDonald County,3,Lee's Summit North,6,False,False
+2026-09-05,Neosho,3,McDonald County,7,False,False
+2026-09-05,Battle,6,Mexico,17,False,False
+2026-09-05,Webb City,7,Ozark,3,False,False
 2026-09-05,Windsor (Imperial),,Ft. Zumwalt West,,False,False
 2026-09-05,Father Tolton with Calvary Lutheran,,Grandview,,False,False
 2026-09-05,Grundy County with Newtown-Harris,,Green City,,False,False
@@ -1053,7 +1060,6 @@ date,team1,score1,team2,score2,forfeit,extra_innings
 2026-09-05,Eldon,,Lebanon,,False,False
 2026-09-05,Father Tolton with Calvary Lutheran,,Mexico,,False,False
 2026-09-05,Grandview,,Mexico,,False,False
-2026-09-05,Battle,,Mexico,,False,False
 2026-09-05,Knox County,,Monroe City,,False,False
 2026-09-05,St. Pius X (Festus),,Poplar Bluff,,False,False
 2026-09-07,Penney,,Brookfield,,False,False
@@ -1108,7 +1114,6 @@ date,team1,score1,team2,score2,forfeit,extra_innings
 2026-09-08,Festus,,Hillsboro,,False,False
 2026-09-08,Knob Noster,,Holden,,False,False
 2026-09-08,Winfield,,Holt,,False,False
-2026-09-08,Webster Groves,,Incarnate Word Academy,,False,False
 2026-09-08,Marquette,,Jackson,,False,False
 2026-09-08,Iberia,,Jamestown,,False,False
 2026-09-08,Northeast Nodaway,,Jefferson (Conception) with South Nodaway,,False,False
@@ -1212,8 +1217,8 @@ date,team1,score1,team2,score2,forfeit,extra_innings
 2026-09-09,Russellville,,Jamestown,,False,False
 2026-09-09,Helias Catholic,,Jefferson City,,False,False
 2026-09-09,Carl Junction,,Joplin,,False,False
-2026-09-09,Webster Groves,,Kirkwood,,False,False
 2026-09-09,Lindbergh,,Lafayette (Wildwood),,False,False
+2026-09-09,Webster Groves,,Lafayette (Wildwood),,False,False
 2026-09-09,Maryville,,Lawson,,False,False
 2026-09-09,Oak Park,,Lee's Summit North,,False,False
 2026-09-09,Benton,,Lincoln College Prep,,False,False
@@ -1324,6 +1329,7 @@ date,team1,score1,team2,score2,forfeit,extra_innings
 2026-09-10,Pacific,,Owensville,,False,False
 2026-09-10,Knox County,,Paris,,False,False
 2026-09-10,Fair Play,,Parkview,,False,False
+2026-09-10,Webster Groves,,Parkway South,,False,False
 2026-09-10,Parkway North with Principia,,Pattonville,,False,False
 2026-09-10,Hillsboro,,Perryville,,False,False
 2026-09-10,Truman,,Platte County,,False,False
@@ -1353,7 +1359,6 @@ date,team1,score1,team2,score2,forfeit,extra_innings
 2026-09-10,Incarnate Word Academy,,Ursuline Academy,,False,False
 2026-09-10,Winfield,,Warrenton,,False,False
 2026-09-10,Waynesville,,Webb City,,False,False
-2026-09-10,Oakville,,Webster Groves,,False,False
 2026-09-10,North Callaway,,Wellsville-Middletown,,False,False
 2026-09-10,Mid-Buchanan,,West Platte,,False,False
 2026-09-10,Glendale,,Willard,,False,False
@@ -1503,7 +1508,6 @@ date,team1,score1,team2,score2,forfeit,extra_innings
 2026-09-12,Republic,,Truman,,False,False
 2026-09-12,Hartville,,Waynesville,,False,False
 2026-09-12,Vienna,,Waynesville,,False,False
-2026-09-12,Kirkwood,,Webster Groves,,False,False
 2026-09-12,Ritenour,,Webster Groves,,False,False
 2026-09-14,Logan-Rogersville,,Aurora,,False,False
 2026-09-14,Camdenton,,Battle,,False,False
@@ -1954,8 +1958,8 @@ date,team1,score1,team2,score2,forfeit,extra_innings
 2026-09-19,St. Teresa's Academy,,Ruskin,,False,False
 2026-09-19,North Point,,Troy Buchanan,,False,False
 2026-09-19,Helias Catholic,,Troy Buchanan,,False,False
-2026-09-19,Kirkwood,,Webster Groves,,False,False
 2026-09-19,Washington,,Webster Groves,,False,False
+2026-09-19,Hillsboro,,Webster Groves,,False,False
 2026-09-19,Mid-Buchanan,,William Chrisman,,False,False
 2026-09-19,St. Joseph's Academy,,Winfield,,False,False
 2026-09-21,Worth County,,Atlanta,,False,False
@@ -2338,6 +2342,7 @@ date,team1,score1,team2,score2,forfeit,extra_innings
 2026-09-25,Warrenton,,Holt,,False,False
 2026-09-25,Parkview,,Humansville,,False,False
 2026-09-25,Rockwood Summit,,Kelly,,False,False
+2026-09-25,Webster Groves,,Kelly,,False,False
 2026-09-25,St. Pius X (Kansas City),,Lathrop,,False,False
 2026-09-25,St. Michael the Archangel,,Lathrop,,False,False
 2026-09-25,Troy Buchanan,,Liberty,,False,False
@@ -2366,6 +2371,7 @@ date,team1,score1,team2,score2,forfeit,extra_innings
 2026-09-25,Marshfield,,Wheatland,,False,False
 2026-09-25,Smith-Cotton,,Willard,,False,False
 2026-09-25,Notre Dame (Cape Girardeau),,Windsor (Imperial),,False,False
+2026-09-25,Webster Groves,,Windsor (Imperial),,False,False
 2026-09-26,Highland,,Bowling Green,,False,False
 2026-09-26,Macon,,Bowling Green,,False,False
 2026-09-26,Jefferson City,,Capital City,,False,False
