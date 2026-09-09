@@ -1,4 +1,4 @@
-name: Scrape MSHSAA Fall Softball Games (2026)
+name: Build Fall Softball Schedule (2026)
  
 on:
   # Manual trigger from the Actions tab
