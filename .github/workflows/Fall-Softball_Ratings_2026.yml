@@ -1,10 +1,7 @@
 name: Fall Softball Ratings 2026
  
 on:
-  schedule:
-    # 09:00 UTC = 4:00 AM CDT / 3:00 AM CST -- after the nightly games scrape
-    - cron: "0 9 * 8-12 *"      # Aug-Dec only (SEASON_START/SEASON_END window)
-  workflow_dispatch:            # manual "Run workflow" button
+  workflow_dispatch:            # manual only -- Actions tab > "Run workflow"
  
 permissions:
   contents: write
@@ -20,13 +17,12 @@ jobs:
  
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
  
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
-          cache: pip
  
       - name: Install dependencies
         run: |
@@ -70,4 +66,3 @@ jobs:
           git commit -m "Update Fall Softball 2026 ratings ($(date -u +'%Y-%m-%d'))"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
- 
