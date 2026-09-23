@@ -60,7 +60,8 @@ jobs:
           # and schedule builder).
           git add fall_softball_games_2026.json fall_softball_games_2026.csv \
                   fall_softball_games_2026_all.json fall_softball_games_2026_all.csv \
-                  fall_softball_schedule_2026.json fall_softball_schedule_2026.csv
+                  fall_softball_schedule_2026.json fall_softball_schedule_2026.csv \
+                  fall_softball_missing_scores_2026.csv
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
