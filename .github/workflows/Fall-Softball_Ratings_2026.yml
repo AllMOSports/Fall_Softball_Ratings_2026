@@ -1,0 +1,73 @@
+name: Fall Softball Ratings 2026
+ 
+on:
+  schedule:
+    # 09:00 UTC = 4:00 AM CDT / 3:00 AM CST -- after the nightly games scrape
+    - cron: "0 9 * 8-12 *"      # Aug-Dec only (SEASON_START/SEASON_END window)
+  workflow_dispatch:            # manual "Run workflow" button
+ 
+permissions:
+  contents: write
+ 
+concurrency:
+  group: fall-softball-ratings-2026
+  cancel-in-progress: false
+ 
+jobs:
+  ratings:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+ 
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+ 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+ 
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 pandas
+ 
+      - name: Check required input files
+        run: |
+          for f in classifications.json mshsaa_schools.csv; do
+            if [ ! -f "$f" ]; then
+              echo "::error::Missing $f in repo root"
+              exit 1
+            fi
+          done
+ 
+      - name: Run ratings
+        run: python Fall_Softball_Ratings_2026.py | tee ratings_log.txt
+ 
+      - name: Flag teams not in ratings
+        if: always()
+        run: |
+          if grep -q "TEAMS NOT INCLUDED IN RATINGS" ratings_log.txt; then
+            echo "::warning::Some classification teams are not in the ratings -- see run log"
+            sed -n '/TEAMS NOT INCLUDED IN RATINGS/,/^=====/p' ratings_log.txt >> "$GITHUB_STEP_SUMMARY"
+          fi
+          if grep -q "could not be matched" ratings_log.txt; then
+            echo "::warning::Unmatched scoreboard names -- games were skipped. See run log."
+          fi
+ 
+      - name: Commit and push outputs
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add fall_softball_ratings_2026*.json \
+                  fall_softball_rankings_2026_*.csv \
+                  fall_softball_scoreboard_2026.csv
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "Update Fall Softball 2026 ratings ($(date -u +'%Y-%m-%d'))"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+ 
