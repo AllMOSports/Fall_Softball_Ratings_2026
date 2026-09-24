@@ -10,11 +10,9 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-08,no score,Winnetonka,,Lincoln College Prep,,True
 2026-09-09,no score,Harrisonville,,Belton,,True
 2026-09-09,no score,Smith-Cotton,,Fort Osage,,True
-2026-09-09,no score,Hazelwood East,,Hazelwood West,,False
 2026-09-09,no score,Russellville,,Jamestown,,True
 2026-09-09,no score,Pleasant Hill,,Truman,,True
 2026-09-10,no score,"Mercer with Cainsville, Ridgeway",,"Braymer with Breckenridge, Southwest (Livingston County)",,True
-2026-09-10,no score,Parkway Central,,Marquette,,True
 2026-09-10,no score,Marceline,,Maysville,,True
 2026-09-10,no score,Macon,,Moberly,,True
 2026-09-10,no score,Palmyra,,Monroe City,,True
@@ -22,7 +20,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-10,no score,Boonville,,Salisbury,,True
 2026-09-10,no score,New Bloomfield,,Sturgeon,,True
 2026-09-10,no score,Notre Dame de Sion,,Summit Christian Academy,,True
-2026-09-10,no score,Ft. Zumwalt South,,Timberland,,True
 2026-09-11,no score,Parkview,,Climax Springs,,True
 2026-09-11,no score,St. Joseph's Academy,,St. Pius X (Festus),,True
 2026-09-14,no score,Cainsville,,Albany,,False
@@ -65,8 +62,19 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-21,no score,Marshall,,Mexico,,True
 2026-09-21,no score,Van Buren,,Naylor,,False
 2026-09-21,no score,Kirkwood,,Northwest (Cedar Hill),,True
-2026-09-21,no score,Gilman City with Tri-County,,Princeton,,True
-2026-09-21,no score,Notre Dame (Cape Girardeau),,Sikeston,,True
 2026-09-21,no score,Hazelwood West,,St. Charles West with St. Charles,,True
 2026-09-21,no score,Normandy Collaborative,,University City,,False
 2026-09-21,no score,Windsor (Imperial),,Westminster Christian Academy,,True
+2026-09-22,no score,Novinger,,Bucklin with Macon County,,True
+2026-09-22,no score,Knox County,,Clark County,,True
+2026-09-22,no score,Polo,,Gilman City with Tri-County,,True
+2026-09-22,no score,Windsor (Imperial),,Herculaneum with Crystal City,,True
+2026-09-22,no score,Parkway North with Principia,,Kirkwood,,True
+2026-09-22,no score,Grundy County with Newtown-Harris,,"Mercer with Cainsville, Ridgeway",,True
+2026-09-22,no score,Marceline,,Milan,,True
+2026-09-22,no score,Summit Christian Academy,,Montrose with Appleton City,,True
+2026-09-22,no score,"Braymer with Breckenridge, Southwest (Livingston County)",,Norborne with Hardin-Central,,True
+2026-09-22,no score,Clayton,,Normandy Collaborative,,False
+2026-09-22,no score,Affton,,Ritenour,,True
+2026-09-22,no score,East Carter,,Van Buren,,False
+2026-09-22,no score,Central (Springfield),,Weaubleau,,False
