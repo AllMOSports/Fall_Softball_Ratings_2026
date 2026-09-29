@@ -5,18 +5,16 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-04,no score,Lincoln College Prep,,Notre Dame de Sion,,True
 2026-09-04,no score,Parkway South,,Parkway North with Principia,,True
 2026-09-04,no score,Climax Springs,,Tuscumbia,,True
+2026-09-05,no score,Hillcrest,,Camdenton,,True
 2026-09-07,no score,Climax Springs,,Stoutland,,True
 2026-09-08,no score,Winnetonka,,Lincoln College Prep,,True
 2026-09-09,no score,Harrisonville,,Belton,,True
 2026-09-09,no score,Smith-Cotton,,Fort Osage,,True
 2026-09-09,no score,Russellville,,Jamestown,,True
 2026-09-09,no score,Pleasant Hill,,Truman,,True
-2026-09-10,no score,"Mercer with Cainsville, Ridgeway",,"Braymer with Breckenridge, Southwest (Livingston County)",,True
 2026-09-10,no score,Marceline,,Maysville,,True
 2026-09-10,no score,Macon,,Moberly,,True
-2026-09-10,no score,Palmyra,,Monroe City,,True
 2026-09-10,no score,Van Buren,,Poplar Bluff,,False
-2026-09-10,no score,Boonville,,Salisbury,,True
 2026-09-10,no score,New Bloomfield,,Sturgeon,,True
 2026-09-10,no score,Notre Dame de Sion,,Summit Christian Academy,,True
 2026-09-11,no score,Parkview,,Climax Springs,,True
@@ -41,34 +39,38 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-17,no score,Wellsville-Middletown,,St. Louis Patriots Sr.,,False
 2026-09-17,no score,King City with Union Star,,Stanberry,,True
 2026-09-18,no score,Iberia,,Camdenton,,True
-2026-09-18,no score,Cor Jesu Academy,,Festus,,True
 2026-09-18,no score,Normandy Collaborative,,McCluer North,,False
 2026-09-18,no score,Van Buren,,Norwood,,False
 2026-09-18,no score,Poplar Bluff,,"Roff(Roff, OK)",,False
 2026-09-18,no score,New Bloomfield,,St. Elizabeth,,True
 2026-09-18,no score,Poplar Bluff,,"Washington(Washington, OK)",,False
-2026-09-18,no score,Cor Jesu Academy,,Windsor (Imperial),,True
 2026-09-19,no score,Poplar Bluff,,"Bixby(Bixby, OK)",,False
+2026-09-19,no score,"Tina-Avalon with Bosworth, Hale",,"Brunswick with Keytesville, Northwestern (Mendon)",,True
+2026-09-19,no score,"Tina-Avalon with Bosworth, Hale",,Higbee,,True
+2026-09-19,no score,"Tina-Avalon with Bosworth, Hale",,Norborne with Hardin-Central,,True
 2026-09-19,no score,Poplar Bluff,,"Silo(Silo, OK)",,False
-2026-09-20,no score,Poplar Bluff,,"Bixby(Bixby, OK)",,False
-2026-09-20,no score,Poplar Bluff,,"Silo(Silo, OK)",,False
 2026-09-21,no score,"Braymer with Breckenridge, Southwest (Livingston County)",,Cainsville,,False
 2026-09-21,no score,Herculaneum with Crystal City,,Hancock,,True
-2026-09-21,no score,Albany,,"Mercer with Cainsville, Ridgeway",,True
-2026-09-21,no score,Marshall,,Mexico,,True
 2026-09-21,no score,Van Buren,,Naylor,,False
 2026-09-21,no score,Kirkwood,,Northwest (Cedar Hill),,True
-2026-09-21,no score,Hazelwood West,,St. Charles West with St. Charles,,True
 2026-09-21,no score,Normandy Collaborative,,University City,,False
-2026-09-22,no score,Novinger,,Bucklin with Macon County,,True
-2026-09-22,no score,Knox County,,Clark County,,True
 2026-09-22,no score,Windsor (Imperial),,Herculaneum with Crystal City,,True
-2026-09-22,no score,Grundy County with Newtown-Harris,,"Mercer with Cainsville, Ridgeway",,True
 2026-09-22,no score,Summit Christian Academy,,Montrose with Appleton City,,True
 2026-09-22,no score,Clayton,,Normandy Collaborative,,False
 2026-09-22,no score,East Carter,,Van Buren,,False
-2026-09-23,no score,Francis Howell,,Eureka,,True
 2026-09-23,no score,Marceline,,Milan,,True
 2026-09-23,no score,Sikeston,,Poplar Bluff,,True
-2026-09-23,no score,Lafayette (Wildwood),,Rockwood Summit,,True
-2026-09-23,no score,Parkway North with Principia,,Valley Park,,True
+2026-09-24,no score,Raymore-Peculiar,,Lee's Summit West,,True
+2026-09-24,no score,Excelsior Springs,,Maryville,,True
+2026-09-24,no score,Lutheran St. Charles with Veritas Christian Academy,,Mexico,,True
+2026-09-24,no score,William Chrisman,,Platte County,,True
+2026-09-24,no score,Lincoln College Prep,,Summit Christian Academy,,True
+2026-09-25,no score,Seckman,,Cor Jesu Academy,,True
+2026-09-25,no score,Brashear,,Grundy County with Newtown-Harris,,True
+2026-09-25,no score,St. Charles West with St. Charles,,North Point,,True
+2026-09-25,no score,Parkway West,,Parkway North with Principia,,True
+2026-09-25,no score,Notre Dame (Cape Girardeau),,Windsor (Imperial),,True
+2026-09-26,no score,Troy Buchanan,,Louisiana,,True
+2026-09-26,no score,Ursuline Academy,,St. Teresa's Academy,,True
+2026-09-27,no score,Troy Buchanan,,Louisiana,,True
+2026-09-27,no score,Ursuline Academy,,St. Teresa's Academy,,True
