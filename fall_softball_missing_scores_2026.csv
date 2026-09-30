@@ -2,7 +2,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-01,no score,Van Buren,,Twin Rivers,,False
 2026-09-03,no score,Helias Catholic,,Grain Valley,,True
 2026-09-03,no score,Chaffee,,Van Buren,,False
-2026-09-04,no score,Lincoln College Prep,,Notre Dame de Sion,,True
 2026-09-04,no score,Parkway South,,Parkway North with Principia,,True
 2026-09-04,no score,Climax Springs,,Tuscumbia,,True
 2026-09-05,no score,Hillcrest,,Camdenton,,True
@@ -10,7 +9,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-08,no score,Winnetonka,,Lincoln College Prep,,True
 2026-09-09,no score,Harrisonville,,Belton,,True
 2026-09-09,no score,Smith-Cotton,,Fort Osage,,True
-2026-09-09,no score,Russellville,,Jamestown,,True
 2026-09-09,no score,Pleasant Hill,,Truman,,True
 2026-09-10,no score,Marceline,,Maysville,,True
 2026-09-10,no score,Macon,,Moberly,,True
@@ -22,7 +20,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-14,no score,Cainsville,,Albany,,False
 2026-09-14,no score,Bishop LeBlond,,Excelsior Springs,,True
 2026-09-14,no score,Penney,,Trenton,,True
-2026-09-15,no score,Stewartsville with Osborn,,East Buchanan,,True
 2026-09-15,no score,Cainsville,,Grundy County with Newtown-Harris,,False
 2026-09-15,no score,Perryville,,Herculaneum with Crystal City,,True
 2026-09-15,no score,Warrenton,,Lutheran St. Charles with Veritas Christian Academy,,True
@@ -34,11 +31,9 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-16,no score,Hillsboro,,Seckman,,True
 2026-09-17,no score,"Mercer with Cainsville, Ridgeway",,Cainsville,,False
 2026-09-17,no score,Van Buren,,DeSoto,,False
-2026-09-17,no score,Lee's Summit North,,Park Hill South,,True
 2026-09-17,no score,Maysville,,Putnam County,,True
 2026-09-17,no score,Wellsville-Middletown,,St. Louis Patriots Sr.,,False
 2026-09-17,no score,King City with Union Star,,Stanberry,,True
-2026-09-18,no score,Iberia,,Camdenton,,True
 2026-09-18,no score,Normandy Collaborative,,McCluer North,,False
 2026-09-18,no score,Van Buren,,Norwood,,False
 2026-09-18,no score,Poplar Bluff,,"Roff(Roff, OK)",,False
@@ -55,22 +50,20 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-21,no score,Kirkwood,,Northwest (Cedar Hill),,True
 2026-09-21,no score,Normandy Collaborative,,University City,,False
 2026-09-22,no score,Windsor (Imperial),,Herculaneum with Crystal City,,True
-2026-09-22,no score,Summit Christian Academy,,Montrose with Appleton City,,True
 2026-09-22,no score,Clayton,,Normandy Collaborative,,False
 2026-09-22,no score,East Carter,,Van Buren,,False
 2026-09-23,no score,Marceline,,Milan,,True
 2026-09-23,no score,Sikeston,,Poplar Bluff,,True
-2026-09-24,no score,Raymore-Peculiar,,Lee's Summit West,,True
-2026-09-24,no score,Excelsior Springs,,Maryville,,True
 2026-09-24,no score,Lutheran St. Charles with Veritas Christian Academy,,Mexico,,True
-2026-09-24,no score,William Chrisman,,Platte County,,True
-2026-09-24,no score,Lincoln College Prep,,Summit Christian Academy,,True
-2026-09-25,no score,Seckman,,Cor Jesu Academy,,True
-2026-09-25,no score,Brashear,,Grundy County with Newtown-Harris,,True
-2026-09-25,no score,St. Charles West with St. Charles,,North Point,,True
-2026-09-25,no score,Parkway West,,Parkway North with Principia,,True
 2026-09-25,no score,Notre Dame (Cape Girardeau),,Windsor (Imperial),,True
-2026-09-26,no score,Troy Buchanan,,Louisiana,,True
 2026-09-26,no score,Ursuline Academy,,St. Teresa's Academy,,True
-2026-09-27,no score,Troy Buchanan,,Louisiana,,True
 2026-09-27,no score,Ursuline Academy,,St. Teresa's Academy,,True
+2026-09-28,no score,Smithville,,Central (St. Joseph),,True
+2026-09-28,no score,Parkway South,,Cor Jesu Academy,,True
+2026-09-28,no score,University City,,Hancock,,True
+2026-09-28,no score,Parkway North with Principia,,Incarnate Word Academy,,True
+2026-09-28,no score,Climax Springs,,Macks Creek,,True
+2026-09-28,no score,La Plata,,Marion County,,True
+2026-09-28,no score,Worth County,,Maryville,,True
+2026-09-28,no score,Naylor,,Van Buren,,False
+2026-09-28,no score,Bishop LeBlond,,West Platte,,True
