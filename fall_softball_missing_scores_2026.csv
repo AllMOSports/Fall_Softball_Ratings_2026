@@ -1,6 +1,5 @@
 date,problem,team1,score1,team2,score2,both_classified
 2026-09-01,no score,Van Buren,,Twin Rivers,,False
-2026-09-03,no score,Helias Catholic,,Grain Valley,,True
 2026-09-03,no score,Chaffee,,Van Buren,,False
 2026-09-04,no score,Parkway South,,Parkway North with Principia,,True
 2026-09-04,no score,Climax Springs,,Tuscumbia,,True
@@ -8,7 +7,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-07,no score,Climax Springs,,Stoutland,,True
 2026-09-08,no score,Winnetonka,,Lincoln College Prep,,True
 2026-09-09,no score,Harrisonville,,Belton,,True
-2026-09-09,no score,Smith-Cotton,,Fort Osage,,True
 2026-09-09,no score,Pleasant Hill,,Truman,,True
 2026-09-10,no score,Marceline,,Maysville,,True
 2026-09-10,no score,Macon,,Moberly,,True
@@ -19,13 +17,9 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-14,no score,Cainsville,,Albany,,False
 2026-09-14,no score,Penney,,Trenton,,True
 2026-09-15,no score,Cainsville,,Grundy County with Newtown-Harris,,False
-2026-09-15,no score,Perryville,,Herculaneum with Crystal City,,True
 2026-09-15,no score,Normandy Collaborative,,McCluer North,,False
-2026-09-15,no score,Stanberry,,North Andrew,,True
-2026-09-15,no score,Clark County,,Palmyra,,True
 2026-09-15,no score,King City with Union Star,,"Pattonsburg with North Daviess, Winston",,True
 2026-09-15,no score,Blue Springs South,,Raymore-Peculiar,,True
-2026-09-16,no score,Hillsboro,,Seckman,,True
 2026-09-17,no score,"Mercer with Cainsville, Ridgeway",,Cainsville,,False
 2026-09-17,no score,Van Buren,,DeSoto,,False
 2026-09-17,no score,Wellsville-Middletown,,St. Louis Patriots Sr.,,False
@@ -34,28 +28,31 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-18,no score,Van Buren,,Norwood,,False
 2026-09-18,no score,New Bloomfield,,St. Elizabeth,,True
 2026-09-21,no score,"Braymer with Breckenridge, Southwest (Livingston County)",,Cainsville,,False
-2026-09-21,no score,Herculaneum with Crystal City,,Hancock,,True
 2026-09-21,no score,Van Buren,,Naylor,,False
-2026-09-21,no score,Kirkwood,,Northwest (Cedar Hill),,True
 2026-09-21,no score,Normandy Collaborative,,University City,,False
 2026-09-22,no score,Clayton,,Normandy Collaborative,,False
 2026-09-22,no score,East Carter,,Van Buren,,False
-2026-09-23,no score,Marceline,,Milan,,True
 2026-09-24,no score,Lutheran St. Charles with Veritas Christian Academy,,Mexico,,True
 2026-09-26,no score,Ursuline Academy,,St. Teresa's Academy,,True
 2026-09-27,no score,Ursuline Academy,,St. Teresa's Academy,,True
 2026-09-28,no score,Smithville,,Central (St. Joseph),,True
 2026-09-28,no score,Climax Springs,,Macks Creek,,True
-2026-09-28,no score,La Plata,,Marion County,,True
 2026-09-28,no score,Worth County,,Maryville,,True
 2026-09-28,no score,Naylor,,Van Buren,,False
-2026-09-28,no score,Bishop LeBlond,,West Platte,,True
-2026-09-29,no score,Meadville,,Bevier,,True
 2026-09-29,no score,Albany,,DeKalb,,True
 2026-09-29,no score,New Bloomfield,,Fatima,,True
 2026-09-29,no score,Park Hill South,,Fort Osage,,True
 2026-09-29,no score,Bishop LeBlond,,Maryville,,True
-2026-09-29,no score,Lathrop,,Mid-Buchanan,,True
-2026-09-29,no score,Jefferson (Conception) with South Nodaway,,Northeast Nodaway,,True
 2026-09-29,no score,North Kansas City,,Oak Park,,True
-2026-09-29,no score,Penney,,Plattsburg,,True
+2026-09-30,no score,Smithville,,Benton,,True
+2026-09-30,no score,Parkview,,Climax Springs,,True
+2026-09-30,no score,South Callaway,,Fayette,,True
+2026-09-30,no score,Linn,,Iberia,,True
+2026-09-30,no score,Fort Osage,,Kearney,,True
+2026-09-30,no score,Slater with Malta Bend,,Norborne with Hardin-Central,,True
+2026-09-30,no score,DeKalb,,Northeast Nodaway,,True
+2026-09-30,no score,Grain Valley,,Platte County,,True
+2026-09-30,no score,"Mercer with Cainsville, Ridgeway",,Polo,,True
+2026-09-30,no score,Paris,,Westran,,True
+2026-09-30,no score,Francis Howell North,,Winfield,,True
+2026-09-30,no score,"Pattonsburg with North Daviess, Winston",,Worth County,,True
