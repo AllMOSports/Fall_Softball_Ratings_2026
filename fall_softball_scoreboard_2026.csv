@@ -2320,6 +2320,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-28,Linn County,0,"Brunswick with Keytesville, Northwestern (Mendon)",10
 2026-09-28,Camdenton,0,Capital City,15
 2026-09-28,Carthage,7,Carl Junction,5
+2026-09-28,Smithville,14,Central (St. Joseph),0
 2026-09-28,Princeton,0,Chillicothe,10
 2026-09-28,Canton,2,Clark County,12
 2026-09-28,Metro,9,Clayton,25
@@ -2437,6 +2438,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-29,Climax Springs,23,Fair Play,9
 2026-09-29,Kelly,12,Farmington,2
 2026-09-29,Boonville,0,Father Tolton,2
+2026-09-29,New Bloomfield,0,Fatima,10
 2026-09-29,Troy Buchanan,2,Francis Howell,0
 2026-09-29,Liberty (Wentzville),16,Francis Howell Central,4
 2026-09-29,Ft. Zumwalt West,1,Francis Howell North,6
@@ -2527,6 +2529,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-30,St. Clair,2,DeSoto,17
 2026-09-30,Stoutland,5,Dixon,12
 2026-09-30,Highland,3,Elsberry,4
+2026-09-30,South Callaway,2,Fayette,4
 2026-09-30,Seckman,0,Festus,10
 2026-09-30,Cuba,8,Hancock,23
 2026-09-30,Louisiana,2,Hannibal,12
@@ -2535,6 +2538,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-30,Hickman,3,Helias Catholic,13
 2026-09-30,Farmington,17,Herculaneum with Crystal City,6
 2026-09-30,Ft. Zumwalt North,6,Holt,2
+2026-09-30,Linn,8,Iberia,4
 2026-09-30,Notre Dame (St. Louis),0,Incarnate Word Academy,14
 2026-09-30,Winnetonka,0,Kearney,15
 2026-09-30,Westminster Christian Academy,4,Lafayette (Wildwood),7
@@ -2564,6 +2568,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-30,Belton,11,Warrensburg,6
 2026-09-30,St. Francis Borgia,4,Washington,8
 2026-09-30,Hartville,9,West Plains,10
+2026-09-30,Paris,19,Westran,2
 2026-09-30,Oakville,0,Windsor (Imperial),8
 2026-10-01,University City,8,Affton,11
 2026-10-01,McCluer North,6,Bayless,13
@@ -2574,14 +2579,18 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-01,Wright City,13,Clopton,4
 2026-10-01,Notre Dame (St. Louis),0,Cor Jesu Academy,18
 2026-10-01,Perryville,4,DeSoto,7
+2026-10-01,Neelyville,0,Doniphan,11
+2026-10-01,St. Joseph's Academy,0,Eureka,10
 2026-10-01,Jefferson (Festus),0,Festus,10
 2026-10-01,Francis Howell North,0,Francis Howell,8
 2026-10-01,Washington,16,Ft. Zumwalt North,0
 2026-10-01,North Point,8,Ft. Zumwalt South,4
 2026-10-01,Parkway North with Principia,1,Hazelwood West,3
+2026-10-01,Sikeston,0,Kelly,19
 2026-10-01,Waynesville,0,Kickapoo,15
 2026-10-01,Marquette,0,Lafayette (Wildwood),10
 2026-10-01,Parkview,19,Laquey,11
+2026-10-01,Troy Buchanan,18,Liberty (Wentzville),3
 2026-10-01,Raymore-Peculiar,8,Liberty North,3
 2026-10-01,Ft. Zumwalt West,4,Lindbergh,2
 2026-10-01,Pattonville,1,Mehlville,0
@@ -2600,9 +2609,47 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-01,Fredericktown,16,St. Pius X (Festus),0
 2026-10-01,Hartville,8,Stoutland,5
 2026-10-01,Ft. Zumwalt East,0,Timberland,15
-2026-10-01,Liberty (Wentzville),3,Troy Buchanan,18
 2026-10-01,Norwood,2,Twin Rivers,6
 2026-10-01,Lutheran St. Charles with Veritas Christian Academy,10,Valley Park,13
 2026-10-01,Richland,1,Vienna,12
-2026-10-01,Paris,19,Westran,2
 2026-10-01,Neosho,8,Willard,2
+2026-10-01,Pacific,6,Windsor (Imperial),7
+2026-10-02,Battle,1,Bolivar,3
+2026-10-02,Mark Twain,8,Bowling Green,11
+2026-10-02,Branson,11,Camdenton,1
+2026-10-02,Kickapoo,10,Carl Junction,8
+2026-10-02,Sullivan,8,Carl Junction,7
+2026-10-02,Lee's Summit North,3,Cassville,1
+2026-10-02,Nixa,6,Cassville,3
+2026-10-02,Blair Oaks,1,Chillicothe,8
+2026-10-02,Savannah,1,Chillicothe,6
+2026-10-02,Macks Creek,1,Dadeville with Everton,10
+2026-10-02,Branson,1,Francis Howell,7
+2026-10-02,Rockwood Summit,4,Francis Howell North,14
+2026-10-02,Ft. Zumwalt North,5,Ft. Zumwalt East,15
+2026-10-02,Notre Dame de Sion,3,Grandview,13
+2026-10-02,Wheatland,9,Hermitage,5
+2026-10-02,Incarnate Word Academy,6,Hickman,7
+2026-10-02,Liberty (Wentzville),8,Hickman,3
+2026-10-02,Liberty (Wentzville),5,Incarnate Word Academy,4
+2026-10-02,Oak Grove,15,Jefferson City,0
+2026-10-02,Park Hill South,0,Joplin,17
+2026-10-02,Marshfield,6,Joplin,4
+2026-10-02,Sullivan,3,Kickapoo,4
+2026-10-02,Nixa,5,Lee's Summit North,4
+2026-10-02,Capital City,3,Liberty,2
+2026-10-02,Park Hill South,0,Marshfield,15
+2026-10-02,Blair Oaks,1,Oak Grove,11
+2026-10-02,Oak Park,1,Park Hill,9
+2026-10-02,Rolla,4,Parkway Central,6
+2026-10-02,Battle,1,Republic,7
+2026-10-02,West Plains,2,Rolla,18
+2026-10-02,Timberland,12,St. Dominic,0
+2026-10-02,St. Joseph's Academy,13,St. Pius X (Festus),0
+2026-10-02,Raytown,0,Truman,10
+2026-10-02,Stoutland,14,Tuscumbia,3
+2026-10-02,Pattonville,8,Ursuline Academy,5
+2026-10-02,Climax Springs,13,Walnut Grove,16
+2026-10-02,Winfield,2,Warrenton,1
+2026-10-02,Lutheran South,1,Webster Groves,11
+2026-10-02,Capital City,0,Willard,9
