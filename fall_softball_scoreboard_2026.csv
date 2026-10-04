@@ -887,6 +887,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-08,Oak Park,3,Liberty,13
 2026-09-08,Ft. Zumwalt West,15,Liberty (Wentzville),5
 2026-09-08,Staley,3,Liberty North,11
+2026-09-08,Winnetonka,15,Lincoln College Prep,0
 2026-09-08,Mehlville,0,Lindbergh,15
 2026-09-08,Fatima,7,Linn,6
 2026-09-08,North Platte,15,Lone Jack,9
@@ -2614,9 +2615,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-01,Richland,1,Vienna,12
 2026-10-01,Neosho,8,Willard,2
 2026-10-01,Pacific,6,Windsor (Imperial),7
+2026-10-02,St. Teresa's Academy,5,Aurora,8
 2026-10-02,Battle,1,Bolivar,3
 2026-10-02,Mark Twain,8,Bowling Green,11
 2026-10-02,Branson,11,Camdenton,1
+2026-10-02,St. Teresa's Academy,11,Camdenton,1
 2026-10-02,Kickapoo,10,Carl Junction,8
 2026-10-02,Sullivan,8,Carl Junction,7
 2026-10-02,Lee's Summit North,3,Cassville,1
@@ -2627,18 +2630,23 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-02,Branson,1,Francis Howell,7
 2026-10-02,Rockwood Summit,4,Francis Howell North,14
 2026-10-02,Ft. Zumwalt North,5,Ft. Zumwalt East,15
+2026-10-02,Francis Howell,15,Glendale,11
 2026-10-02,Notre Dame de Sion,3,Grandview,13
 2026-10-02,Wheatland,9,Hermitage,5
 2026-10-02,Incarnate Word Academy,6,Hickman,7
 2026-10-02,Liberty (Wentzville),8,Hickman,3
+2026-10-02,Crocker,4,Iberia,9
 2026-10-02,Liberty (Wentzville),5,Incarnate Word Academy,4
+2026-10-02,Mexico,4,Jefferson City,3
 2026-10-02,Oak Grove,15,Jefferson City,0
 2026-10-02,Park Hill South,0,Joplin,17
 2026-10-02,Marshfield,6,Joplin,4
 2026-10-02,Sullivan,3,Kickapoo,4
+2026-10-02,Linn County,5,La Plata,15
 2026-10-02,Nixa,5,Lee's Summit North,4
 2026-10-02,Capital City,3,Liberty,2
 2026-10-02,Park Hill South,0,Marshfield,15
+2026-10-02,Halfway,10,Montrose with Appleton City,0
 2026-10-02,Blair Oaks,1,Oak Grove,11
 2026-10-02,Oak Park,1,Park Hill,9
 2026-10-02,Rolla,4,Parkway Central,6
@@ -2653,3 +2661,75 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-02,Winfield,2,Warrenton,1
 2026-10-02,Lutheran South,1,Webster Groves,11
 2026-10-02,Capital City,0,Willard,9
+2026-10-02,Lincoln College Prep,7,Winnetonka,22
+2026-10-03,Sturgeon,3,Atlanta,2
+2026-10-03,Capital City,12,Aurora,2
+2026-10-03,North Platte,2,Benton,18
+2026-10-03,South Harrison,7,Benton,5
+2026-10-03,Incarnate Word Academy,4,Blair Oaks,1
+2026-10-03,Battle,6,Branson,4
+2026-10-03,Scotland County,3,Brookfield,16
+2026-10-03,Knox County,3,Brookfield,6
+2026-10-03,Carl Junction,17,Camdenton,2
+2026-10-03,Hillcrest,0,Camdenton,18
+2026-10-03,St. Teresa's Academy,5,Carl Junction,11
+2026-10-03,Oak Grove,5,Chillicothe,1
+2026-10-03,Mexico,3,Chillicothe,13
+2026-10-03,Madison,6,Clopton,22
+2026-10-03,Madison,9,Community,19
+2026-10-03,Wheatland,4,Dadeville with Everton,5
+2026-10-03,Halfway,10,Dadeville with Everton,2
+2026-10-03,Fredericktown,10,Doniphan,11
+2026-10-03,Silex,7,Eugene,2
+2026-10-03,Vienna,6,Eugene,7
+2026-10-03,New Bloomfield,0,Eugene,8
+2026-10-03,Capital City,2,Francis Howell,6
+2026-10-03,West Plains,3,Francis Howell,16
+2026-10-03,Republic,1,Francis Howell,7
+2026-10-03,Kelly,7,Fredericktown,8
+2026-10-03,Notre Dame (Cape Girardeau),9,Fredericktown,4
+2026-10-03,St. Elizabeth,14,Fulton,3
+2026-10-03,Montgomery County,14,Fulton,6
+2026-10-03,Marshfield,10,Glendale,0
+2026-10-03,Weaubleau,2,Halfway,7
+2026-10-03,Knox County,4,Harrisburg,14
+2026-10-03,St. James,7,Hermann with New Haven,11
+2026-10-03,Mark Twain,14,Hermann with New Haven,4
+2026-10-03,Macks Creek,6,Hermitage,4
+2026-10-03,Liberty (Wentzville),14,Hickman,11
+2026-10-03,Savannah,7,Hickman,6
+2026-10-03,Macks Creek,12,Humansville,5
+2026-10-03,Incarnate Word Academy,2,Jefferson (Conception) with South Nodaway,1
+2026-10-03,Incarnate Word Academy,2,Jefferson City,1
+2026-10-03,Park Hill South,0,Kickapoo,5
+2026-10-03,Excelsior Springs,10,Lawson,8
+2026-10-03,Bolivar,3,Lee's Summit North,12
+2026-10-03,Cameron,16,Lexington,0
+2026-10-03,Cameron,15,Marshall,0
+2026-10-03,Nixa,7,Marshfield,3
+2026-10-03,Rock Bridge,6,Marshfield,0
+2026-10-03,Liberty (Wentzville),5,Mexico,14
+2026-10-03,Scotland County,5,Monroe City,15
+2026-10-03,Schuyler County,1,Monroe City,11
+2026-10-03,Vienna,5,Montgomery County,3
+2026-10-03,Hermitage,9,Montrose with Appleton City,5
+2026-10-03,Rock Bridge,9,Nixa,4
+2026-10-03,South Harrison,14,North Platte,0
+2026-10-03,Liberty (Wentzville),1,Oak Grove,4
+2026-10-03,North Kansas City,2,Oak Park,19
+2026-10-03,Clark County,7,Palmyra,16
+2026-10-03,Bolivar,9,Park Hill South,11
+2026-10-03,Knox County,3,Putnam County,1
+2026-10-03,Branson,0,Rolla,5
+2026-10-03,Republic,3,Rolla,4
+2026-10-03,Sturgeon,4,Salisbury,14
+2026-10-03,Brookfield,1,Schuyler County,7
+2026-10-03,Canton,2,Schuyler County,9
+2026-10-03,St. Elizabeth,4,Silex,3
+2026-10-03,Silex,11,South Callaway,0
+2026-10-03,Sturgeon,11,South Shelby,12
+2026-10-03,Vienna,0,St. Elizabeth,7
+2026-10-03,Mark Twain,15,St. James,0
+2026-10-03,St. Teresa's Academy,4,Sullivan,11
+2026-10-03,Weaubleau,3,Wheatland,8
+2026-10-03,Battle,5,Willard,7

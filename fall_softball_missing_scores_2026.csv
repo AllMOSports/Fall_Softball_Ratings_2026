@@ -3,8 +3,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-01,no score,Van Buren,,Twin Rivers,,False
 2026-09-03,no score,Chaffee,,Van Buren,,False
 2026-09-04,no score,Parkway South,,Parkway North with Principia,,True
-2026-09-05,no score,Hillcrest,,Camdenton,,True
-2026-09-08,no score,Winnetonka,,Lincoln College Prep,,True
 2026-09-09,no score,Harrisonville,,Belton,,True
 2026-09-09,no score,Pleasant Hill,,Truman,,True
 2026-09-10,no score,Van Buren,,Poplar Bluff,,False
@@ -37,23 +35,28 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-01,no score,Monroe City,,Canton,,True
 2026-10-01,no score,Seneca,,Cassville,,True
 2026-10-01,no score,Van-Far,,Community,,True
-2026-10-01,no score,Halfway,,Dadeville with Everton,,True
 2026-10-01,no score,Northeast Nodaway,,DeKalb,,True
 2026-10-01,no score,Hallsville with Christian Fellowship Sr.,,Eldon,,True
-2026-10-01,no score,Mark Twain,,Elsberry,,True
 2026-10-01,no score,South Callaway,,Fayette,,True
 2026-10-01,no score,Ladue Horton Watkins,,Kirkwood,,True
 2026-10-01,no score,Staley,,Lee's Summit,,True
 2026-10-01,no score,Blue Springs,,Lee's Summit West,,True
 2026-10-01,no score,Lincoln College Prep,,Lone Jack,,True
 2026-10-01,no score,Montgomery County,,Louisiana,,True
-2026-10-01,no score,Highland,,Marceline,,True
 2026-10-01,no score,Aurora,,McDonald County,,True
 2026-10-01,no score,"Brunswick with Keytesville, Northwestern (Mendon)",,Meadville,,True
-2026-10-01,no score,Mid-Buchanan,,North Platte,,True
 2026-10-01,no score,Clinton,,Oak Grove,,True
 2026-10-01,no score,West Platte,,Penney,,True
 2026-10-01,no score,Marshall,,Smith-Cotton,,True
 2026-10-01,no score,Raytown,,Truman,,True
 2026-10-01,no score,Doniphan,,Van Buren,,False
 2026-10-01,no score,Bowling Green,,Wellsville-Middletown,,True
+2026-10-02,no score,Republic,,Bolivar,,True
+2026-10-02,no score,Russellville,,Jamestown,,True
+2026-10-02,no score,Willard,,Liberty,,True
+2026-10-02,no score,Oakville,,Lutheran St. Charles with Veritas Christian Academy,,True
+2026-10-02,no score,Van Buren,,Neelyville,,False
+2026-10-02,no score,Metro,,Normandy Collaborative,,False
+2026-10-02,no score,Ladue Horton Watkins,,St. Charles West with St. Charles,,True
+2026-10-02,no score,Hazelwood East,,University City,,False
+2026-10-02,no score,St. Louis Patriots Sr.,,Valley Park,,False

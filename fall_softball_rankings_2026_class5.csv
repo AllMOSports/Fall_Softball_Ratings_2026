@@ -1,60 +1,60 @@
 School,OFF Rating,DEF Rating,OVR Rating,OFF Rank,DEF Rank,OVR Rank
-Grain Valley,5.56,9.19,14.75,4,1,1
-Blue Springs South,8.48,6.14,14.61,1,11,2
-Troy Buchanan,4.73,9.01,13.74,10,2,3
-Ft. Zumwalt West,5.61,7.47,13.08,3,5,4
-Francis Howell,3.98,8.68,12.65,19,3,5
-Rock Bridge,4.92,7.69,12.62,6,4,6
-Eureka,4.8,7.1,11.89,7,6,7
-Raymore-Peculiar,6.84,5.04,11.88,2,21,8
-Timberland,4.77,7.07,11.85,8,7,9
-Webb City,4.7,6.42,11.13,12,9,10
-Liberty North,4.75,5.76,10.51,9,14,11
-Lafayette (Wildwood),4.28,5.72,9.99,16,15,12
-Francis Howell North,4.33,5.56,9.89,14,16,13
-Lindbergh,4.16,5.39,9.55,17,19,14
-Hickman,4.37,4.68,9.06,13,24,15
-Ozark,3.44,5.25,8.69,21,20,16
-Lee's Summit North,2.51,6.03,8.54,26,12,17
-Liberty,3.65,4.82,8.47,20,23,18
-Park Hill,2.07,6.37,8.44,32,10,19
-Marquette,2.68,5.45,8.13,23,18,20
-Staley,1.65,6.01,7.66,35,13,21
-Lee's Summit West,4.32,3.1,7.43,15,30,22
-Nixa,5.01,2.22,7.23,5,36,23
-Jackson,2.57,4.57,7.14,25,25,24
-Blue Springs,1.61,5.48,7.1,36,17,25
-Fort Osage,0.32,6.53,6.85,44,8,26
-Lee's Summit,1.89,4.87,6.76,34,22,27
-Kickapoo,3.99,2.69,6.69,18,33,28
-Neosho,3.27,3.26,6.54,22,28,29
-Joplin,2.41,3.97,6.38,27,27,30
-Liberty (Wentzville),4.72,1.52,6.24,11,41,31
-Northwest (Cedar Hill),2.06,3.13,5.19,33,29,32
-Carthage,2.17,2.24,4.41,31,35,33
-Truman,1.49,2.76,4.25,38,32,34
-Republic,1.08,2.97,4.05,41,31,35
-Francis Howell Central,2.65,1.04,3.69,24,43,36
-Fox,1.08,2.58,3.66,42,34,37
-Oakville,-0.54,4.11,3.57,49,26,38
-Branson,1.39,1.97,3.36,39,37,39
-Park Hill South,2.17,1.15,3.32,30,42,40
-Seckman,1.28,1.57,2.85,40,40,41
-Parkway South,2.29,0.36,2.65,29,48,42
-North Point,-0.34,1.96,1.62,47,38,43
-Glendale,0.56,0.99,1.55,43,45,44
-Smith-Cotton,-1.0,1.81,0.82,51,39,45
-Poplar Bluff,2.36,-1.55,0.81,28,51,46
-St. Charles West with St. Charles,-0.18,0.54,0.36,46,47,47
-Ft. Zumwalt North,1.51,-2.1,-0.6,37,52,48
-Central (St. Joseph),-0.17,-0.65,-0.82,45,49,49
-Kirkwood,-2.02,1.03,-0.99,52,44,50
-Father Tolton,-2.23,0.86,-1.37,53,46,51
-Oak Park,-0.38,-0.99,-1.37,48,50,52
-Ritenour,-0.96,-3.14,-4.1,50,54,53
-Pattonville,-3.44,-2.94,-6.38,55,53,54
-Waynesville,-2.71,-4.22,-6.93,54,56,55
-Hazelwood West,-4.37,-5.31,-9.68,56,57,56
-Mehlville,-6.23,-4.18,-10.41,59,55,57
-Ladue Horton Watkins,-5.16,-5.87,-11.03,58,58,58
-North Kansas City,-4.62,-9.5,-14.12,57,59,59
+Grain Valley,5.64,9.23,14.87,3,1,1
+Blue Springs South,8.51,6.18,14.7,1,11,2
+Troy Buchanan,4.62,8.98,13.61,12,2,3
+Ft. Zumwalt West,5.53,7.44,12.97,4,5,4
+Rock Bridge,4.87,7.9,12.77,6,4,5
+Francis Howell,4.07,8.09,12.17,18,3,6
+Raymore-Peculiar,6.88,5.06,11.93,2,21,7
+Eureka,4.72,7.07,11.79,8,6,8
+Timberland,4.72,7.03,11.75,10,7,9
+Webb City,4.72,6.38,11.1,9,10,10
+Liberty North,4.8,5.79,10.59,7,14,11
+Lafayette (Wildwood),4.23,5.68,9.91,16,15,12
+Francis Howell North,4.25,5.52,9.77,15,16,13
+Lindbergh,4.11,5.35,9.46,17,19,14
+Lee's Summit North,2.8,6.1,8.91,23,12,15
+Hickman,4.43,4.33,8.77,13,25,16
+Ozark,3.45,5.21,8.66,21,20,17
+Liberty,3.69,4.89,8.58,20,23,18
+Park Hill,2.13,6.43,8.56,31,9,19
+Marquette,2.66,5.38,8.04,24,18,20
+Staley,1.65,6.03,7.68,35,13,21
+Nixa,5.07,2.56,7.64,5,34,22
+Lee's Summit West,4.39,3.12,7.51,14,29,23
+Blue Springs,1.63,5.52,7.14,36,17,24
+Jackson,2.53,4.53,7.06,26,24,25
+Fort Osage,0.4,6.59,6.99,44,8,26
+Lee's Summit,1.96,4.93,6.89,34,22,27
+Kickapoo,3.73,3.05,6.78,19,31,28
+Neosho,3.32,3.28,6.6,22,28,29
+Joplin,2.42,3.94,6.35,27,27,30
+Liberty (Wentzville),4.68,1.32,5.99,11,42,31
+Northwest (Cedar Hill),2.02,3.11,5.12,33,30,32
+Truman,1.54,2.8,4.34,37,33,33
+Carthage,2.16,2.17,4.33,30,36,34
+Republic,1.03,3.04,4.07,41,32,35
+Francis Howell Central,2.61,1.02,3.62,25,44,36
+Fox,1.04,2.55,3.59,40,35,37
+Oakville,-0.53,4.02,3.49,49,26,38
+Park Hill South,2.07,1.37,3.45,32,41,39
+Seckman,1.24,1.62,2.86,39,40,40
+Branson,0.74,2.03,2.78,43,37,41
+Parkway South,2.29,0.27,2.57,29,48,42
+North Point,-0.38,1.93,1.55,48,38,43
+Glendale,0.8,0.69,1.49,42,46,44
+Smith-Cotton,-1.02,1.85,0.83,51,39,45
+Poplar Bluff,2.35,-1.59,0.76,28,51,46
+St. Charles West with St. Charles,-0.19,0.53,0.33,46,47,47
+Central (St. Joseph),-0.11,-0.55,-0.66,45,49,48
+Ft. Zumwalt North,1.48,-2.14,-0.66,38,52,49
+Kirkwood,-2.04,1.03,-1.01,52,43,50
+Oak Park,-0.25,-0.91,-1.16,47,50,51
+Father Tolton,-2.11,0.86,-1.25,53,45,52
+Ritenour,-0.93,-3.21,-4.14,50,54,53
+Pattonville,-3.46,-2.94,-6.4,55,53,54
+Waynesville,-2.64,-4.23,-6.87,54,56,55
+Hazelwood West,-4.36,-5.36,-9.72,56,57,56
+Mehlville,-6.25,-4.19,-10.43,59,55,57
+Ladue Horton Watkins,-5.15,-5.91,-11.06,58,58,58
+North Kansas City,-4.61,-9.6,-14.22,57,59,59
