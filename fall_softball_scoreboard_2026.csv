@@ -803,6 +803,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-04,Warrenton,8,Wright City,1
 2026-09-05,Raymore-Peculiar,8,Blue Springs,2
 2026-09-05,Park Hill South,9,Carthage,8
+2026-09-05,Community,0,Clopton,1
+2026-09-05,Madison,9,Community,19
 2026-09-05,St. Dominic,2,Festus,0
 2026-09-05,Lafayette (Wildwood),7,Festus,1
 2026-09-05,Highland,14,Francis Howell Central,2
@@ -2527,6 +2529,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-09-30,Rolla,2,Capital City,3
 2026-09-30,Chaffee,23,Central (Cape Girardeau),3
 2026-09-30,Park Hill South,10,Central (St. Joseph),3
+2026-09-30,Parkview,20,Climax Springs,12
 2026-09-30,St. Clair,2,DeSoto,17
 2026-09-30,Stoutland,5,Dixon,12
 2026-09-30,Highland,3,Elsberry,4
@@ -2589,6 +2592,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-01,Parkway North with Principia,1,Hazelwood West,3
 2026-10-01,Sikeston,0,Kelly,19
 2026-10-01,Waynesville,0,Kickapoo,15
+2026-10-01,Ladue Horton Watkins,0,Kirkwood,10
 2026-10-01,Marquette,0,Lafayette (Wildwood),10
 2026-10-01,Parkview,19,Laquey,11
 2026-10-01,Troy Buchanan,18,Liberty (Wentzville),3
@@ -2610,12 +2614,14 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-01,Fredericktown,16,St. Pius X (Festus),0
 2026-10-01,Hartville,8,Stoutland,5
 2026-10-01,Ft. Zumwalt East,0,Timberland,15
+2026-10-01,Raytown,0,Truman,10
 2026-10-01,Norwood,2,Twin Rivers,6
 2026-10-01,Lutheran St. Charles with Veritas Christian Academy,10,Valley Park,13
 2026-10-01,Richland,1,Vienna,12
 2026-10-01,Neosho,8,Willard,2
 2026-10-01,Pacific,6,Windsor (Imperial),7
 2026-10-02,St. Teresa's Academy,5,Aurora,8
+2026-10-02,Republic,2,Bolivar,3
 2026-10-02,Battle,1,Bolivar,3
 2026-10-02,Mark Twain,8,Bowling Green,11
 2026-10-02,Branson,11,Camdenton,1
@@ -2631,6 +2637,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-02,Rockwood Summit,4,Francis Howell North,14
 2026-10-02,Ft. Zumwalt North,5,Ft. Zumwalt East,15
 2026-10-02,Francis Howell,15,Glendale,11
+2026-10-02,Aurora,18,Glendale,5
 2026-10-02,Notre Dame de Sion,3,Grandview,13
 2026-10-02,Wheatland,9,Hermitage,5
 2026-10-02,Incarnate Word Academy,6,Hickman,7
@@ -2645,16 +2652,18 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-02,Linn County,5,La Plata,15
 2026-10-02,Nixa,5,Lee's Summit North,4
 2026-10-02,Capital City,3,Liberty,2
+2026-10-02,Willard,0,Liberty,2
 2026-10-02,Park Hill South,0,Marshfield,15
+2026-10-02,Savannah,5,Mexico,1
 2026-10-02,Halfway,10,Montrose with Appleton City,0
 2026-10-02,Blair Oaks,1,Oak Grove,11
 2026-10-02,Oak Park,1,Park Hill,9
 2026-10-02,Rolla,4,Parkway Central,6
 2026-10-02,Battle,1,Republic,7
 2026-10-02,West Plains,2,Rolla,18
+2026-10-02,Ladue Horton Watkins,0,St. Charles West with St. Charles,15
 2026-10-02,Timberland,12,St. Dominic,0
 2026-10-02,St. Joseph's Academy,13,St. Pius X (Festus),0
-2026-10-02,Raytown,0,Truman,10
 2026-10-02,Stoutland,14,Tuscumbia,3
 2026-10-02,Pattonville,8,Ursuline Academy,5
 2026-10-02,Climax Springs,13,Walnut Grove,16
@@ -2664,22 +2673,31 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-02,Lincoln College Prep,7,Winnetonka,22
 2026-10-03,Sturgeon,3,Atlanta,2
 2026-10-03,Capital City,12,Aurora,2
+2026-10-03,Liberty,18,Aurora,2
 2026-10-03,North Platte,2,Benton,18
 2026-10-03,South Harrison,7,Benton,5
 2026-10-03,Incarnate Word Academy,4,Blair Oaks,1
+2026-10-03,Nixa,10,Bolivar,9
 2026-10-03,Battle,6,Branson,4
 2026-10-03,Scotland County,3,Brookfield,16
 2026-10-03,Knox County,3,Brookfield,6
 2026-10-03,Carl Junction,17,Camdenton,2
 2026-10-03,Hillcrest,0,Camdenton,18
+2026-10-03,Harrisburg,10,Canton,0
 2026-10-03,St. Teresa's Academy,5,Carl Junction,11
+2026-10-03,Sullivan,1,Cassville,8
+2026-10-03,West Plains,1,Cassville,7
+2026-10-03,Eldon,0,Centralia,3
 2026-10-03,Oak Grove,5,Chillicothe,1
 2026-10-03,Mexico,3,Chillicothe,13
 2026-10-03,Madison,6,Clopton,22
 2026-10-03,Madison,9,Community,19
 2026-10-03,Wheatland,4,Dadeville with Everton,5
 2026-10-03,Halfway,10,Dadeville with Everton,2
+2026-10-03,Jefferson (Conception) with South Nodaway,9,DeKalb,6
+2026-10-03,Kelly,4,Doniphan,5
 2026-10-03,Fredericktown,10,Doniphan,11
+2026-10-03,Notre Dame (Cape Girardeau),9,Doniphan,9
 2026-10-03,Silex,7,Eugene,2
 2026-10-03,Vienna,6,Eugene,7
 2026-10-03,New Bloomfield,0,Eugene,8
@@ -2691,6 +2709,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-03,St. Elizabeth,14,Fulton,3
 2026-10-03,Montgomery County,14,Fulton,6
 2026-10-03,Marshfield,10,Glendale,0
+2026-10-03,Parkway Central,6,Glendale,9
 2026-10-03,Weaubleau,2,Halfway,7
 2026-10-03,Knox County,4,Harrisburg,14
 2026-10-03,St. James,7,Hermann with New Haven,11
@@ -2700,17 +2719,26 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-03,Savannah,7,Hickman,6
 2026-10-03,Macks Creek,12,Humansville,5
 2026-10-03,Incarnate Word Academy,2,Jefferson (Conception) with South Nodaway,1
+2026-10-03,North Andrew,8,Jefferson (Conception) with South Nodaway,5
 2026-10-03,Incarnate Word Academy,2,Jefferson City,1
+2026-10-03,Notre Dame (Cape Girardeau),0,Kelly,8
+2026-10-03,Parkway Central,14,Kickapoo,8
 2026-10-03,Park Hill South,0,Kickapoo,5
 2026-10-03,Excelsior Springs,10,Lawson,8
 2026-10-03,Bolivar,3,Lee's Summit North,12
 2026-10-03,Cameron,16,Lexington,0
+2026-10-03,Republic,0,Liberty,15
+2026-10-03,Branson,2,Liberty,14
+2026-10-03,Mexico,14,Liberty,5
 2026-10-03,Cameron,15,Marshall,0
+2026-10-03,Lexington,8,Marshall,14
 2026-10-03,Nixa,7,Marshfield,3
 2026-10-03,Rock Bridge,6,Marshfield,0
 2026-10-03,Liberty (Wentzville),5,Mexico,14
+2026-10-03,Savannah,5,Mexico,6
 2026-10-03,Scotland County,5,Monroe City,15
 2026-10-03,Schuyler County,1,Monroe City,11
+2026-10-03,Harrisburg,3,Monroe City,2
 2026-10-03,Vienna,5,Montgomery County,3
 2026-10-03,Hermitage,9,Montrose with Appleton City,5
 2026-10-03,Rock Bridge,9,Nixa,4
@@ -2719,6 +2747,8 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-03,North Kansas City,2,Oak Park,19
 2026-10-03,Clark County,7,Palmyra,16
 2026-10-03,Bolivar,9,Park Hill South,11
+2026-10-03,Willard,0,Parkway Central,4
+2026-10-03,Canton,5,Putnam County,0
 2026-10-03,Knox County,3,Putnam County,1
 2026-10-03,Branson,0,Rolla,5
 2026-10-03,Republic,3,Rolla,4
@@ -2727,9 +2757,14 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-03,Canton,2,Schuyler County,9
 2026-10-03,St. Elizabeth,4,Silex,3
 2026-10-03,Silex,11,South Callaway,0
+2026-10-03,New Bloomfield,2,South Callaway,6
+2026-10-03,Montgomery County,16,South Callaway,6
 2026-10-03,Sturgeon,11,South Shelby,12
 2026-10-03,Vienna,0,St. Elizabeth,7
 2026-10-03,Mark Twain,15,St. James,0
 2026-10-03,St. Teresa's Academy,4,Sullivan,11
+2026-10-03,La Plata,4,Trenton,7
+2026-10-03,Salisbury,9,Trenton,4
+2026-10-03,South Shelby,3,Trenton,15
 2026-10-03,Weaubleau,3,Wheatland,8
 2026-10-03,Battle,5,Willard,7
