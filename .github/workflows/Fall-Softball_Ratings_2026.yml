@@ -59,7 +59,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 pandas
+          pip install requests beautifulsoup4 pandas pillow fonttools brotli
  
       - name: Check required input files
         run: |
@@ -81,6 +81,13 @@ jobs:
             sed -n '/TEAMS NOT INCLUDED IN RATINGS/,/^=====/p' ratings_log.txt >> "$GITHUB_STEP_SUMMARY"
           fi
  
+      # Rankings graphics (statewide + each class) from the fresh ratings.
+      # Runs only if the ratings step succeeded. continue-on-error means a
+      # graphics problem never blocks the ratings/games data from pushing.
+      - name: Build rankings graphics
+        continue-on-error: true
+        run: python Fall_Softball_Graphics_2026.py
+ 
       - name: Commit and push outputs
         run: |
           git config user.name  "github-actions[bot]"
@@ -94,11 +101,13 @@ jobs:
                   fall_softball_games_2026_all.json fall_softball_games_2026_all.csv \
                   fall_softball_schedule_2026.json fall_softball_schedule_2026.csv \
                   fall_softball_missing_scores_2026.csv
+          # Rankings graphics (+ fonts, in case they were downloaded this run)
+          git add graphics/*.png 2>/dev/null || true
+          git add fonts/*.ttf 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
-          git commit -m "Update Fall Softball 2026 games, schedule, ratings ($(date -u +'%Y-%m-%d'))"
+          git commit -m "Update Fall Softball 2026 games, schedule, ratings, graphics ($(date -u +'%Y-%m-%d'))"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
- 
