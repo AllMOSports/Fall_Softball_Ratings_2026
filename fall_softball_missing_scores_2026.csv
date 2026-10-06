@@ -12,7 +12,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-17,no score,"Mercer with Cainsville, Ridgeway",,Cainsville,,False
 2026-09-17,no score,Van Buren,,DeSoto,,False
 2026-09-17,no score,Wellsville-Middletown,,St. Louis Patriots Sr.,,False
-2026-09-17,no score,King City with Union Star,,Stanberry,,True
 2026-09-18,no score,Normandy Collaborative,,McCluer North,,False
 2026-09-18,no score,Van Buren,,Norwood,,False
 2026-09-21,no score,"Braymer with Breckenridge, Southwest (Livingston County)",,Cainsville,,False
@@ -20,28 +19,13 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-21,no score,Normandy Collaborative,,University City,,False
 2026-09-22,no score,Clayton,,Normandy Collaborative,,False
 2026-09-22,no score,East Carter,,Van Buren,,False
-2026-09-24,no score,Lutheran St. Charles with Veritas Christian Academy,,Mexico,,True
-2026-09-28,no score,Worth County,,Maryville,,True
 2026-09-28,no score,Naylor,,Van Buren,,False
-2026-09-29,no score,Albany,,DeKalb,,True
-2026-09-30,no score,DeKalb,,Northeast Nodaway,,True
 2026-09-30,no score,"Pattonsburg with North Daviess, Winston",,Worth County,,True
-2026-10-01,no score,Monroe City,,Canton,,True
-2026-10-01,no score,Van-Far,,Community,,True
-2026-10-01,no score,Northeast Nodaway,,DeKalb,,True
-2026-10-01,no score,Hallsville with Christian Fellowship Sr.,,Eldon,,True
-2026-10-01,no score,Staley,,Lee's Summit,,True
 2026-10-01,no score,Blue Springs,,Lee's Summit West,,True
 2026-10-01,no score,Montgomery County,,Louisiana,,True
-2026-10-01,no score,"Brunswick with Keytesville, Northwestern (Mendon)",,Meadville,,True
 2026-10-01,no score,Clinton,,Oak Grove,,True
-2026-10-01,no score,West Platte,,Penney,,True
 2026-10-01,no score,Marshall,,Smith-Cotton,,True
 2026-10-01,no score,Doniphan,,Van Buren,,False
-2026-10-01,no score,Bowling Green,,Wellsville-Middletown,,True
 2026-10-02,no score,Van Buren,,Neelyville,,False
 2026-10-02,no score,Metro,,Normandy Collaborative,,False
 2026-10-02,no score,Hazelwood East,,University City,,False
-2026-10-03,no score,Community,,Clopton,,True
-2026-10-03,no score,Wright City,,Eldon,,True
-2026-10-03,no score,Humansville,,Montrose with Appleton City,,True

@@ -1,61 +1,61 @@
 School,OFF Rating,DEF Rating,OVR Rating,OFF Rank,DEF Rank,OVR Rank
-Helias Catholic,6.02,7.51,13.53,2,1,1
-Platte County,6.94,5.41,12.35,1,8,2
-Willard,5.33,6.51,11.84,3,2,3
-Washington,4.61,5.53,10.14,5,7,4
-Westminster Christian Academy,3.69,6.0,9.7,9,4,5
-Belton,4.57,4.87,9.45,6,11,6
-Parkway West,3.37,5.83,9.2,11,5,7
-Cor Jesu Academy,4.9,4.25,9.15,4,14,8
-Marshfield,3.07,6.02,9.09,12,3,9
-Parkway Central,4.12,4.96,9.08,7,10,10
-Festus,2.42,5.63,8.05,14,6,11
-Capital City,1.8,5.08,6.88,18,9,12
-Windsor (Imperial),2.4,4.46,6.86,15,12,13
-McDonald County,3.65,3.14,6.78,10,18,14
-Kearney,2.48,4.27,6.75,13,13,15
-Smithville,3.76,2.8,6.57,8,21,16
-Logan-Rogersville,1.6,4.0,5.6,22,15,17
-Benton,2.22,2.83,5.05,16,20,18
-St. Francis Borgia,2.1,2.46,4.56,17,24,19
-Hillsboro,1.72,2.77,4.49,20,22,20
-Rolla,1.27,3.09,4.36,25,19,21
-Incarnate Word Academy,0.3,3.64,3.94,31,17,22
-St. Dominic,-0.42,3.87,3.45,36,16,23
-Warrensburg,1.75,1.56,3.31,19,26,24
-St. Joseph's Academy,0.25,2.71,2.96,32,23,25
-Rockwood Summit,1.35,1.37,2.72,24,28,26
-Farmington,1.52,0.58,2.1,23,33,27
-Battle,0.84,1.16,2.0,27,29,28
-Pacific,-0.09,1.45,1.36,34,27,29
-Carl Junction,0.71,0.66,1.36,29,32,30
-Warrenton,-0.55,1.69,1.13,37,25,31
-Webster Groves,-0.41,0.87,0.46,35,31,32
-Hannibal,-0.76,1.02,0.26,38,30,33
-Ft. Zumwalt South,1.69,-1.61,0.09,21,37,34
-Ft. Zumwalt East,-0.89,0.31,-0.58,39,34,35
-Jefferson City,0.18,-1.07,-0.88,33,36,36
-Union,1.17,-2.12,-0.95,26,38,37
-Holt,0.84,-2.36,-1.53,28,41,38
-Lebanon,0.57,-2.6,-2.04,30,42,39
-St. Teresa's Academy,-1.6,-0.7,-2.3,41,35,40
-West Plains,-1.24,-3.0,-4.24,40,43,41
-Marshall,-3.43,-2.18,-5.61,45,40,42
-Raytown,-4.2,-2.17,-6.37,47,39,43
-Camdenton,-3.36,-5.21,-8.57,44,44,44
-Central (Cape Girardeau),-1.67,-7.03,-8.7,42,48,45
-Grandview,-3.83,-5.26,-9.08,46,45,46
-William Chrisman,-2.26,-6.86,-9.12,43,47,47
-Ursuline Academy,-4.94,-6.38,-11.32,52,46,48
-Winnetonka,-4.54,-7.89,-12.43,49,50,49
-Sikeston,-4.69,-8.69,-13.38,51,51,50
-Affton,-4.37,-9.06,-13.43,48,52,51
-Parkway North with Principia,-5.79,-7.76,-13.55,54,49,52
-Clayton,-5.61,-9.11,-14.72,53,53,53
-Hillcrest,-4.55,-10.87,-15.42,50,54,54
-University City,-7.61,-10.93,-18.54,55,55,55
-Parkview,-7.66,-12.81,-20.47,56,56,56
-Raytown South,-8.29,-13.04,-21.33,57,57,57
-McCluer North,-8.46,-13.21,-21.66,58,58,58
-Lincoln College Prep,-10.0,-16.96,-26.96,59,60,59
-Ruskin,-11.05,-16.87,-27.93,60,59,60
+Helias Catholic,5.66,7.59,13.25,2,1,1
+Platte County,7.07,5.71,12.78,1,5,2
+Willard,5.33,6.54,11.87,3,2,3
+Washington,4.6,5.62,10.22,5,7,4
+Westminster Christian Academy,3.81,6.04,9.85,8,3,5
+Cor Jesu Academy,5.12,4.31,9.43,4,13,6
+Parkway Central,4.19,5.05,9.24,7,10,7
+Belton,4.4,4.79,9.19,6,11,8
+Marshfield,3.05,6.03,9.08,12,4,9
+Parkway West,3.39,5.6,8.99,11,8,10
+Festus,2.54,5.63,8.17,13,6,11
+Capital City,1.77,5.3,7.08,18,9,12
+Windsor (Imperial),2.4,4.48,6.88,15,12,13
+McDonald County,3.64,3.15,6.79,10,18,14
+Kearney,2.45,4.26,6.72,14,14,15
+Smithville,3.79,2.84,6.62,9,22,16
+Logan-Rogersville,1.6,4.06,5.66,22,15,17
+Benton,2.21,2.84,5.05,16,21,18
+Hillsboro,1.76,2.84,4.6,19,20,19
+St. Francis Borgia,2.09,2.45,4.53,17,24,20
+Rolla,1.27,3.1,4.38,24,19,21
+Incarnate Word Academy,0.39,3.8,4.19,31,17,22
+St. Dominic,-0.57,3.86,3.29,36,16,23
+Warrensburg,1.75,1.42,3.17,20,26,24
+St. Joseph's Academy,0.24,2.71,2.95,32,23,25
+Rockwood Summit,1.23,1.22,2.45,25,27,26
+Farmington,1.48,0.64,2.12,23,32,27
+Battle,0.88,1.16,2.04,28,29,28
+Pacific,-0.08,1.18,1.1,34,28,29
+Warrenton,-0.61,1.7,1.09,37,25,30
+Carl Junction,0.76,0.32,1.08,29,33,31
+Webster Groves,-0.42,0.88,0.46,35,31,32
+Hannibal,-0.68,1.02,0.33,38,30,33
+Ft. Zumwalt South,1.69,-1.62,0.06,21,37,34
+Ft. Zumwalt East,-0.85,0.22,-0.62,40,34,35
+Jefferson City,0.16,-1.11,-0.95,33,36,36
+Union,1.0,-2.14,-1.15,26,39,37
+Holt,0.98,-2.2,-1.22,27,41,38
+Lebanon,0.58,-2.55,-1.97,30,42,39
+St. Teresa's Academy,-1.66,-0.7,-2.36,41,35,40
+West Plains,-0.77,-3.34,-4.11,39,43,41
+Marshall,-3.37,-2.15,-5.52,45,40,42
+Raytown,-4.02,-2.14,-6.16,47,38,43
+Camdenton,-3.35,-5.19,-8.54,44,45,44
+William Chrisman,-2.17,-6.79,-8.96,43,47,45
+Grandview,-3.84,-5.14,-8.98,46,44,46
+Central (Cape Girardeau),-1.94,-7.12,-9.06,42,48,47
+Ursuline Academy,-5.32,-6.32,-11.64,53,46,48
+Winnetonka,-4.59,-8.18,-12.77,49,50,49
+Sikeston,-4.61,-8.61,-13.22,50,51,50
+Parkway North with Principia,-5.82,-7.82,-13.63,54,49,51
+Affton,-4.57,-9.07,-13.65,48,52,52
+Clayton,-4.93,-9.38,-14.31,52,53,53
+Hillcrest,-4.61,-10.75,-15.36,51,54,54
+University City,-7.75,-10.91,-18.65,56,55,55
+Parkview,-7.48,-12.82,-20.3,55,57,56
+Raytown South,-8.12,-12.66,-20.79,57,56,57
+McCluer North,-8.55,-13.19,-21.74,58,58,58
+Lincoln College Prep,-10.07,-17.07,-27.15,59,59,59
+Ruskin,-11.9,-17.44,-29.34,60,60,60
