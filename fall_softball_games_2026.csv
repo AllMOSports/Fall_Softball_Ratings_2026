@@ -3065,6 +3065,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-07,Parkway North with Principia,2,Lutheran South,17,False,False
 2026-10-07,Macon,2,Marceline,14,False,False
 2026-10-07,Louisiana,5,Mark Twain,15,False,False
+2026-10-07,Mid-Buchanan,15,Maryville,0,False,False
 2026-10-07,La Plata,13,Meadville,1,False,False
 2026-10-07,West Platte,13,North Platte,6,False,False
 2026-10-07,DeKalb,9,Northeast Nodaway,6,False,False
@@ -3096,13 +3097,13 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-07,Wheatland,12,Weaubleau,1,False,False
 2026-10-07,Troy Buchanan,7,Westminster Christian Academy,3,False,False
 2026-10-07,North Kansas City,0,Winnetonka,15,False,False
-2026-10-07,Mid-Buchanan,,Maryville,,False,False
 2026-10-07,Central (St. Joseph),,Savannah,,False,False
 2026-10-08,Mehlville,6,Affton,9,False,False
 2026-10-08,Kirksville,9,Battle,4,False,False
 2026-10-08,Blue Springs South,9,Blue Springs,4,False,False
 2026-10-08,Logan-Rogersville,7,Bolivar,9,False,False
 2026-10-08,Eldon,2,Boonville,0,False,False
+2026-10-08,North Callaway,7,Bowling Green,5,False,False
 2026-10-08,Lone Jack,8,"Braymer with Breckenridge, Southwest (Livingston County)",0,False,False
 2026-10-08,Salisbury,9,Brookfield,2,False,False
 2026-10-08,Worth County,3,Cameron,2,False,False
@@ -3112,10 +3113,12 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-08,Naylor,10,Central (Cape Girardeau),1,False,False
 2026-10-08,Palmyra,1,Centralia,17,False,False
 2026-10-08,Blair Oaks,0,Chillicothe,9,False,False
+2026-10-08,South Shelby,2,Clark County,17,False,False
 2026-10-08,Hazelwood West,18,Clayton,0,False,False
 2026-10-08,Odessa,15,Clinton,1,False,False
 2026-10-08,Holt,1,Cor Jesu Academy,10,False,False
 2026-10-08,St. James,9,Crocker,19,False,False
+2026-10-08,Hermitage,18,Dadeville with Everton,3,False,False
 2026-10-08,North Platte,9,East Buchanan,4,False,False
 2026-10-08,Twin Rivers,3,East Carter,8,False,False
 2026-10-08,Mark Twain,4,Elsberry,5,False,False
@@ -3131,6 +3134,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-08,Polo,1,Gilman City with Tri-County,11,False,False
 2026-10-08,Novinger,6,Green City,5,False,False
 2026-10-08,Montrose with Appleton City,1,Halfway,16,False,False
+2026-10-08,California,2,Hallsville with Christian Fellowship Sr.,8,False,False
 2026-10-08,Higbee,3,Harrisburg,19,False,False
 2026-10-08,Father Tolton,0,Helias Catholic,13,False,False
 2026-10-08,Carrollton,2,Holden,17,False,False
@@ -3139,6 +3143,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-08,Neosho,5,Joplin,3,False,False
 2026-10-08,Grandview,0,Kearney,10,False,False
 2026-10-08,Lebanon,2,Kickapoo,17,False,False
+2026-10-08,University City,1,Kirkwood,16,False,False
 2026-10-08,Richmond,12,Knob Noster,0,False,False
 2026-10-08,Highland,14,Knox County,2,False,False
 2026-10-08,Atlanta,7,La Plata,12,False,False
@@ -3152,7 +3157,10 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-08,St. Elizabeth,4,Linn,5,False,False
 2026-10-08,St. Joseph's Academy,12,Lutheran South,0,False,False
 2026-10-08,Community,16,Marion County,0,False,False
+2026-10-08,Bishop LeBlond,0,Maryville,,False,False
 2026-10-08,Marceline,16,Maysville,0,False,False
+2026-10-08,Monett,0,McDonald County,9,False,False
+2026-10-08,Marshall,4,Moberly,6,False,False
 2026-10-08,Owensville,0,Montgomery County,15,False,False
 2026-10-08,Seneca,20,Nevada,6,False,False
 2026-10-08,Ozark,10,Nixa,6,False,False
@@ -3200,29 +3208,25 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-08,Festus,2,Windsor (Imperial),3,False,False
 2026-10-08,Wellsville-Middletown,2,Wright City,17,False,False
 2026-10-08,Milan,,Albany,,False,False
-2026-10-08,North Callaway,,Bowling Green,,False,False
 2026-10-08,Meadville,,Bucklin with Macon County,,False,False
 2026-10-08,North Kansas City,,Central (St. Joseph),,False,False
-2026-10-08,South Shelby,,Clark County,,False,False
-2026-10-08,Hermitage,,Dadeville with Everton,,False,False
 2026-10-08,Halfway,,Dadeville with Everton,,False,False
 2026-10-08,Lafayette (Wildwood),,Eureka,,False,False
 2026-10-08,Glasgow,,Fayette,,False,False
-2026-10-08,California,,Hallsville with Christian Fellowship Sr.,,False,False
 2026-10-08,Metro,,Hancock,,False,False
 2026-10-08,Macks Creek,,Humansville,,False,False
-2026-10-08,University City,,Kirkwood,,False,False
 2026-10-08,St. Charles West with St. Charles,,Lutheran St. Charles with Veritas Christian Academy,,False,False
-2026-10-08,Bishop LeBlond,,Maryville,,False,False
 2026-10-08,Worth County,,Maysville,,False,False
-2026-10-08,Monett,,McDonald County,,False,False
 2026-10-08,Linn County,,"Mercer with Cainsville, Ridgeway",,False,False
 2026-10-08,Fulton,,Mexico,,False,False
-2026-10-08,Marshall,,Moberly,,False,False
 2026-10-08,Hermann with New Haven,,New Bloomfield,,False,False
 2026-10-08,Valley Park,,Pacific,,False,False
 2026-10-08,St. Dominic,,Parkway West,,False,False
 2026-10-08,Ritenour,,Pattonville,,False,False
+2026-10-09,Hartville,3,Doniphan,,False,False
+2026-10-09,St. Elizabeth,11,Owensville,7,False,False
+2026-10-09,St. Elizabeth,3,Ozark,1,False,False
+2026-10-09,St. Francis Borgia,8,Union,5,False,False
 2026-10-09,Novinger,,Atlanta,,False,False
 2026-10-09,Metro,,Bayless,,False,False
 2026-10-09,Bevier,,Brashear,,False,False
@@ -3232,7 +3236,6 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-09,Weaubleau,,Climax Springs,,False,False
 2026-10-09,Jackson,,Cor Jesu Academy,,False,False
 2026-10-09,East Carter,,Dadeville with Everton,,False,False
-2026-10-09,Hartville,,Doniphan,,False,False
 2026-10-09,Kelly,,Doniphan,,False,False
 2026-10-09,Linn,,Eugene,,False,False
 2026-10-09,Ft. Zumwalt East,,Francis Howell North,,False,False
@@ -3249,8 +3252,6 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-09,Ritenour,,Mehlville,,False,False
 2026-10-09,East Carter,,Norwood,,False,False
 2026-10-09,Dadeville with Everton,,Norwood,,False,False
-2026-10-09,St. Elizabeth,,Owensville,,False,False
-2026-10-09,St. Elizabeth,,Ozark,,False,False
 2026-10-09,Notre Dame (St. Louis),,Parkway North with Principia,,False,False
 2026-10-09,DeSoto,,Parkway South,,False,False
 2026-10-09,St. Michael the Archangel,,Pleasant Hill,,False,False
@@ -3262,7 +3263,6 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-09,Nixa,,Sullivan,,False,False
 2026-10-09,St. Michael the Archangel,,Summit Christian Academy,,False,False
 2026-10-09,Bowling Green,,Troy Buchanan,,False,False
-2026-10-09,St. Francis Borgia,,Union,,False,False
 2026-10-09,Willard,,Union,,False,False
 2026-10-09,Macks Creek,,Walnut Grove,,False,False
 2026-10-09,Helias Catholic,,Washington,,False,False
@@ -3419,9 +3419,13 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-13,North Kansas City,,St. Pius X (Kansas City),,False,False
 2026-10-13,Oak Park,,Truman,,False,False
 2026-10-13,Ft. Zumwalt East,,Warrenton,,False,False
+2026-10-14,Naylor,,Norwood,,False,False
+2026-10-14,Newburg,,Laquey,,False,False
 2026-10-14,Walnut Grove,,Climax Springs,,False,False
 2026-10-14,Montrose with Appleton City,,Fair Play,,False,False
 2026-10-14,Higbee,,Pilot Grove,,False,False
+2026-10-14,Brashear,,Marion County,,False,False
+2026-10-14,Atlanta,,Bevier,,False,False
 2026-10-14,Norborne with Hardin-Central,,Meadville,,False,False
 2026-10-14,Northeast Nodaway,,Stewartsville with Osborn,,False,False
 2026-10-14,DeKalb,,Bishop LeBlond,,False,False
@@ -3492,9 +3496,13 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-14,Liberty North,,Central (St. Joseph),,False,False
 2026-10-14,Liberty,,Oak Park,,False,False
 2026-10-14,Parkway North with Principia,,Parkway Central,,False,False
+2026-10-15,Crocker,,Richland,,False,False
+2026-10-15,Stoutland,,Macks Creek,,False,False
 2026-10-15,Glasgow,,Jamestown,,False,False
 2026-10-15,Eugene,,New Franklin,,False,False
 2026-10-15,Russellville,,Tuscumbia,,False,False
+2026-10-15,Scotland County,,La Plata,,False,False
+2026-10-15,Canton,,Knox County,,False,False
 2026-10-15,"Braymer with Breckenridge, Southwest (Livingston County)",,"Tina-Avalon with Bosworth, Hale",,False,False
 2026-10-15,Gallatin,,Linn County,,False,False
 2026-10-15,Polo,,Bucklin with Macon County,,False,False
