@@ -1071,7 +1071,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-09-09,Parkway West,True,1,Westminster Christian Academy,True,4,False,False
 2026-09-09,Stoutland,True,13,Wheatland,True,8,False,False
 2026-09-09,Warrensburg,True,20,Winnetonka,True,5,False,False
-2026-09-09,Harrisonville,True,,Belton,True,,False,False
 2026-09-10,Clayton,True,12,Affton,True,15,False,False
 2026-09-10,William Chrisman,True,0,Belton,True,15,False,False
 2026-09-10,St. Pius X (Kansas City),True,1,Benton,True,4,False,False
@@ -2807,6 +2806,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-01,Dixon,True,8,Newburg,True,0,False,False
 2026-10-01,East Carter,True,2,North County,True,4,False,False
 2026-10-01,Webster Groves,True,2,Northwest (Cedar Hill),True,9,False,False
+2026-10-01,Clinton,True,0,Oak Grove,True,15,False,False
 2026-10-01,Holt,True,5,Orchard Farm,True,4,False,False
 2026-10-01,Rolla,True,15,Owensville,True,10,False,False
 2026-10-01,Oakville,True,1,Parkway Central,True,13,False,False
@@ -2828,7 +2828,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-01,Neosho,True,8,Willard,True,2,False,False
 2026-10-01,Pacific,True,6,Windsor (Imperial),True,7,False,False
 2026-10-01,Montgomery County,True,,Louisiana,True,,False,False
-2026-10-01,Clinton,True,,Oak Grove,True,,False,False
 2026-10-01,Doniphan,True,,Van Buren,False,,False,False
 2026-10-02,St. Teresa's Academy,True,5,Aurora,True,8,False,False
 2026-10-02,Republic,True,2,Bolivar,True,3,False,False
@@ -2890,6 +2889,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-03,Gallatin,True,6,Albany,True,7,False,False
 2026-10-03,Sturgeon,True,3,Atlanta,True,2,False,False
 2026-10-03,South Shelby,True,15,Atlanta,True,13,False,False
+2026-10-03,La Plata,True,12,Atlanta,True,2,False,False
 2026-10-03,Capital City,True,12,Aurora,True,2,False,False
 2026-10-03,Liberty,True,18,Aurora,True,2,False,False
 2026-10-03,North Platte,True,2,Benton,True,18,False,False
@@ -2994,8 +2994,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-03,South Shelby,True,3,Trenton,True,15,False,False
 2026-10-03,Weaubleau,True,3,Wheatland,True,8,False,False
 2026-10-03,Battle,True,5,Willard,True,7,False,False
-2026-10-03,La Plata,True,,Atlanta,True,,False,False
-2026-10-04,La Plata,True,,Atlanta,True,,False,False
 2026-10-05,Chillicothe,True,20,Bishop LeBlond,True,3,False,False
 2026-10-05,McDonald County,True,11,Bolivar,True,12,False,False
 2026-10-05,Lutheran St. Charles with Veritas Christian Academy,True,1,Bowling Green,True,11,False,False
@@ -3102,6 +3100,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-05,"Brunswick with Keytesville, Northwestern (Mendon)",True,17,"Tina-Avalon with Bosworth, Hale",True,0,False,False
 2026-10-05,Kelly,True,11,Twin Rivers,True,3,False,False
 2026-10-05,Lutheran South,True,3,Valley Park,True,4,False,False
+2026-10-05,Parkview,True,12,Walnut Grove,True,23,False,False
 2026-10-05,Sturgeon,True,16,Wellsville-Middletown,True,0,False,False
 2026-10-05,Fort Osage,True,14,William Chrisman,True,0,False,False
 2026-10-05,Oak Park,True,21,Winnetonka,True,2,False,False
@@ -3112,7 +3111,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-05,McCluer North,True,,Normandy Collaborative,False,,False,False
 2026-10-05,Maryville,True,,North Platte,True,,False,False
 2026-10-05,Norwood,True,,Van Buren,False,,False,False
-2026-10-05,Parkview,True,,Walnut Grove,True,,False,False
 2026-10-06,Valley Park,True,8,Bayless,True,6,False,False
 2026-10-06,Raytown,True,0,Belton,True,14,False,False
 2026-10-06,Madison,True,12,Bevier,True,9,False,False
@@ -3171,6 +3169,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-06,Palmyra,True,2,Monroe City,True,3,False,False
 2026-10-06,Elsberry,True,1,Montgomery County,True,4,False,False
 2026-10-06,Republic,True,3,Neosho,True,5,False,False
+2026-10-06,McDonald County,True,18,Nevada,True,1,False,False
 2026-10-06,Capital City,True,2,New Bloomfield,True,0,False,False
 2026-10-06,Pilot Grove,True,4,New Franklin,True,6,False,False
 2026-10-06,Climax Springs,True,5,Newburg,True,15,False,False
@@ -3184,6 +3183,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-06,California,True,1,Osage,True,13,False,False
 2026-10-06,Canton,True,1,Paris,True,5,False,False
 2026-10-06,Lee's Summit North,True,2,Park Hill,True,1,False,False
+2026-10-06,Central (Springfield),False,2,Parkview,True,18,False,False
 2026-10-06,Parkway West,True,4,Parkway Central,True,5,False,False
 2026-10-06,Clayton,True,5,Parkway North with Principia,True,18,False,False
 2026-10-06,Northwest (Cedar Hill),True,4,Parkway South,True,8,False,False
@@ -3195,6 +3195,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-06,Blue Springs South,True,12,Raymore-Peculiar,True,7,False,False
 2026-10-06,Iberia,True,14,Richland,True,1,False,False
 2026-10-06,Holden,True,6,Richmond,True,2,False,False
+2026-10-06,Ladue Horton Watkins,True,2,Ritenour,True,12,False,False
 2026-10-06,STEAM Academy,True,18,Riverview Gardens,False,16,False,False
 2026-10-06,Lutheran St. Charles with Veritas Christian Academy,True,0,Rockwood Summit,True,16,False,False
 2026-10-06,Eldon,True,16,Russellville,True,9,False,False
@@ -3226,14 +3227,11 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-06,Ft. Zumwalt North,True,0,Winfield,True,10,False,False
 2026-10-06,Raytown South,True,4,Winnetonka,True,16,False,False
 2026-10-06,Jefferson (Conception) with South Nodaway,True,3,Worth County,True,4,False,False
+2026-10-06,"Pattonsburg with North Daviess, Winston",True,7,Worth County,True,11,False,False
 2026-10-06,Salisbury,True,,Fayette,True,,False,False
 2026-10-06,Linn County,True,,Milan,True,,False,False
-2026-10-06,McDonald County,True,,Nevada,True,,False,False
 2026-10-06,Poplar Bluff,True,,Notre Dame (Cape Girardeau),True,,False,False
-2026-10-06,Central (Springfield),False,,Parkview,True,,False,False
-2026-10-06,Ladue Horton Watkins,True,,Ritenour,True,,False,False
 2026-10-06,Twin Rivers,True,,Van Buren,False,,False,False
-2026-10-06,"Pattonsburg with North Daviess, Winston",True,,Worth County,True,,False,False
 2026-10-07,Bayless,True,14,Affton,True,9,False,False
 2026-10-07,Park Hill South,True,1,Battle,True,6,False,False
 2026-10-07,Fort Osage,True,4,Belton,True,5,False,False
@@ -3246,8 +3244,9 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-07,Lone Jack,True,2,Cameron,True,12,False,False
 2026-10-07,Seneca,True,1,Cassville,True,6,False,False
 2026-10-07,Saxony Lutheran with St. Vincent,True,16,Central (Cape Girardeau),True,0,False,False
+2026-10-07,Monroe City,True,2,Clopton,True,0,False,False
 2026-10-07,Webster Groves,True,2,Cor Jesu Academy,True,14,False,False
-2026-10-07,Stewartsville with Osborn,True,9,East Buchanan,True,,False,False
+2026-10-07,Stewartsville with Osborn,True,9,East Buchanan,True,13,False,False
 2026-10-07,Warrensburg,True,4,Excelsior Springs,True,8,False,False
 2026-10-07,Helias Catholic,True,10,Fatima,True,0,False,False
 2026-10-07,Incarnate Word Academy,True,3,Francis Howell,True,13,False,False
@@ -3270,173 +3269,172 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-07,Parkway North with Principia,True,2,Lutheran South,True,17,False,False
 2026-10-07,Macon,True,2,Marceline,True,14,False,False
 2026-10-07,Louisiana,True,5,Mark Twain,True,15,False,False
+2026-10-07,La Plata,True,13,Meadville,True,1,False,False
 2026-10-07,West Platte,True,13,North Platte,True,6,False,False
 2026-10-07,DeKalb,True,9,Northeast Nodaway,True,6,False,False
 2026-10-07,Clinton,True,0,Oak Grove,True,15,False,False
 2026-10-07,Lindbergh,True,10,Oakville,True,3,False,False
+2026-10-07,Ladue Horton Watkins,True,2,Orchard Farm,True,17,False,False
 2026-10-07,Glendale,True,1,Ozark,True,13,False,False
 2026-10-07,St. Francis Borgia,True,2,Parkway West,True,12,False,False
+2026-10-07,North Andrew,True,15,"Pattonsburg with North Daviess, Winston",True,5,False,False
 2026-10-07,Hillsboro,True,20,Perryville,True,3,False,False
+2026-10-07,Raytown,True,1,Platte County,True,20,False,False
 2026-10-07,Joplin,True,6,Republic,True,3,False,False
+2026-10-07,Ft. Zumwalt South,True,9,Rockwood Summit,True,12,False,False
 2026-10-07,New Bloomfield,True,2,Russellville,True,12,False,False
 2026-10-07,North Shelby,True,3,Salisbury,True,2,False,False
 2026-10-07,Brookfield,True,1,Schuyler County,True,12,False,False
+2026-10-07,Farmington,True,18,Sikeston,True,0,False,False
 2026-10-07,Rock Bridge,True,12,Smith-Cotton,True,0,False,False
+2026-10-07,Van-Far,True,9,South Callaway,True,12,False,False
 2026-10-07,Jefferson City,True,5,Southern Boone,True,15,False,False
+2026-10-07,Ritenour,True,0,St. Dominic,True,11,False,False
 2026-10-07,Stoutland,True,11,St. James,True,4,False,False
 2026-10-07,Kirkwood,True,0,St. Joseph's Academy,True,1,False,False
 2026-10-07,Oak Park,True,17,St. Michael the Archangel,True,7,False,False
 2026-10-07,Harrisburg,True,12,Sturgeon,True,0,False,False
 2026-10-07,St. Teresa's Academy,True,4,Summit Christian Academy,True,10,False,False
+2026-10-07,William Chrisman,True,0,Truman,True,10,False,False
 2026-10-07,Washington,True,7,Warrenton,True,5,False,False
 2026-10-07,Wheatland,True,12,Weaubleau,True,1,False,False
 2026-10-07,Troy Buchanan,True,7,Westminster Christian Academy,True,3,False,False
 2026-10-07,North Kansas City,True,0,Winnetonka,True,15,False,False
-2026-10-07,Monroe City,True,,Clopton,True,,False,False
 2026-10-07,Mid-Buchanan,True,,Maryville,True,,False,False
-2026-10-07,La Plata,True,,Meadville,True,,False,False
 2026-10-07,McCluer North,True,,Normandy Collaborative,False,,False,False
-2026-10-07,Ladue Horton Watkins,True,,Orchard Farm,True,,False,False
-2026-10-07,North Andrew,True,,"Pattonsburg with North Daviess, Winston",True,,False,False
-2026-10-07,Raytown,True,,Platte County,True,,False,False
-2026-10-07,Ft. Zumwalt South,True,,Rockwood Summit,True,,False,False
 2026-10-07,Central (St. Joseph),True,,Savannah,True,,False,False
-2026-10-07,Farmington,True,,Sikeston,True,,False,False
-2026-10-07,Van-Far,True,,South Callaway,True,,False,False
-2026-10-07,Ritenour,True,,St. Dominic,True,,False,False
-2026-10-07,William Chrisman,True,,Truman,True,,False,False
-2026-10-08,Mehlville,True,,Affton,True,,False,False
+2026-10-08,Mehlville,True,6,Affton,True,9,False,False
+2026-10-08,Kirksville,True,9,Battle,True,4,False,False
+2026-10-08,Blue Springs South,True,9,Blue Springs,True,4,False,False
+2026-10-08,Logan-Rogersville,True,7,Bolivar,True,9,False,False
+2026-10-08,Eldon,True,2,Boonville,True,0,False,False
+2026-10-08,Lone Jack,True,8,"Braymer with Breckenridge, Southwest (Livingston County)",True,0,False,False
+2026-10-08,Salisbury,True,9,Brookfield,True,2,False,False
+2026-10-08,Worth County,True,3,Cameron,True,2,False,False
+2026-10-08,Scotland County,True,2,Canton,True,3,False,False
+2026-10-08,West Plains,True,1,Carl Junction,True,12,False,False
+2026-10-08,Willard,True,6,Carthage,True,1,False,False
+2026-10-08,Naylor,True,10,Central (Cape Girardeau),True,1,False,False
+2026-10-08,Cassville,True,18,Central (Springfield),False,0,False,False
+2026-10-08,Palmyra,True,1,Centralia,True,17,False,False
+2026-10-08,Blair Oaks,True,0,Chillicothe,True,9,False,False
+2026-10-08,Hazelwood West,True,18,Clayton,True,0,False,False
+2026-10-08,Odessa,True,15,Clinton,True,1,False,False
+2026-10-08,Holt,True,1,Cor Jesu Academy,True,10,False,False
+2026-10-08,St. James,True,9,Crocker,True,19,False,False
+2026-10-08,North Platte,True,9,East Buchanan,True,4,False,False
+2026-10-08,Twin Rivers,True,3,East Carter,True,8,False,False
+2026-10-08,Mark Twain,True,4,Elsberry,True,5,False,False
+2026-10-08,Fatima,True,10,Eugene,True,5,False,False
+2026-10-08,Benton,True,2,Excelsior Springs,True,3,False,False
+2026-10-08,Perryville,True,13,Farmington,True,6,False,False
+2026-10-08,Truman,True,1,Fort Osage,True,6,False,False
+2026-10-08,Parkway Central,True,11,Fox,True,4,False,False
+2026-10-08,Marquette,True,6,Francis Howell,True,7,False,False
+2026-10-08,Francis Howell North,True,18,Ft. Zumwalt North,True,0,False,False
+2026-10-08,Warrenton,True,3,Ft. Zumwalt South,True,11,False,False
+2026-10-08,Princeton,True,13,Gallatin,True,7,False,False
+2026-10-08,Polo,True,1,Gilman City with Tri-County,True,11,False,False
+2026-10-08,Novinger,True,6,Green City,True,5,False,False
+2026-10-08,Montrose with Appleton City,True,1,Halfway,True,16,False,False
+2026-10-08,Higbee,True,3,Harrisburg,True,19,False,False
+2026-10-08,Father Tolton,True,0,Helias Catholic,True,13,False,False
+2026-10-08,Carrollton,True,2,Holden,True,17,False,False
+2026-10-08,South Callaway,True,9,Jamestown,True,13,False,False
+2026-10-08,North County,True,18,Jefferson (Festus),True,4,False,False
+2026-10-08,Neosho,True,5,Joplin,True,3,False,False
+2026-10-08,Grandview,True,0,Kearney,True,10,False,False
+2026-10-08,Lebanon,True,2,Kickapoo,True,17,False,False
+2026-10-08,Richmond,True,12,Knob Noster,True,0,False,False
+2026-10-08,Highland,True,14,Knox County,True,2,False,False
+2026-10-08,Atlanta,True,7,La Plata,True,12,False,False
+2026-10-08,Parkway North with Principia,True,7,Ladue Horton Watkins,True,11,False,False
+2026-10-08,Lexington,True,8,Lafayette County,True,18,False,False
+2026-10-08,Climax Springs,True,18,Laquey,True,9,False,False
+2026-10-08,Penney,True,7,Lathrop,True,15,False,False
+2026-10-08,Mid-Buchanan,True,10,Lawson,True,4,False,False
+2026-10-08,Liberty,True,3,Lee's Summit North,True,4,False,False
+2026-10-08,Liberty North,True,18,Lee's Summit West,True,5,False,False
+2026-10-08,St. Elizabeth,True,4,Linn,True,5,False,False
+2026-10-08,St. Joseph's Academy,True,12,Lutheran South,True,0,False,False
+2026-10-08,Community,True,16,Marion County,True,0,False,False
+2026-10-08,Marceline,True,16,Maysville,True,0,False,False
+2026-10-08,Owensville,True,0,Montgomery County,True,15,False,False
+2026-10-08,Seneca,True,20,Nevada,True,6,False,False
+2026-10-08,Ozark,True,10,Nixa,True,6,False,False
+2026-10-08,Stanberry,True,6,North Andrew,True,1,False,False
+2026-10-08,Liberty (Wentzville),True,4,North Point,True,5,False,False
+2026-10-08,Madison,True,7,Northeast (Cairo),True,17,False,False
+2026-10-08,Jefferson (Conception) with South Nodaway,True,5,Northeast Nodaway,True,1,False,False
+2026-10-08,Lindbergh,True,3,Northwest (Cedar Hill),True,1,False,False
+2026-10-08,Kelly,True,0,Notre Dame (Cape Girardeau),True,1,False,False
+2026-10-08,Webster Groves,True,0,Oakville,True,2,False,False
+2026-10-08,Oak Park,True,2,Park Hill South,True,10,False,False
+2026-10-08,Seckman,True,0,Parkway South,True,7,False,False
+2026-10-08,"Tina-Avalon with Bosworth, Hale",True,0,"Pattonsburg with North Daviess, Winston",True,11,False,False
+2026-10-08,King City with Union Star,True,14,"Pattonsburg with North Daviess, Winston",True,1,False,False
+2026-10-08,Chaffee,True,10,Poplar Bluff,True,3,False,False
+2026-10-08,Trenton,True,7,Putnam County,True,4,False,False
+2026-10-08,Lee's Summit,True,8,Raymore-Peculiar,True,9,False,False
+2026-10-08,Webb City,True,10,Republic,True,3,False,False
+2026-10-08,Newburg,True,0,Richland,True,10,False,False
+2026-10-08,McCluer North,True,19,Riverview Gardens,False,6,False,False
+2026-10-08,Ft. Zumwalt West,True,6,Rock Bridge,True,0,False,False
+2026-10-08,Winnetonka,True,25,Ruskin,True,8,False,False
+2026-10-08,Pilot Grove,True,3,Russellville,True,15,False,False
+2026-10-08,DeSoto,True,2,Saxony Lutheran with St. Vincent,True,12,False,False
+2026-10-08,"Brunswick with Keytesville, Northwestern (Mendon)",True,2,Slater with Malta Bend,True,6,False,False
+2026-10-08,Platte County,True,12,Smithville,True,2,False,False
+2026-10-08,Savannah,True,10,South Harrison,True,0,False,False
+2026-10-08,Osage,True,5,Southern Boone,True,11,False,False
+2026-10-08,Cuba,True,5,St. Clair,True,15,False,False
+2026-10-08,St. Pius X (Festus),True,8,St. Francis Borgia,True,10,False,False
+2026-10-08,St. Pius X (Kansas City),True,5,St. Teresa's Academy,True,4,False,False
+2026-10-08,Park Hill,True,6,Staley,True,13,False,False
+2026-10-08,North Harrison,True,12,Stewartsville with Osborn,True,14,False,False
+2026-10-08,Paris,True,3,Sturgeon,True,2,False,False
+2026-10-08,Francis Howell Central,True,0,Timberland,True,7,False,False
+2026-10-08,Clopton,True,8,Van-Far,True,4,False,False
+2026-10-08,Iberia,True,11,Vienna,True,13,False,False
+2026-10-08,Pleasant Hill,True,17,Warrensburg,True,3,False,False
+2026-10-08,Sullivan,True,6,Washington,True,15,False,False
+2026-10-08,Glendale,True,12,Waynesville,True,4,False,False
+2026-10-08,Plattsburg,True,2,West Platte,True,17,False,False
+2026-10-08,Incarnate Word Academy,True,2,Westminster Christian Academy,True,8,False,False
+2026-10-08,New Franklin,True,8,Westran,True,10,False,False
+2026-10-08,Tuscumbia,True,2,Wheatland,True,5,False,False
+2026-10-08,Grain Valley,True,16,William Chrisman,True,0,False,False
+2026-10-08,Festus,True,2,Windsor (Imperial),True,3,False,False
+2026-10-08,Wellsville-Middletown,True,2,Wright City,True,17,False,False
 2026-10-08,Milan,True,,Albany,True,,False,False
-2026-10-08,Kirksville,True,,Battle,True,,False,False
-2026-10-08,Blue Springs South,True,,Blue Springs,True,,False,False
-2026-10-08,Logan-Rogersville,True,,Bolivar,True,,False,False
-2026-10-08,Eldon,True,,Boonville,True,,False,False
 2026-10-08,North Callaway,True,,Bowling Green,True,,False,False
-2026-10-08,Lone Jack,True,,"Braymer with Breckenridge, Southwest (Livingston County)",True,,False,False
-2026-10-08,Salisbury,True,,Brookfield,True,,False,False
 2026-10-08,Meadville,True,,Bucklin with Macon County,True,,False,False
-2026-10-08,Worth County,True,,Cameron,True,,False,False
-2026-10-08,Scotland County,True,,Canton,True,,False,False
-2026-10-08,West Plains,True,,Carl Junction,True,,False,False
-2026-10-08,Willard,True,,Carthage,True,,False,False
-2026-10-08,Naylor,True,,Central (Cape Girardeau),True,,False,False
-2026-10-08,Cassville,True,,Central (Springfield),False,,False,False
 2026-10-08,North Kansas City,True,,Central (St. Joseph),True,,False,False
-2026-10-08,Palmyra,True,,Centralia,True,,False,False
-2026-10-08,Blair Oaks,True,,Chillicothe,True,,False,False
 2026-10-08,South Shelby,True,,Clark County,True,,False,False
-2026-10-08,Hazelwood West,True,,Clayton,True,,False,False
-2026-10-08,Odessa,True,,Clinton,True,,False,False
-2026-10-08,Holt,True,,Cor Jesu Academy,True,,False,False
-2026-10-08,St. James,True,,Crocker,True,,False,False
 2026-10-08,Hermitage,True,,Dadeville with Everton,True,,False,False
 2026-10-08,Halfway,True,,Dadeville with Everton,True,,False,False
-2026-10-08,North Platte,True,,East Buchanan,True,,False,False
-2026-10-08,Twin Rivers,True,,East Carter,True,,False,False
-2026-10-08,Mark Twain,True,,Elsberry,True,,False,False
-2026-10-08,Fatima,True,,Eugene,True,,False,False
 2026-10-08,Lafayette (Wildwood),True,,Eureka,True,,False,False
-2026-10-08,Benton,True,,Excelsior Springs,True,,False,False
-2026-10-08,Perryville,True,,Farmington,True,,False,False
 2026-10-08,Glasgow,True,,Fayette,True,,False,False
-2026-10-08,Truman,True,,Fort Osage,True,,False,False
-2026-10-08,Parkway Central,True,,Fox,True,,False,False
-2026-10-08,Francis Howell North,True,,Ft. Zumwalt North,True,,False,False
-2026-10-08,Warrenton,True,,Ft. Zumwalt South,True,,False,False
-2026-10-08,Princeton,True,,Gallatin,True,,False,False
-2026-10-08,Polo,True,,Gilman City with Tri-County,True,,False,False
-2026-10-08,Novinger,True,,Green City,True,,False,False
-2026-10-08,Montrose with Appleton City,True,,Halfway,True,,False,False
 2026-10-08,California,True,,Hallsville with Christian Fellowship Sr.,True,,False,False
 2026-10-08,Metro,True,,Hancock,True,,False,False
-2026-10-08,Higbee,True,,Harrisburg,True,,False,False
-2026-10-08,Father Tolton,True,,Helias Catholic,True,,False,False
-2026-10-08,Carrollton,True,,Holden,True,,False,False
 2026-10-08,Macks Creek,True,,Humansville,True,,False,False
-2026-10-08,South Callaway,True,,Jamestown,True,,False,False
-2026-10-08,North County,True,,Jefferson (Festus),True,,False,False
-2026-10-08,Neosho,True,,Joplin,True,,False,False
-2026-10-08,Grandview,True,,Kearney,True,,False,False
-2026-10-08,Lebanon,True,,Kickapoo,True,,False,False
 2026-10-08,University City,True,,Kirkwood,True,,False,False
-2026-10-08,Richmond,True,,Knob Noster,True,,False,False
-2026-10-08,Highland,True,,Knox County,True,,False,False
-2026-10-08,Atlanta,True,,La Plata,True,,False,False
-2026-10-08,Parkway North with Principia,True,,Ladue Horton Watkins,True,,False,False
-2026-10-08,Lexington,True,,Lafayette County,True,,False,False
-2026-10-08,Climax Springs,True,,Laquey,True,,False,False
-2026-10-08,Penney,True,,Lathrop,True,,False,False
-2026-10-08,Mid-Buchanan,True,,Lawson,True,,False,False
-2026-10-08,Liberty,True,,Lee's Summit North,True,,False,False
-2026-10-08,Liberty North,True,,Lee's Summit West,True,,False,False
-2026-10-08,St. Elizabeth,True,,Linn,True,,False,False
-2026-10-08,St. Joseph's Academy,True,,Lutheran South,True,,False,False
 2026-10-08,St. Charles West with St. Charles,True,,Lutheran St. Charles with Veritas Christian Academy,True,,False,False
-2026-10-08,Community,True,,Marion County,True,,False,False
 2026-10-08,Bishop LeBlond,True,,Maryville,True,,False,False
-2026-10-08,Marceline,True,,Maysville,True,,False,False
 2026-10-08,Worth County,True,,Maysville,True,,False,False
 2026-10-08,Monett,True,,McDonald County,True,,False,False
 2026-10-08,Linn County,True,,"Mercer with Cainsville, Ridgeway",True,,False,False
 2026-10-08,Fulton,True,,Mexico,True,,False,False
 2026-10-08,Marshall,True,,Moberly,True,,False,False
-2026-10-08,Owensville,True,,Montgomery County,True,,False,False
-2026-10-08,Seneca,True,,Nevada,True,,False,False
 2026-10-08,Hermann with New Haven,True,,New Bloomfield,True,,False,False
-2026-10-08,Ozark,True,,Nixa,True,,False,False
-2026-10-08,Stanberry,True,,North Andrew,True,,False,False
-2026-10-08,Liberty (Wentzville),True,,North Point,True,,False,False
-2026-10-08,Madison,True,,Northeast (Cairo),True,,False,False
-2026-10-08,Jefferson (Conception) with South Nodaway,True,,Northeast Nodaway,True,,False,False
-2026-10-08,Lindbergh,True,,Northwest (Cedar Hill),True,,False,False
-2026-10-08,Kelly,True,,Notre Dame (Cape Girardeau),True,,False,False
-2026-10-08,Harrisonville,True,,Oak Grove,True,,False,False
-2026-10-08,Webster Groves,True,,Oakville,True,,False,False
 2026-10-08,Valley Park,True,,Pacific,True,,False,False
-2026-10-08,Oak Park,True,,Park Hill South,True,,False,False
-2026-10-08,Seckman,True,,Parkway South,True,,False,False
 2026-10-08,St. Dominic,True,,Parkway West,True,,False,False
-2026-10-08,"Tina-Avalon with Bosworth, Hale",True,,"Pattonsburg with North Daviess, Winston",True,,False,False
-2026-10-08,King City with Union Star,True,,"Pattonsburg with North Daviess, Winston",True,,False,False
 2026-10-08,Ritenour,True,,Pattonville,True,,False,False
-2026-10-08,Chaffee,True,,Poplar Bluff,True,,False,False
-2026-10-08,Trenton,True,,Putnam County,True,,False,False
-2026-10-08,Lee's Summit,True,,Raymore-Peculiar,True,,False,False
-2026-10-08,Webb City,True,,Republic,True,,False,False
-2026-10-08,Newburg,True,,Richland,True,,False,False
-2026-10-08,McCluer North,True,,Riverview Gardens,False,,False,False
-2026-10-08,Ft. Zumwalt West,True,,Rock Bridge,True,,False,False
-2026-10-08,Winnetonka,True,,Ruskin,True,,False,False
-2026-10-08,Pilot Grove,True,,Russellville,True,,False,False
-2026-10-08,DeSoto,True,,Saxony Lutheran with St. Vincent,True,,False,False
-2026-10-08,"Brunswick with Keytesville, Northwestern (Mendon)",True,,Slater with Malta Bend,True,,False,False
-2026-10-08,Platte County,True,,Smithville,True,,False,False
-2026-10-08,Savannah,True,,South Harrison,True,,False,False
-2026-10-08,Osage,True,,Southern Boone,True,,False,False
-2026-10-08,Cuba,True,,St. Clair,True,,False,False
-2026-10-08,St. Pius X (Festus),True,,St. Francis Borgia,True,,False,False
-2026-10-08,St. Pius X (Kansas City),True,,St. Teresa's Academy,True,,False,False
-2026-10-08,Park Hill,True,,Staley,True,,False,False
-2026-10-08,Stanberry,True,,Stewartsville with Osborn,True,,False,False
-2026-10-08,North Harrison,True,,Stewartsville with Osborn,True,,False,False
-2026-10-08,Paris,True,,Sturgeon,True,,False,False
-2026-10-08,Francis Howell Central,True,,Timberland,True,,False,False
-2026-10-08,Clopton,True,,Van-Far,True,,False,False
-2026-10-08,Iberia,True,,Vienna,True,,False,False
-2026-10-08,Pleasant Hill,True,,Warrensburg,True,,False,False
-2026-10-08,Sullivan,True,,Washington,True,,False,False
-2026-10-08,Glendale,True,,Waynesville,True,,False,False
-2026-10-08,Plattsburg,True,,West Platte,True,,False,False
-2026-10-08,Incarnate Word Academy,True,,Westminster Christian Academy,True,,False,False
-2026-10-08,New Franklin,True,,Westran,True,,False,False
-2026-10-08,Tuscumbia,True,,Wheatland,True,,False,False
-2026-10-08,Grain Valley,True,,William Chrisman,True,,False,False
-2026-10-08,Festus,True,,Windsor (Imperial),True,,False,False
-2026-10-08,Wellsville-Middletown,True,,Wright City,True,,False,False
 2026-10-09,Novinger,True,,Atlanta,True,,False,False
 2026-10-09,Metro,True,,Bayless,True,,False,False
 2026-10-09,Bevier,True,,Brashear,True,,False,False
 2026-10-09,Marion County,True,,Brashear,True,,False,False
+2026-10-09,Rolla,True,,Carthage,True,,False,False
 2026-10-09,Centralia,True,,Clark County,True,,False,False
 2026-10-09,Weaubleau,True,,Climax Springs,True,,False,False
 2026-10-09,Jackson,True,,Cor Jesu Academy,True,,False,False
@@ -3446,6 +3444,8 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-09,Linn,True,,Eugene,True,,False,False
 2026-10-09,Ft. Zumwalt East,True,,Francis Howell North,True,,False,False
 2026-10-09,Francis Howell Central,True,,Ft. Zumwalt West,True,,False,False
+2026-10-09,Pleasant Hill,True,,Harrisonville,True,,False,False
+2026-10-09,Summit Christian Academy,True,,Harrisonville,True,,False,False
 2026-10-09,McCluer North,True,,Hazelwood Central,False,,False,False
 2026-10-09,Hazelwood East,False,,Hazelwood West,True,,False,False
 2026-10-09,Richland,True,,Hermitage,True,,False,False
@@ -3465,6 +3465,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-09,DeSoto,True,,Parkway South,True,,False,False
 2026-10-09,St. Michael the Archangel,True,,Pleasant Hill,True,,False,False
 2026-10-09,Albany,True,,Princeton,True,,False,False
+2026-10-09,Windsor (Imperial),True,,Rolla,True,,False,False
 2026-10-09,Green City,True,,Schuyler County,True,,False,False
 2026-10-09,St. Louis Patriots Sr.,False,,St. Charles West with St. Charles,True,,False,False
 2026-10-09,Hancock,True,,STEAM Academy,True,,False,False
@@ -3482,19 +3483,22 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-10,Joplin,True,,Bolivar,True,,False,False
 2026-10-10,Grundy County with Newtown-Harris,True,,"Braymer with Breckenridge, Southwest (Livingston County)",True,,False,False
 2026-10-10,Joplin,True,,Cassville,True,,False,False
+2026-10-10,Laquey,True,,Dixon,True,,False,False
+2026-10-10,Stoutland,True,,Dixon,True,,False,False
+2026-10-10,Tuscumbia,True,,Dixon,True,,False,False
 2026-10-10,Silex,True,,Elsberry,True,,False,False
-2026-10-10,Marshall,True,,Grandview,True,,False,False
 2026-10-10,Francis Howell,True,,Hannibal,True,,False,False
 2026-10-10,Southern Boone,True,,Harrisburg,True,,False,False
 2026-10-10,Webster Groves,True,,Harrisburg,True,,False,False
 2026-10-10,Sturgeon,True,,Higbee,True,,False,False
 2026-10-10,Liberty North,True,,Kickapoo,True,,False,False
 2026-10-10,Rock Bridge,True,,Kickapoo,True,,False,False
-2026-10-10,Grandview,True,,Lafayette County,True,,False,False
+2026-10-10,Sherwood,True,,Lafayette County,True,,False,False
 2026-10-10,Rock Bridge,True,,Liberty North,True,,False,False
 2026-10-10,Waynesville,True,,Logan-Rogersville,True,,False,False
 2026-10-10,Branson,True,,Logan-Rogersville,True,,False,False
 2026-10-10,St. Teresa's Academy,True,,Odessa,True,,False,False
+2026-10-10,Sherwood,True,,Odessa,True,,False,False
 2026-10-10,Doniphan,True,,Parkway South,True,,False,False
 2026-10-10,Princeton,True,,Penney,True,,False,False
 2026-10-10,Mark Twain,True,,Perryville,True,,False,False
@@ -3589,6 +3593,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-12,Savannah,True,,Park Hill,True,,False,False
 2026-10-12,Hermitage,True,,Parkview,True,,False,False
 2026-10-12,Slater with Malta Bend,True,,Pilot Grove,True,,False,False
+2026-10-12,"Mercer with Cainsville, Ridgeway",True,,Polo,True,,False,False
 2026-10-12,Maysville,True,,Princeton,True,,False,False
 2026-10-12,Maysville,True,,Putnam County,True,,False,False
 2026-10-12,Carrollton,True,,Richmond,True,,False,False
@@ -3608,6 +3613,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-12,Lebanon,True,,West Plains,True,,False,False
 2026-10-12,Marquette,True,,Westminster Christian Academy,True,,False,False
 2026-10-12,Richland,True,,Wheatland,True,,False,False
+2026-10-12,Grandview,True,,William Chrisman,True,,False,False
 2026-10-12,Sullivan,True,,Windsor (Imperial),True,,False,False
 2026-10-12,Owensville,True,,Wright City,True,,False,False
 2026-10-13,Doniphan,True,,Chaffee,True,,False,False
@@ -3615,7 +3621,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-13,Community,True,,Elsberry,True,,False,False
 2026-10-13,Lutheran St. Charles with Veritas Christian Academy,True,,Hermann with New Haven,True,,False,False
 2026-10-13,St. Charles West with St. Charles,True,,Incarnate Word Academy,True,,False,False
-2026-10-13,Riverview Gardens,False,,Metro,True,,False,False
 2026-10-13,Lathrop,True,,Mid-Buchanan,True,,False,False
 2026-10-13,Lebanon,True,,Nixa,True,,False,False
 2026-10-13,St. Michael the Archangel,True,,Notre Dame de Sion,True,,False,False
@@ -3640,6 +3645,10 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-14,Elsberry,True,,Metro,True,,False,False
 2026-10-14,North Callaway,True,,Slater with Malta Bend,True,,False,False
 2026-10-14,Fayette,True,,New Bloomfield,True,,False,False
+2026-10-14,Hartville,True,,South Callaway,True,,False,False
+2026-10-14,Iberia,True,,Dixon,True,,False,False
+2026-10-14,Palmyra,True,,Clark County,True,,False,False
+2026-10-14,Monroe City,True,,South Shelby,True,,False,False
 2026-10-14,Putnam County,True,,Trenton,True,,False,False
 2026-10-14,Brookfield,True,,Penney,True,,False,False
 2026-10-14,Carrollton,True,,Lexington,True,,False,False
@@ -3652,9 +3661,22 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-14,Owensville,True,,Cuba,True,,False,False
 2026-10-14,Lutheran South,True,,St. Clair,True,,False,False
 2026-10-14,Bowling Green,True,,STEAM Academy,True,,False,False
+2026-10-14,Seneca,True,,Monett,True,,False,False
+2026-10-14,Aurora,True,,Nevada,True,,False,False
+2026-10-14,Cassville,True,,Clinton,True,,False,False
+2026-10-14,Oak Grove,True,,Knob Noster,True,,False,False
+2026-10-14,Holden,True,,Summit Christian Academy,True,,False,False
+2026-10-14,Cor Jesu Academy,True,,Sikeston,True,,False,False
+2026-10-14,Hillsboro,True,,Rockwood Summit,True,,False,False
 2026-10-14,Webster Groves,True,,Affton,True,,False,False
 2026-10-14,Parkway West,True,,Ursuline Academy,True,,False,False
 2026-10-14,St. Joseph's Academy,True,,Clayton,True,,False,False
+2026-10-14,Ft. Zumwalt East,True,,Parkway North with Principia,True,,False,False
+2026-10-14,Incarnate Word Academy,True,,McCluer North,True,,False,False
+2026-10-14,Ft. Zumwalt South,True,,University City,True,,False,False
+2026-10-14,Battle,True,,Jefferson City,True,,False,False
+2026-10-14,Capital City,True,,Marshall,True,,False,False
+2026-10-14,Warrensburg,True,,Camdenton,True,,False,False
 2026-10-14,Willard,True,,Parkview,True,,False,False
 2026-10-14,Rolla,True,,Lebanon,True,,False,False
 2026-10-14,Marshfield,True,,Hillcrest,True,,False,False
@@ -3663,9 +3685,20 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-14,Benton,True,,St. Teresa's Academy,True,,False,False
 2026-10-14,Kearney,True,,William Chrisman,True,,False,False
 2026-10-14,Smithville,True,,Winnetonka,True,,False,False
+2026-10-14,Eureka,True,,Ladue Horton Watkins,True,,False,False
+2026-10-14,Marquette,True,,Parkway South,True,,False,False
+2026-10-14,Lafayette (Wildwood),True,,Ritenour,True,,False,False
+2026-10-14,Lindbergh,True,,Kirkwood,True,,False,False
 2026-10-14,St. Charles West with St. Charles,True,,Ft. Zumwalt North,True,,False,False
 2026-10-14,Francis Howell North,True,,Hazelwood West,True,,False,False
 2026-10-14,Francis Howell Central,True,,Pattonville,True,,False,False
+2026-10-14,Troy Buchanan,True,,Father Tolton,True,,False,False
+2026-10-14,Timberland,True,,Hickman,True,,False,False
+2026-10-14,Ft. Zumwalt West,True,,North Point,True,,False,False
+2026-10-14,Rock Bridge,True,,Liberty (Wentzville),True,,False,False
+2026-10-14,Neosho,True,,Joplin,True,,False,False
+2026-10-14,Lee's Summit,True,,Carthage,True,,False,False
+2026-10-14,Webb City,True,,Lee's Summit West,True,,False,False
 2026-10-14,Grain Valley,True,,North Kansas City,True,,False,False
 2026-10-14,Fort Osage,True,,Blue Springs,True,,False,False
 2026-10-14,Blue Springs South,True,,Smith-Cotton,True,,False,False
@@ -3698,6 +3731,10 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-15,Hancock,True,,Louisiana,True,,False,False
 2026-10-15,TBD,False,,Harrisburg,True,,False,False
 2026-10-15,TBD,False,,Salisbury,True,,False,False
+2026-10-15,TBD,False,,Fatima,True,,False,False
+2026-10-15,TBD,False,,Linn,True,,False,False
+2026-10-15,TBD,False,,Highland,True,,False,False
+2026-10-15,TBD,False,,Mark Twain,True,,False,False
 2026-10-15,TBD,False,,Marceline,True,,False,False
 2026-10-15,TBD,False,,South Harrison,True,,False,False
 2026-10-15,North Platte,True,,East Buchanan,True,,False,False
@@ -3710,19 +3747,34 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-15,Hallsville with Christian Fellowship Sr.,True,,Kirksville,True,,False,False
 2026-10-15,Centralia,True,,Moberly,True,,False,False
 2026-10-15,Mexico,True,,Macon,True,,False,False
+2026-10-15,Southern Boone,True,,Fulton,True,,False,False
+2026-10-15,Blair Oaks,True,,Boonville,True,,False,False
+2026-10-15,Eldon,True,,Hermann with New Haven,True,,False,False
+2026-10-15,Osage,True,,California,True,,False,False
+2026-10-15,TBD,False,,Bolivar,True,,False,False
+2026-10-15,Pleasant Hill,True,,Harrisonville,True,,False,False
+2026-10-15,Odessa,True,,St. Michael the Archangel,True,,False,False
+2026-10-15,Windsor (Imperial),True,,Central (Cape Girardeau),True,,False,False
+2026-10-15,Festus,True,,Farmington,True,,False,False
 2026-10-15,Washington,True,,Hannibal,True,,False,False
 2026-10-15,Warrenton,True,,Pacific,True,,False,False
 2026-10-15,St. Francis Borgia,True,,Holt,True,,False,False
 2026-10-15,St. Dominic,True,,Union,True,,False,False
+2026-10-15,TBD,False,,Helias Catholic,True,,False,False
 2026-10-15,Seckman,True,,Oakville,True,,False,False
 2026-10-15,Northwest (Cedar Hill),True,,Mehlville,True,,False,False
 2026-10-15,Fox,True,,Poplar Bluff,True,,False,False
 2026-10-15,TBD,False,,Francis Howell,True,,False,False
+2026-10-15,Nixa,True,,Republic,True,,False,False
+2026-10-15,Kickapoo,True,,Waynesville,True,,False,False
+2026-10-15,Branson,True,,Glendale,True,,False,False
+2026-10-15,TBD,False,,Raymore-Peculiar,True,,False,False
 2026-10-15,TBD,False,,Park Hill,True,,False,False
 2026-10-15,Chaffee,True,,Jackson,True,,False,False
 2026-10-16,Weaubleau,True,,Humansville,True,,False,False
 2026-10-16,Wheatland,True,,Hermitage,True,,False,False
 2026-10-16,TBD,False,,Winfield,True,,False,False
+2026-10-16,TBD,False,,Parkway Central,True,,False,False
 2026-10-17,TBD,False,,Chaffee,True,,False,False
 2026-10-17,TBD,False,,Montgomery County,True,,False,False
 2026-10-17,TBD,False,,Valley Park,True,,False,False
@@ -3731,3 +3783,4 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-17,TBD,False,,Chillicothe,True,,False,False
 2026-10-17,TBD,False,,Westminster Christian Academy,True,,False,False
 2026-10-19,TBD,False,,Jackson,True,,False,False
+2026-10-19,TBD,False,,Ozark,True,,False,False

@@ -2,7 +2,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-01,no score,Van Buren,,Twin Rivers,,False
 2026-09-03,no score,Chaffee,,Van Buren,,False
 2026-09-04,no score,Parkway South,,Parkway North with Principia,,True
-2026-09-09,no score,Harrisonville,,Belton,,True
 2026-09-10,no score,Van Buren,,Poplar Bluff,,False
 2026-09-14,no score,Cainsville,,Albany,,False
 2026-09-15,no score,Cainsville,,Grundy County with Newtown-Harris,,False
@@ -22,23 +21,18 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-28,no score,Naylor,,Van Buren,,False
 2026-09-30,no score,"Pattonsburg with North Daviess, Winston",,Worth County,,True
 2026-10-01,no score,Montgomery County,,Louisiana,,True
-2026-10-01,no score,Clinton,,Oak Grove,,True
 2026-10-01,no score,Doniphan,,Van Buren,,False
 2026-10-02,no score,Van Buren,,Neelyville,,False
 2026-10-02,no score,Metro,,Normandy Collaborative,,False
-2026-10-03,no score,La Plata,,Atlanta,,True
-2026-10-04,no score,La Plata,,Atlanta,,True
 2026-10-05,no score,Eldon,,Dixon,,True
 2026-10-05,no score,Fatima,,Hallsville with Christian Fellowship Sr.,,True
 2026-10-05,no score,McCluer North,,Normandy Collaborative,,False
 2026-10-05,no score,Maryville,,North Platte,,True
 2026-10-05,no score,Norwood,,Van Buren,,False
-2026-10-05,no score,Parkview,,Walnut Grove,,True
 2026-10-06,no score,Salisbury,,Fayette,,True
 2026-10-06,no score,Linn County,,Milan,,True
-2026-10-06,no score,McDonald County,,Nevada,,True
 2026-10-06,no score,Poplar Bluff,,Notre Dame (Cape Girardeau),,True
-2026-10-06,no score,Central (Springfield),,Parkview,,False
-2026-10-06,no score,Ladue Horton Watkins,,Ritenour,,True
 2026-10-06,no score,Twin Rivers,,Van Buren,,False
-2026-10-06,no score,"Pattonsburg with North Daviess, Winston",,Worth County,,True
+2026-10-07,no score,Mid-Buchanan,,Maryville,,True
+2026-10-07,no score,McCluer North,,Normandy Collaborative,,False
+2026-10-07,no score,Central (St. Joseph),,Savannah,,True
