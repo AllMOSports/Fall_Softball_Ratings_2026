@@ -1,4 +1,5 @@
 date,problem,team1,score1,team2,score2,both_classified
+2026-10-08,one team's score only,Bishop LeBlond,0,Maryville,,True
 2026-09-01,no score,Van Buren,,Twin Rivers,,False
 2026-09-03,no score,Chaffee,,Van Buren,,False
 2026-09-04,no score,Parkway South,,Parkway North with Principia,,True
@@ -35,3 +36,18 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-06,no score,Twin Rivers,,Van Buren,,False
 2026-10-07,no score,McCluer North,,Normandy Collaborative,,False
 2026-10-07,no score,Central (St. Joseph),,Savannah,,True
+2026-10-08,no score,Milan,,Albany,,True
+2026-10-08,no score,Meadville,,Bucklin with Macon County,,True
+2026-10-08,no score,North Kansas City,,Central (St. Joseph),,True
+2026-10-08,no score,Lafayette (Wildwood),,Eureka,,True
+2026-10-08,no score,Glasgow,,Fayette,,True
+2026-10-08,no score,Metro,,Hancock,,True
+2026-10-08,no score,Macks Creek,,Humansville,,True
+2026-10-08,no score,St. Charles West with St. Charles,,Lutheran St. Charles with Veritas Christian Academy,,True
+2026-10-08,no score,Worth County,,Maysville,,True
+2026-10-08,no score,Linn County,,"Mercer with Cainsville, Ridgeway",,True
+2026-10-08,no score,Fulton,,Mexico,,True
+2026-10-08,no score,Hermann with New Haven,,New Bloomfield,,True
+2026-10-08,no score,Valley Park,,Pacific,,True
+2026-10-08,no score,St. Dominic,,Parkway West,,True
+2026-10-08,no score,Ritenour,,Pattonville,,True
