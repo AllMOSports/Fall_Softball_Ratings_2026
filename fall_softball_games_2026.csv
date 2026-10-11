@@ -3228,6 +3228,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-09,Rolla,7,Carthage,9,False,False
 2026-10-09,Windsor (Imperial),6,Carthage,11,False,False
 2026-10-09,Centralia,14,Clark County,0,False,False
+2026-10-09,Jackson,11,Cor Jesu Academy,8,False,False
 2026-10-09,East Carter,6,Dadeville with Everton,6,False,False
 2026-10-09,Hartville,3,Doniphan,,False,False
 2026-10-09,Linn,8,Eugene,5,False,False
@@ -3239,6 +3240,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-09,Hartville,2,Kelly,8,False,False
 2026-10-09,Park Hill,4,Liberty,3,False,False
 2026-10-09,Carl Junction,1,Marshfield,4,False,False
+2026-10-09,Aurora,2,McDonald County,16,False,False
 2026-10-09,East Carter,7,Norwood,21,False,False
 2026-10-09,Dadeville with Everton,9,Norwood,0,False,False
 2026-10-09,St. Elizabeth,11,Owensville,7,False,False
@@ -3257,11 +3259,9 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-09,Novinger,,Atlanta,,False,False
 2026-10-09,Marion County,,Brashear,,False,False
 2026-10-09,Weaubleau,,Climax Springs,,False,False
-2026-10-09,Jackson,,Cor Jesu Academy,,False,False
 2026-10-09,Kelly,,Doniphan,,False,False
 2026-10-09,Summit Christian Academy,,Harrisonville,,False,False
 2026-10-09,Webster Groves,,Hickman,,False,False
-2026-10-09,Aurora,,McDonald County,,False,False
 2026-10-09,Ritenour,,Mehlville,,False,False
 2026-10-09,Notre Dame (St. Louis),,Parkway North with Principia,,False,False
 2026-10-09,DeSoto,,Parkway South,,False,False
@@ -3270,39 +3270,51 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-09,Nixa,,Sullivan,,False,False
 2026-10-09,Willard,,Union,,False,False
 2026-10-09,Macks Creek,,Walnut Grove,,False,False
+2026-10-10,Gilman City with Tri-County,16,"Braymer with Breckenridge, Southwest (Livingston County)",0,False,False
+2026-10-10,Joplin,6,Cassville,2,False,False
+2026-10-10,Laquey,0,Dixon,15,False,False
+2026-10-10,Stoutland,4,Dixon,7,False,False
+2026-10-10,Tuscumbia,1,Dixon,8,False,False
+2026-10-10,Silex,9,Elsberry,1,False,False
+2026-10-10,"Mercer with Cainsville, Ridgeway",2,Gilman City with Tri-County,17,False,False
+2026-10-10,Sturgeon,7,Higbee,0,False,False
+2026-10-10,Princeton,10,Jefferson (Conception) with South Nodaway,5,False,False
+2026-10-10,Bolivar,7,Joplin,8,False,False
+2026-10-10,Liberty North,6,Kickapoo,2,False,False
+2026-10-10,Princeton,5,Lathrop,8,False,False
+2026-10-10,Branson,7,Logan-Rogersville,4,False,False
+2026-10-10,St. Elizabeth,10,Nixa,7,False,False
+2026-10-10,Rolla,13,Owensville,14,False,False
+2026-10-10,Union,10,Owensville,7,False,False
+2026-10-10,St. Francis Borgia,4,Ozark,5,False,False
+2026-10-10,Windsor (Imperial),2,Ozark,6,False,False
+2026-10-10,Princeton,14,Penney,3,False,False
+2026-10-10,Mark Twain,14,Perryville,3,False,False
+2026-10-10,Summit Christian Academy,2,Pleasant Hill,5,False,False
+2026-10-10,Liberty North,12,Rock Bridge,2,False,False
+2026-10-10,Union,6,Rolla,21,False,False
+2026-10-10,St. Michael the Archangel,2,Smith-Cotton,9,False,False
+2026-10-10,Father Tolton,3,St. Francis Borgia,8,False,False
+2026-10-10,Silex,0,Troy Buchanan,9,False,False
+2026-10-10,Branson,18,Waynesville,8,False,False
+2026-10-10,St. Elizabeth,3,Willard,2,False,False
+2026-10-10,Father Tolton,5,Windsor (Imperial),8,False,False
 2026-10-10,Excelsior Springs,,Bishop LeBlond,,False,False
 2026-10-10,Cassville,,Bolivar,,False,False
-2026-10-10,Joplin,,Bolivar,,False,False
 2026-10-10,Grundy County with Newtown-Harris,,"Braymer with Breckenridge, Southwest (Livingston County)",,False,False
-2026-10-10,Joplin,,Cassville,,False,False
-2026-10-10,Laquey,,Dixon,,False,False
-2026-10-10,Stoutland,,Dixon,,False,False
-2026-10-10,Tuscumbia,,Dixon,,False,False
-2026-10-10,Silex,,Elsberry,,False,False
 2026-10-10,Francis Howell,,Hannibal,,False,False
 2026-10-10,Southern Boone,,Harrisburg,,False,False
 2026-10-10,Webster Groves,,Harrisburg,,False,False
-2026-10-10,Sturgeon,,Higbee,,False,False
-2026-10-10,Liberty North,,Kickapoo,,False,False
 2026-10-10,Rock Bridge,,Kickapoo,,False,False
 2026-10-10,Sherwood,,Lafayette County,,False,False
-2026-10-10,Rock Bridge,,Liberty North,,False,False
 2026-10-10,Waynesville,,Logan-Rogersville,,False,False
-2026-10-10,Branson,,Logan-Rogersville,,False,False
 2026-10-10,St. Teresa's Academy,,Odessa,,False,False
 2026-10-10,Sherwood,,Odessa,,False,False
-2026-10-10,Rolla,,Owensville,,False,False
 2026-10-10,Doniphan,,Parkway South,,False,False
-2026-10-10,Princeton,,Penney,,False,False
-2026-10-10,Mark Twain,,Perryville,,False,False
 2026-10-10,Jefferson (Conception) with South Nodaway,,Putnam County,,False,False
-2026-10-10,Union,,Rolla,,False,False
 2026-10-10,St. Teresa's Academy,,Sherwood,,False,False
-2026-10-10,St. Michael the Archangel,,Smith-Cotton,,False,False
 2026-10-10,Webster Groves,,Southern Boone,,False,False
 2026-10-10,Elsberry,,Troy Buchanan,,False,False
-2026-10-10,Silex,,Troy Buchanan,,False,False
-2026-10-10,Branson,,Waynesville,,False,False
 2026-10-12,Herculaneum with Crystal City,,Affton,,False,False
 2026-10-12,North Platte,,Albany,,False,False
 2026-10-12,"Brunswick with Keytesville, Northwestern (Mendon)",,Atlanta,,False,False
@@ -3393,7 +3405,6 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-12,Northeast (Cairo),,South Shelby,,False,False
 2026-10-12,Pattonville,,St. Charles West with St. Charles,,False,False
 2026-10-12,Jamestown,,St. Elizabeth,,False,False
-2026-10-12,Lexington,,St. Michael the Archangel,,False,False
 2026-10-12,Capital City,,Union,,False,False
 2026-10-12,Stoutland,,Vienna,,False,False
 2026-10-12,Ft. Zumwalt North,,Warrenton,,False,False
@@ -3428,6 +3439,8 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-14,Walnut Grove,,Climax Springs,,False,False
 2026-10-14,Montrose with Appleton City,,Fair Play,,False,False
 2026-10-14,Higbee,,Pilot Grove,,False,False
+2026-10-14,Clopton,,Northeast (Cairo),,False,False
+2026-10-14,Madison,,Van-Far,,False,False
 2026-10-14,Brashear,,Marion County,,False,False
 2026-10-14,Atlanta,,Bevier,,False,False
 2026-10-14,Norborne with Hardin-Central,,Meadville,,False,False
@@ -3508,6 +3521,8 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-15,Glasgow,,Jamestown,,False,False
 2026-10-15,Eugene,,New Franklin,,False,False
 2026-10-15,Russellville,,Tuscumbia,,False,False
+2026-10-15,Community,,Westran,,False,False
+2026-10-15,Sturgeon,,Wellsville-Middletown,,False,False
 2026-10-15,Scotland County,,La Plata,,False,False
 2026-10-15,Canton,,Knox County,,False,False
 2026-10-15,"Braymer with Breckenridge, Southwest (Livingston County)",,"Tina-Avalon with Bosworth, Hale",,False,False

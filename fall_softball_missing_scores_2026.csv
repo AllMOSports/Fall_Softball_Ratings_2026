@@ -1,5 +1,6 @@
 date,problem,team1,score1,team2,score2,both_classified
 2026-10-08,one team's score only,Bishop LeBlond,0,Maryville,,True
+2026-10-09,one team's score only,Hartville,3,Doniphan,,True
 2026-09-01,no score,Van Buren,,Twin Rivers,,False
 2026-09-03,no score,Chaffee,,Van Buren,,False
 2026-09-04,no score,Parkway South,,Parkway North with Principia,,True
@@ -51,3 +52,19 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-08,no score,Valley Park,,Pacific,,True
 2026-10-08,no score,St. Dominic,,Parkway West,,True
 2026-10-08,no score,Ritenour,,Pattonville,,True
+2026-10-09,no score,Novinger,,Atlanta,,True
+2026-10-09,no score,Marion County,,Brashear,,True
+2026-10-09,no score,Weaubleau,,Climax Springs,,True
+2026-10-09,no score,Kelly,,Doniphan,,True
+2026-10-09,no score,Summit Christian Academy,,Harrisonville,,True
+2026-10-09,no score,Webster Groves,,Hickman,,True
+2026-10-09,no score,Ritenour,,Mehlville,,True
+2026-10-09,no score,Lutheran St. Charles with Veritas Christian Academy,,Normandy Collaborative,,False
+2026-10-09,no score,Notre Dame (St. Louis),,Parkway North with Principia,,True
+2026-10-09,no score,DeSoto,,Parkway South,,True
+2026-10-09,no score,St. Louis Patriots Sr.,,St. Charles West with St. Charles,,False
+2026-10-09,no score,Hancock,,STEAM Academy,,True
+2026-10-09,no score,Father Tolton,,Sullivan,,True
+2026-10-09,no score,Nixa,,Sullivan,,True
+2026-10-09,no score,Willard,,Union,,True
+2026-10-09,no score,Macks Creek,,Walnut Grove,,True
