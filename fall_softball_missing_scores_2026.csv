@@ -1,6 +1,7 @@
 date,problem,team1,score1,team2,score2,both_classified
 2026-10-08,one team's score only,Bishop LeBlond,0,Maryville,,True
 2026-10-09,one team's score only,Hartville,3,Doniphan,,True
+2026-10-10,one team's score only,Excelsior Springs,7,Bishop LeBlond,,True
 2026-09-01,no score,Van Buren,,Twin Rivers,,False
 2026-09-03,no score,Chaffee,,Van Buren,,False
 2026-09-04,no score,Parkway South,,Parkway North with Principia,,True
@@ -36,7 +37,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-06,no score,Poplar Bluff,,Notre Dame (Cape Girardeau),,True
 2026-10-06,no score,Twin Rivers,,Van Buren,,False
 2026-10-07,no score,McCluer North,,Normandy Collaborative,,False
-2026-10-07,no score,Central (St. Joseph),,Savannah,,True
 2026-10-08,no score,Milan,,Albany,,True
 2026-10-08,no score,Meadville,,Bucklin with Macon County,,True
 2026-10-08,no score,North Kansas City,,Central (St. Joseph),,True
@@ -64,7 +64,14 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-09,no score,DeSoto,,Parkway South,,True
 2026-10-09,no score,St. Louis Patriots Sr.,,St. Charles West with St. Charles,,False
 2026-10-09,no score,Hancock,,STEAM Academy,,True
-2026-10-09,no score,Father Tolton,,Sullivan,,True
 2026-10-09,no score,Nixa,,Sullivan,,True
 2026-10-09,no score,Willard,,Union,,True
 2026-10-09,no score,Macks Creek,,Walnut Grove,,True
+2026-10-10,no score,Cassville,,Bolivar,,True
+2026-10-10,no score,Waynesville,,Logan-Rogersville,,True
+2026-10-10,no score,St. Teresa's Academy,,Odessa,,True
+2026-10-10,no score,Sherwood,,Odessa,,True
+2026-10-10,no score,Doniphan,,Parkway South,,True
+2026-10-10,no score,Jefferson (Conception) with South Nodaway,,Putnam County,,True
+2026-10-10,no score,St. Teresa's Academy,,Sherwood,,True
+2026-10-10,no score,Webster Groves,,Southern Boone,,True

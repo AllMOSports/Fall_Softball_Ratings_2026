@@ -30075,6 +30075,17 @@
   },
   {
     "date": "2026-09-30",
+    "team1": "Savannah",
+    "team1_classified": true,
+    "score1": 11,
+    "team2": "Excelsior Springs",
+    "team2_classified": true,
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-09-30",
     "team1": "South Callaway",
     "team1_classified": true,
     "score1": 2,
@@ -30367,17 +30378,6 @@
     "team2": "Rockwood Summit",
     "team2_classified": true,
     "score2": 10,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-09-30",
-    "team1": "Excelsior Springs",
-    "team1_classified": true,
-    "score1": 1,
-    "team2": "Savannah",
-    "team2_classified": true,
-    "score2": 11,
     "forfeit": false,
     "overtime": false
   },
@@ -36147,6 +36147,17 @@
   },
   {
     "date": "2026-10-07",
+    "team1": "Central (St. Joseph)",
+    "team1_classified": true,
+    "score1": 1,
+    "team2": "Savannah",
+    "team2_classified": true,
+    "score2": 11,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-07",
     "team1": "Brookfield",
     "team1_classified": true,
     "score1": 1,
@@ -36328,17 +36339,6 @@
     "score1": null,
     "team2": "Normandy Collaborative",
     "team2_classified": false,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-07",
-    "team1": "Central (St. Joseph)",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Savannah",
-    "team2_classified": true,
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -37962,6 +37962,17 @@
   },
   {
     "date": "2026-10-09",
+    "team1": "Father Tolton",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Nixa",
+    "team2_classified": true,
+    "score2": 15,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-09",
     "team1": "East Carter",
     "team1_classified": true,
     "score1": 7,
@@ -38056,6 +38067,17 @@
     "team2": "Schuyler County",
     "team2_classified": true,
     "score2": 16,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-09",
+    "team1": "Father Tolton",
+    "team1_classified": true,
+    "score1": 8,
+    "team2": "Sullivan",
+    "team2_classified": true,
+    "score2": 7,
     "forfeit": false,
     "overtime": false
   },
@@ -38259,17 +38281,6 @@
   },
   {
     "date": "2026-10-09",
-    "team1": "Father Tolton",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Sullivan",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-09",
     "team1": "Nixa",
     "team1_classified": true,
     "score1": null,
@@ -38298,6 +38309,28 @@
     "team2": "Walnut Grove",
     "team2_classified": true,
     "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
+    "team1": "Excelsior Springs",
+    "team1_classified": true,
+    "score1": 7,
+    "team2": "Bishop LeBlond",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
+    "team1": "Grundy County with Newtown-Harris",
+    "team1_classified": true,
+    "score1": 6,
+    "team2": "Braymer with Breckenridge, Southwest (Livingston County)",
+    "team2_classified": true,
+    "score2": 9,
     "forfeit": false,
     "overtime": false
   },
@@ -38380,6 +38413,28 @@
   },
   {
     "date": "2026-10-10",
+    "team1": "Francis Howell",
+    "team1_classified": true,
+    "score1": 7,
+    "team2": "Hannibal",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
+    "team1": "Webster Groves",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Harrisburg",
+    "team2_classified": true,
+    "score2": 14,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
     "team1": "Sturgeon",
     "team1_classified": true,
     "score1": 7,
@@ -38397,6 +38452,17 @@
     "team2": "Jefferson (Conception) with South Nodaway",
     "team2_classified": true,
     "score2": 5,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
+    "team1": "Marceline",
+    "team1_classified": true,
+    "score1": 12,
+    "team2": "Jefferson (Conception) with South Nodaway",
+    "team2_classified": true,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
@@ -38424,6 +38490,50 @@
   },
   {
     "date": "2026-10-10",
+    "team1": "Rock Bridge",
+    "team1_classified": true,
+    "score1": 9,
+    "team2": "Kickapoo",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
+    "team1": "Sherwood",
+    "team1_classified": true,
+    "score1": 5,
+    "team2": "Lafayette County",
+    "team2_classified": true,
+    "score2": 12,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
+    "team1": "St. Teresa's Academy",
+    "team1_classified": true,
+    "score1": 5,
+    "team2": "Lafayette County",
+    "team2_classified": true,
+    "score2": 6,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
+    "team1": "Odessa",
+    "team1_classified": true,
+    "score1": 9,
+    "team2": "Lafayette County",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
     "team1": "Princeton",
     "team1_classified": true,
     "score1": 5,
@@ -38435,12 +38545,45 @@
   },
   {
     "date": "2026-10-10",
+    "team1": "Marceline",
+    "team1_classified": true,
+    "score1": 6,
+    "team2": "Lathrop",
+    "team2_classified": true,
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
+    "team1": "Rock Bridge",
+    "team1_classified": true,
+    "score1": 2,
+    "team2": "Liberty North",
+    "team2_classified": true,
+    "score2": 12,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
     "team1": "Branson",
     "team1_classified": true,
     "score1": 7,
     "team2": "Logan-Rogersville",
     "team2_classified": true,
     "score2": 4,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
+    "team1": "Novinger",
+    "team1_classified": true,
+    "score1": 0,
+    "team2": "Marceline",
+    "team2_classified": true,
+    "score2": 20,
     "forfeit": false,
     "overtime": false
   },
@@ -38534,17 +38677,6 @@
   },
   {
     "date": "2026-10-10",
-    "team1": "Liberty North",
-    "team1_classified": true,
-    "score1": 12,
-    "team2": "Rock Bridge",
-    "team2_classified": true,
-    "score2": 2,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
     "team1": "Union",
     "team1_classified": true,
     "score1": 6,
@@ -38578,12 +38710,23 @@
   },
   {
     "date": "2026-10-10",
+    "team1": "Elsberry",
+    "team1_classified": true,
+    "score1": 4,
+    "team2": "Troy Buchanan",
+    "team2_classified": true,
+    "score2": 5,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-10",
     "team1": "Silex",
     "team1_classified": true,
     "score1": 0,
     "team2": "Troy Buchanan",
     "team2_classified": true,
-    "score2": 9,
+    "score2": 10,
     "forfeit": false,
     "overtime": false
   },
@@ -38622,87 +38765,10 @@
   },
   {
     "date": "2026-10-10",
-    "team1": "Excelsior Springs",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Bishop LeBlond",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
     "team1": "Cassville",
     "team1_classified": true,
     "score1": null,
     "team2": "Bolivar",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
-    "team1": "Grundy County with Newtown-Harris",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Braymer with Breckenridge, Southwest (Livingston County)",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
-    "team1": "Francis Howell",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Hannibal",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
-    "team1": "Southern Boone",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Harrisburg",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
-    "team1": "Webster Groves",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Harrisburg",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
-    "team1": "Rock Bridge",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Kickapoo",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
-    "team1": "Sherwood",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Lafayette County",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,
@@ -38780,17 +38846,6 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Southern Boone",
-    "team2_classified": true,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-10",
-    "team1": "Elsberry",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Troy Buchanan",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,
@@ -40019,6 +40074,17 @@
   },
   {
     "date": "2026-10-13",
+    "team1": "Canton",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Moberly",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-13",
     "team1": "Lebanon",
     "team1_classified": true,
     "score1": null,
@@ -40573,6 +40639,39 @@
     "team1_classified": true,
     "score1": null,
     "team2": "Summit Christian Academy",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-14",
+    "team1": "Excelsior Springs",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "St. Pius X (Kansas City)",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-14",
+    "team1": "Richmond",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Maryville",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-14",
+    "team1": "Cameron",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Notre Dame de Sion",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,
@@ -42003,6 +42102,17 @@
     "team1_classified": false,
     "score1": null,
     "team2": "Westminster Christian Academy",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-19",
+    "team1": "TBD",
+    "team1_classified": false,
+    "score1": null,
+    "team2": "Savannah",
     "team2_classified": true,
     "score2": null,
     "forfeit": false,
