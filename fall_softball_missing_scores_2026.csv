@@ -3,13 +3,13 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-09,one team's score only,Kelly,4,Doniphan,,True
 2026-09-01,no score,Van Buren,,Twin Rivers,,False
 2026-09-03,no score,Chaffee,,Van Buren,,False
+2026-09-03,no score,Raytown,,William Chrisman,,True
 2026-09-04,no score,Parkway South,,Parkway North with Principia,,True
 2026-09-10,no score,Van Buren,,Poplar Bluff,,False
 2026-09-14,no score,Cainsville,,Albany,,False
 2026-09-15,no score,Cainsville,,Grundy County with Newtown-Harris,,False
 2026-09-15,no score,Normandy Collaborative,,McCluer North,,False
 2026-09-15,no score,King City with Union Star,,"Pattonsburg with North Daviess, Winston",,True
-2026-09-15,no score,Blue Springs South,,Raymore-Peculiar,,True
 2026-09-17,no score,"Mercer with Cainsville, Ridgeway",,Cainsville,,False
 2026-09-17,no score,Van Buren,,DeSoto,,False
 2026-09-17,no score,Wellsville-Middletown,,St. Louis Patriots Sr.,,False
@@ -22,7 +22,6 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-22,no score,East Carter,,Van Buren,,False
 2026-09-28,no score,Naylor,,Van Buren,,False
 2026-09-30,no score,"Pattonsburg with North Daviess, Winston",,Worth County,,True
-2026-10-01,no score,Montgomery County,,Louisiana,,True
 2026-10-01,no score,Doniphan,,Van Buren,,False
 2026-10-02,no score,Van Buren,,Neelyville,,False
 2026-10-02,no score,Metro,,Normandy Collaborative,,False
@@ -43,19 +42,33 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-10-08,no score,St. Charles West with St. Charles,,Lutheran St. Charles with Veritas Christian Academy,,True
 2026-10-08,no score,Worth County,,Maysville,,True
 2026-10-08,no score,Fulton,,Mexico,,True
-2026-10-08,no score,Hermann with New Haven,,New Bloomfield,,True
 2026-10-08,no score,St. Dominic,,Parkway West,,True
 2026-10-09,no score,Marion County,,Brashear,,True
-2026-10-09,no score,Weaubleau,,Climax Springs,,True
-2026-10-09,no score,Summit Christian Academy,,Harrisonville,,True
 2026-10-09,no score,Webster Groves,,Hickman,,True
 2026-10-09,no score,Lutheran St. Charles with Veritas Christian Academy,,Normandy Collaborative,,False
 2026-10-09,no score,Notre Dame (St. Louis),,Parkway North with Principia,,True
 2026-10-09,no score,St. Louis Patriots Sr.,,St. Charles West with St. Charles,,False
 2026-10-09,no score,Hancock,,STEAM Academy,,True
 2026-10-09,no score,Willard,,Union,,True
-2026-10-09,no score,Macks Creek,,Walnut Grove,,True
 2026-10-10,no score,Doniphan,,Parkway South,,True
 2026-10-10,no score,Webster Groves,,Southern Boone,,True
 2026-10-11,no score,Doniphan,,Parkway South,,True
 2026-10-11,no score,Webster Groves,,Southern Boone,,True
+2026-10-12,no score,Linn County,,Bevier,,True
+2026-10-12,no score,Jefferson City,,Blair Oaks,,True
+2026-10-12,no score,Waynesville,,Bolivar,,True
+2026-10-12,no score,Smith-Cotton,,Camdenton,,True
+2026-10-12,no score,Knox County,,Clark County,,True
+2026-10-12,no score,Battle,,Eldon,,True
+2026-10-12,no score,St. Dominic,,Eureka,,True
+2026-10-12,no score,Gallatin,,Gilman City with Tri-County,,True
+2026-10-12,no score,Hancock,,Hazelwood West,,True
+2026-10-12,no score,Seckman,,Kirkwood,,True
+2026-10-12,no score,Hazelwood West,,Maplewood-Richmond Hts. with Brentwood,,True
+2026-10-12,no score,University City,,Normandy Collaborative,,False
+2026-10-12,no score,Maysville,,Princeton,,True
+2026-10-12,no score,Maysville,,Putnam County,,True
+2026-10-12,no score,Benton,,Richmond,,True
+2026-10-12,no score,Pattonville,,St. Charles West with St. Charles,,True
+2026-10-12,no score,Jamestown,,St. Elizabeth,,True
+2026-10-12,no score,Parkway North with Principia,,Webster Groves,,True
