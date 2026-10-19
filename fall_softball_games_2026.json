@@ -28666,6 +28666,15 @@
   },
   {
     "date": "2026-10-08",
+    "team1": "St. Dominic",
+    "score1": 1,
+    "team2": "Parkway West",
+    "score2": 11,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-08",
     "team1": "Tina-Avalon with Bosworth, Hale",
     "score1": 0,
     "team2": "Pattonsburg with North Daviess, Winston",
@@ -29011,15 +29020,6 @@
     "team1": "Fulton",
     "score1": null,
     "team2": "Mexico",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-08",
-    "team1": "St. Dominic",
-    "score1": null,
-    "team2": "Parkway West",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -29988,15 +29988,6 @@
     "overtime": false
   },
   {
-    "date": "2026-10-11",
-    "team1": "Webster Groves",
-    "score1": null,
-    "team2": "Southern Boone",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
     "date": "2026-10-12",
     "team1": "Herculaneum with Crystal City",
     "score1": 13,
@@ -30361,7 +30352,7 @@
     "team1": "Hancock",
     "score1": 0,
     "team2": "Hazelwood West",
-    "score2": 12,
+    "score2": 15,
     "forfeit": false,
     "overtime": false
   },
@@ -30838,15 +30829,6 @@
     "team1": "Seckman",
     "score1": null,
     "team2": "Kirkwood",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-12",
-    "team1": "Hazelwood West",
-    "score1": null,
-    "team2": "Maplewood-Richmond Hts. with Brentwood",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -32627,18 +32609,18 @@
   {
     "date": "2026-10-17",
     "team1": "Highland",
-    "score1": null,
+    "score1": 7,
     "team2": "Palmyra",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-10-17",
     "team1": "Mark Twain",
-    "score1": null,
+    "score1": 14,
     "team2": "Monroe City",
-    "score2": null,
+    "score2": 4,
     "forfeit": false,
     "overtime": false
   },
@@ -33007,6 +32989,15 @@
     "team1": "Linn",
     "score1": null,
     "team2": "Iberia",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-19",
+    "team1": "Highland",
+    "score1": null,
+    "team2": "Mark Twain",
     "score2": null,
     "forfeit": false,
     "overtime": false

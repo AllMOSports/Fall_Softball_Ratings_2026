@@ -3184,6 +3184,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-08,Valley Park,7,Pacific,15,False,False
 2026-10-08,Oak Park,2,Park Hill South,10,False,False
 2026-10-08,Seckman,0,Parkway South,7,False,False
+2026-10-08,St. Dominic,1,Parkway West,11,False,False
 2026-10-08,"Tina-Avalon with Bosworth, Hale",0,"Pattonsburg with North Daviess, Winston",11,False,False
 2026-10-08,King City with Union Star,14,"Pattonsburg with North Daviess, Winston",1,False,False
 2026-10-08,Ritenour,12,Pattonville,10,False,False
@@ -3223,7 +3224,6 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-08,St. Charles West with St. Charles,,Lutheran St. Charles with Veritas Christian Academy,,False,False
 2026-10-08,Worth County,,Maysville,,False,False
 2026-10-08,Fulton,,Mexico,,False,False
-2026-10-08,St. Dominic,,Parkway West,,False,False
 2026-10-09,Novinger,4,Atlanta,14,False,False
 2026-10-09,Metro,5,Bayless,9,False,False
 2026-10-09,Bevier,1,Brashear,11,False,False
@@ -3331,7 +3331,6 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-10,St. Elizabeth,3,Willard,2,False,False
 2026-10-10,Father Tolton,5,Windsor (Imperial),8,False,False
 2026-10-10,Webster Groves,,Southern Boone,,False,False
-2026-10-11,Webster Groves,,Southern Boone,,False,False
 2026-10-12,Herculaneum with Crystal City,13,Affton,28,False,False
 2026-10-12,North Platte,1,Albany,6,False,False
 2026-10-12,"Brunswick with Keytesville, Northwestern (Mendon)",19,Atlanta,10,False,False
@@ -3372,7 +3371,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-12,Palmyra,2,Hannibal,12,False,False
 2026-10-12,North Shelby,4,Harrisburg,8,False,False
 2026-10-12,Logan-Rogersville,3,Hartville,8,False,False
-2026-10-12,Hancock,0,Hazelwood West,12,False,False
+2026-10-12,Hancock,0,Hazelwood West,15,False,False
 2026-10-12,St. Francis Borgia,13,Holt,1,False,False
 2026-10-12,Laquey,0,Iberia,16,False,False
 2026-10-12,Valley Park,1,Incarnate Word Academy,11,False,False
@@ -3426,7 +3425,6 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-12,Jefferson City,,Blair Oaks,,False,False
 2026-10-12,St. Dominic,,Eureka,,False,False
 2026-10-12,Seckman,,Kirkwood,,False,False
-2026-10-12,Hazelwood West,,Maplewood-Richmond Hts. with Brentwood,,False,False
 2026-10-12,Maysville,,Princeton,,False,False
 2026-10-12,Benton,,Richmond,,False,False
 2026-10-12,Jamestown,,St. Elizabeth,,False,False
@@ -3624,8 +3622,8 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-17,Valley Park,0,Elsberry,10,False,False
 2026-10-17,Harrisburg,7,North Callaway,9,False,False
 2026-10-17,Salisbury,2,Fayette,4,False,False
-2026-10-17,Highland,,Palmyra,,False,False
-2026-10-17,Mark Twain,,Monroe City,,False,False
+2026-10-17,Highland,7,Palmyra,0,False,False
+2026-10-17,Mark Twain,14,Monroe City,4,False,False
 2026-10-17,Marceline,8,Putnam County,0,False,False
 2026-10-17,South Harrison,13,Brookfield,3,False,False
 2026-10-17,Lathrop,16,North Platte,6,False,False
@@ -3667,6 +3665,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-19,Fayette,,North Callaway,,False,False
 2026-10-19,Fatima,,South Callaway,,False,False
 2026-10-19,Linn,,Iberia,,False,False
+2026-10-19,Highland,,Mark Twain,,False,False
 2026-10-19,Marceline,,South Harrison,,False,False
 2026-10-19,Lafayette County,,Lone Jack,,False,False
 2026-10-19,Doniphan,,Notre Dame (Cape Girardeau),,False,False
