@@ -2724,6 +2724,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-03,Notre Dame (Cape Girardeau),9,Fredericktown,4
 2026-10-03,St. Elizabeth,14,Fulton,3
 2026-10-03,Montgomery County,14,Fulton,6
+2026-10-03,New Bloomfield,14,Fulton,0
 2026-10-03,Marshfield,10,Glendale,0
 2026-10-03,Parkway Central,6,Glendale,9
 2026-10-03,Weaubleau,2,Halfway,7
@@ -3150,10 +3151,12 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-08,Liberty North,18,Lee's Summit West,5
 2026-10-08,St. Elizabeth,4,Linn,5
 2026-10-08,St. Joseph's Academy,12,Lutheran South,0
+2026-10-08,St. Charles West with St. Charles,12,Lutheran St. Charles with Veritas Christian Academy,2
 2026-10-08,Community,16,Marion County,0
 2026-10-08,Marceline,16,Maysville,0
 2026-10-08,Monett,0,McDonald County,9
 2026-10-08,Linn County,0,"Mercer with Cainsville, Ridgeway",15
+2026-10-08,Fulton,2,Mexico,9
 2026-10-08,Marshall,4,Moberly,6
 2026-10-08,Owensville,0,Montgomery County,15
 2026-10-08,Seneca,20,Nevada,6
@@ -3356,6 +3359,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-12,DeKalb,6,Jefferson (Conception) with South Nodaway,8
 2026-10-12,Staley,6,Kearney,0
 2026-10-12,Jackson,4,Kelly,2
+2026-10-12,Seckman,0,Kirkwood,3
 2026-10-12,Parkway Central,13,Ladue Horton Watkins,1
 2026-10-12,Blue Springs,3,Lee's Summit West,6
 2026-10-12,Knob Noster,0,Lexington,13
@@ -3575,8 +3579,10 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-17,Wheatland,10,Hermitage,0
 2026-10-17,St. Elizabeth,8,Glasgow,3
 2026-10-17,Eugene,6,Russellville,5
-2026-10-17,Silex,8,Clopton,0
+2026-10-17,Silex,8,Clopton,1
 2026-10-17,Paris,4,Community,3
+2026-10-17,North Shelby,11,Scotland County,0
+2026-10-17,Schuyler County,2,Canton,12
 2026-10-17,"Brunswick with Keytesville, Northwestern (Mendon)",14,"Braymer with Breckenridge, Southwest (Livingston County)",4
 2026-10-17,Gallatin,6,Polo,5
 2026-10-17,Princeton,13,Gilman City with Tri-County,1
@@ -3617,3 +3623,43 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-10-17,Grain Valley,3,Blue Springs,1
 2026-10-17,Blue Springs South,3,Lee's Summit North,2
 2026-10-17,Liberty,9,Staley,7
+2026-10-19,Halfway,10,Weaubleau,0
+2026-10-19,Dadeville with Everton,3,Wheatland,6
+2026-10-19,St. Elizabeth,11,Eugene,1
+2026-10-19,Silex,2,Paris,1
+2026-10-19,"Brunswick with Keytesville, Northwestern (Mendon)",1,Gallatin,11
+2026-10-19,King City with Union Star,1,North Andrew,0
+2026-10-19,Maysville,2,Stanberry,6
+2026-10-19,Princeton,5,Albany,2
+2026-10-19,Montgomery County,1,Elsberry,8
+2026-10-19,Fayette,3,North Callaway,1
+2026-10-19,Fatima,13,South Callaway,0
+2026-10-19,Linn,2,Iberia,8
+2026-10-19,Marceline,6,South Harrison,5
+2026-10-19,Lafayette County,0,Lone Jack,2
+2026-10-19,Doniphan,2,Notre Dame (Cape Girardeau),3
+2026-10-19,Sullivan,8,Lutheran South,1
+2026-10-19,Wright City,16,Bayless,6
+2026-10-19,Chillicothe,0,Centralia,2
+2026-10-19,Southern Boone,9,Blair Oaks,8
+2026-10-19,Eldon,0,Osage,1
+2026-10-19,Bolivar,12,Aurora,2
+2026-10-19,Oak Grove,10,Holden,0
+2026-10-19,Pleasant Hill,11,Odessa,0
+2026-10-19,Savannah,14,Excelsior Springs,0
+2026-10-19,Richmond,1,Cameron,2
+2026-10-19,Westminster Christian Academy,2,Parkway West,10
+2026-10-19,Washington,7,Warrenton,9
+2026-10-19,St. Francis Borgia,0,St. Dominic,6
+2026-10-19,Helias Catholic,8,Capital City,0
+2026-10-19,Willard,12,Logan-Rogersville,2
+2026-10-19,Belton,7,Carl Junction,1
+2026-10-19,Platte County,5,Smithville,3
+2026-10-19,Jackson,3,Oakville,0
+2026-10-19,Northwest (Cedar Hill),4,Fox,11
+2026-10-19,Eureka,5,Lindbergh,2
+2026-10-19,Troy Buchanan,7,Ft. Zumwalt West,5
+2026-10-19,Ozark,2,Nixa,15
+2026-10-19,Kickapoo,11,Glendale,1
+2026-10-19,Raymore-Peculiar,0,Lee's Summit,6
+2026-10-19,Grain Valley,0,Blue Springs South,2
