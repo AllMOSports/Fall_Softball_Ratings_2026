@@ -30196,6 +30196,15 @@
   },
   {
     "date": "2026-10-12",
+    "team1": "St. Dominic",
+    "score1": 1,
+    "team2": "Eureka",
+    "score2": 11,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-12",
     "team1": "Truman",
     "score1": 4,
     "team2": "Excelsior Springs",
@@ -30838,15 +30847,6 @@
     "team1": "Jefferson City",
     "score1": null,
     "team2": "Blair Oaks",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-12",
-    "team1": "St. Dominic",
-    "score1": null,
-    "team2": "Eureka",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -33257,18 +33257,18 @@
   {
     "date": "2026-10-20",
     "team1": "Halfway",
-    "score1": null,
+    "score1": 2,
     "team2": "Wheatland",
-    "score2": null,
+    "score2": 4,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-10-20",
     "team1": "North Shelby",
-    "score1": null,
+    "score1": 7,
     "team2": "Canton",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
@@ -33347,9 +33347,9 @@
   {
     "date": "2026-10-20",
     "team1": "Savannah",
-    "score1": null,
+    "score1": 8,
     "team2": "Cameron",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
@@ -33401,26 +33401,17 @@
   {
     "date": "2026-10-21",
     "team1": "Winfield",
-    "score1": null,
+    "score1": 11,
     "team2": "Wright City",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
   {
-    "date": "2026-10-22",
-    "team1": "Winfield",
+    "date": "2026-10-24",
+    "team1": "Wheatland",
     "score1": null,
-    "team2": "Wright City",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-23",
-    "team1": "Winfield",
-    "score1": null,
-    "team2": "Wright City",
+    "team2": "Vienna",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -33430,6 +33421,15 @@
     "team1": "Silex",
     "score1": null,
     "team2": "St. Elizabeth",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-24",
+    "team1": "Gallatin",
+    "score1": null,
+    "team2": "North Shelby",
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -33490,9 +33490,27 @@
   },
   {
     "date": "2026-10-24",
+    "team1": "Centralia",
+    "score1": null,
+    "team2": "Winfield",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-24",
     "team1": "Bolivar",
     "score1": null,
     "team2": "Southern Boone",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-24",
+    "team1": "Savannah",
+    "score1": null,
+    "team2": "Oak Grove",
     "score2": null,
     "forfeit": false,
     "overtime": false

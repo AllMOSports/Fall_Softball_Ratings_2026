@@ -3354,6 +3354,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-12,Lawson,19,East Buchanan,1,False,False
 2026-10-12,Battle,0,Eldon,11,False,False
 2026-10-12,Tuscumbia,0,Eugene,12,False,False
+2026-10-12,St. Dominic,1,Eureka,11,False,False
 2026-10-12,Truman,4,Excelsior Springs,2,False,False
 2026-10-12,Saxony Lutheran with St. Vincent,6,Farmington,12,False,False
 2026-10-12,Macon,7,Father Tolton,5,False,False
@@ -3426,7 +3427,6 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-12,Sullivan,5,Windsor (Imperial),6,False,False
 2026-10-12,Owensville,11,Wright City,14,False,False
 2026-10-12,Jefferson City,,Blair Oaks,,False,False
-2026-10-12,St. Dominic,,Eureka,,False,False
 2026-10-12,Benton,,Richmond,,False,False
 2026-10-13,Community,0,Elsberry,6,False,False
 2026-10-13,St. Charles West with St. Charles,6,Incarnate Word Academy,9,False,False
@@ -3694,8 +3694,8 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-19,Kickapoo,11,Glendale,1,False,False
 2026-10-19,Raymore-Peculiar,0,Lee's Summit,6,False,False
 2026-10-19,Grain Valley,0,Blue Springs South,2,False,False
-2026-10-20,Halfway,,Wheatland,,False,False
-2026-10-20,North Shelby,,Canton,,False,False
+2026-10-20,Halfway,2,Wheatland,4,False,False
+2026-10-20,North Shelby,7,Canton,1,False,False
 2026-10-20,King City with Union Star,8,Stanberry,7,False,False
 2026-10-20,Chaffee,1,Kelly,0,False,False
 2026-10-20,Fatima,12,Iberia,1,False,False
@@ -3704,23 +3704,25 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-20,Bowling Green,6,Wright City,13,False,False
 2026-10-20,Southern Boone,10,Osage,0,False,False
 2026-10-20,Oak Grove,4,Pleasant Hill,0,False,False
-2026-10-20,Savannah,,Cameron,,False,False
+2026-10-20,Savannah,8,Cameron,0,False,False
 2026-10-20,Cor Jesu Academy,1,Festus,8,False,False
 2026-10-20,St. Dominic,4,Warrenton,0,False,False
 2026-10-20,Parkway Central,10,Incarnate Word Academy,3,False,False
 2026-10-20,Jackson,5,Fox,1,False,False
 2026-10-20,Kickapoo,17,Nixa,19,False,False
-2026-10-21,Winfield,,Wright City,,False,False
-2026-10-22,Winfield,,Wright City,,False,False
-2026-10-23,Winfield,,Wright City,,False,False
+2026-10-21,Winfield,11,Wright City,1,False,False
+2026-10-24,Wheatland,,Vienna,,False,False
 2026-10-24,Silex,,St. Elizabeth,,False,False
+2026-10-24,Gallatin,,North Shelby,,False,False
 2026-10-24,Princeton,,King City with Union Star,,False,False
 2026-10-24,Elsberry,,Chaffee,,False,False
 2026-10-24,Fatima,,Fayette,,False,False
 2026-10-24,Marceline,,Highland,,False,False
 2026-10-24,Lone Jack,,Mid-Buchanan,,False,False
 2026-10-24,Sullivan,,Notre Dame (Cape Girardeau),,False,False
+2026-10-24,Centralia,,Winfield,,False,False
 2026-10-24,Bolivar,,Southern Boone,,False,False
+2026-10-24,Savannah,,Oak Grove,,False,False
 2026-10-24,Parkway West,,Festus,,False,False
 2026-10-24,Parkway Central,,St. Dominic,,False,False
 2026-10-24,Willard,,Helias Catholic,,False,False
