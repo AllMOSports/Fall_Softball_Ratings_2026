@@ -38182,6 +38182,17 @@
   },
   {
     "date": "2026-10-09",
+    "team1": "St. Louis Patriots Sr.",
+    "team1_classified": false,
+    "score1": 2,
+    "team2": "St. Charles West with St. Charles",
+    "team2_classified": true,
+    "score2": 12,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-09",
     "team1": "Hancock",
     "team1_classified": true,
     "score1": 21,
@@ -38319,17 +38330,6 @@
     "score1": null,
     "team2": "Normandy Collaborative",
     "team2_classified": false,
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-09",
-    "team1": "St. Louis Patriots Sr.",
-    "team1_classified": false,
-    "score1": null,
-    "team2": "St. Charles West with St. Charles",
-    "team2_classified": true,
     "score2": null,
     "forfeit": false,
     "overtime": false
@@ -39035,6 +39035,17 @@
     "team2": "Bevier",
     "team2_classified": true,
     "score2": 9,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-12",
+    "team1": "Jefferson City",
+    "team1_classified": true,
+    "score1": 3,
+    "team2": "Blair Oaks",
+    "team2_classified": true,
+    "score2": 18,
     "forfeit": false,
     "overtime": false
   },
@@ -40047,17 +40058,6 @@
     "team2": "Wright City",
     "team2_classified": true,
     "score2": 14,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-12",
-    "team1": "Jefferson City",
-    "team1_classified": true,
-    "score1": null,
-    "team2": "Blair Oaks",
-    "team2_classified": true,
-    "score2": null,
     "forfeit": false,
     "overtime": false
   },

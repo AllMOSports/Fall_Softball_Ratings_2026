@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 22, 2026 at 08:32 AM",
+  "last_updated": "October 23, 2026 at 08:31 AM",
   "league_average": 7.03,
   "classification": 4,
   "teams": [
@@ -9,7 +9,7 @@
       "classification": 4,
       "district": 5,
       "ovr_rating": 13.25,
-      "off_rating": 5.61,
+      "off_rating": 5.6,
       "off_rank": 2,
       "def_rating": 7.65,
       "def_rank": 1
@@ -19,7 +19,7 @@
       "school": "Platte County",
       "classification": 4,
       "district": 8,
-      "ovr_rating": 12.6,
+      "ovr_rating": 12.61,
       "off_rating": 6.95,
       "off_rank": 1,
       "def_rating": 5.66,
@@ -33,7 +33,7 @@
       "ovr_rating": 11.68,
       "off_rating": 5.21,
       "off_rank": 4,
-      "def_rating": 6.47,
+      "def_rating": 6.46,
       "def_rank": 2
     },
     {
@@ -41,7 +41,7 @@
       "school": "Washington",
       "classification": 4,
       "district": 3,
-      "ovr_rating": 10.16,
+      "ovr_rating": 10.17,
       "off_rating": 4.91,
       "off_rank": 5,
       "def_rating": 5.26,
@@ -74,7 +74,7 @@
       "school": "Belton",
       "classification": 4,
       "district": 7,
-      "ovr_rating": 9.36,
+      "ovr_rating": 9.35,
       "off_rating": 4.58,
       "off_rank": 6,
       "def_rating": 4.78,
@@ -141,8 +141,8 @@
       "classification": 4,
       "district": 5,
       "ovr_rating": 6.94,
-      "off_rating": 1.66,
-      "off_rank": 22,
+      "off_rating": 1.65,
+      "off_rank": 23,
       "def_rating": 5.28,
       "def_rank": 8
     },
@@ -173,10 +173,10 @@
       "school": "Windsor (Imperial)",
       "classification": 4,
       "district": 1,
-      "ovr_rating": 6.37,
+      "ovr_rating": 6.38,
       "off_rating": 2.29,
       "off_rank": 14,
-      "def_rating": 4.08,
+      "def_rating": 4.09,
       "def_rank": 15
     },
     {
@@ -195,10 +195,10 @@
       "school": "St. Francis Borgia",
       "classification": 4,
       "district": 3,
-      "ovr_rating": 4.61,
-      "off_rating": 1.78,
+      "ovr_rating": 4.59,
+      "off_rating": 1.77,
       "off_rank": 19,
-      "def_rating": 2.83,
+      "def_rating": 2.82,
       "def_rank": 20
     },
     {
@@ -219,7 +219,7 @@
       "district": 4,
       "ovr_rating": 4.34,
       "off_rating": 1.01,
-      "off_rank": 29,
+      "off_rank": 28,
       "def_rating": 3.33,
       "def_rank": 17
     },
@@ -228,10 +228,10 @@
       "school": "Logan-Rogersville",
       "classification": 4,
       "district": 6,
-      "ovr_rating": 4.18,
+      "ovr_rating": 4.19,
       "off_rating": 1.07,
       "off_rank": 27,
-      "def_rating": 3.11,
+      "def_rating": 3.12,
       "def_rank": 19
     },
     {
@@ -239,9 +239,9 @@
       "school": "Rolla",
       "classification": 4,
       "district": 6,
-      "ovr_rating": 4.17,
+      "ovr_rating": 4.16,
       "off_rating": 1.66,
-      "off_rank": 23,
+      "off_rank": 22,
       "def_rating": 2.51,
       "def_rank": 24
     },
@@ -250,10 +250,10 @@
       "school": "St. Dominic",
       "classification": 4,
       "district": 3,
-      "ovr_rating": 3.94,
+      "ovr_rating": 3.93,
       "off_rating": -0.25,
       "off_rank": 35,
-      "def_rating": 4.19,
+      "def_rating": 4.18,
       "def_rank": 14
     },
     {
@@ -274,8 +274,8 @@
       "district": 1,
       "ovr_rating": 2.73,
       "off_rating": 1.7,
-      "off_rank": 21,
-      "def_rating": 1.03,
+      "off_rank": 20,
+      "def_rating": 1.02,
       "def_rank": 28
     },
     {
@@ -283,8 +283,8 @@
       "school": "Battle",
       "classification": 4,
       "district": 5,
-      "ovr_rating": 2.7,
-      "off_rating": 1.55,
+      "ovr_rating": 2.69,
+      "off_rating": 1.53,
       "off_rank": 24,
       "def_rating": 1.15,
       "def_rank": 27
@@ -294,9 +294,9 @@
       "school": "Warrensburg",
       "classification": 4,
       "district": 5,
-      "ovr_rating": 2.34,
-      "off_rating": 1.71,
-      "off_rank": 20,
+      "ovr_rating": 2.32,
+      "off_rating": 1.7,
+      "off_rank": 21,
       "def_rating": 0.63,
       "def_rank": 32
     },
@@ -316,10 +316,10 @@
       "school": "Warrenton",
       "classification": 4,
       "district": 3,
-      "ovr_rating": 2.0,
-      "off_rating": -0.31,
+      "ovr_rating": 1.99,
+      "off_rating": -0.32,
       "off_rank": 36,
-      "def_rating": 2.32,
+      "def_rating": 2.31,
       "def_rank": 25
     },
     {
@@ -338,10 +338,10 @@
       "school": "Pacific",
       "classification": 4,
       "district": 3,
-      "ovr_rating": 1.07,
+      "ovr_rating": 1.06,
       "off_rating": 0.21,
       "off_rank": 34,
-      "def_rating": 0.86,
+      "def_rating": 0.85,
       "def_rank": 30
     },
     {
@@ -372,7 +372,7 @@
       "classification": 4,
       "district": 4,
       "ovr_rating": 0.02,
-      "off_rating": 1.85,
+      "off_rating": 1.84,
       "off_rank": 18,
       "def_rating": -1.82,
       "def_rank": 37
@@ -382,7 +382,7 @@
       "school": "Ft. Zumwalt East",
       "classification": 4,
       "district": 4,
-      "ovr_rating": -0.18,
+      "ovr_rating": -0.19,
       "off_rating": -0.33,
       "off_rank": 37,
       "def_rating": 0.15,
@@ -393,36 +393,25 @@
       "school": "Holt",
       "classification": 4,
       "district": 3,
-      "ovr_rating": -1.37,
+      "ovr_rating": -1.38,
       "off_rating": 0.62,
       "off_rank": 31,
-      "def_rating": -1.99,
+      "def_rating": -2.0,
       "def_rank": 38
     },
     {
       "ovr_rank": 37,
-      "school": "Jefferson City",
-      "classification": 4,
-      "district": 5,
-      "ovr_rating": -1.5,
-      "off_rating": 1.02,
-      "off_rank": 28,
-      "def_rating": -2.52,
-      "def_rank": 40
-    },
-    {
-      "ovr_rank": 38,
       "school": "Union",
       "classification": 4,
       "district": 3,
-      "ovr_rating": -1.57,
-      "off_rating": 0.75,
+      "ovr_rating": -1.61,
+      "off_rating": 0.71,
       "off_rank": 30,
       "def_rating": -2.32,
       "def_rank": 39
     },
     {
-      "ovr_rank": 39,
+      "ovr_rank": 38,
       "school": "St. Teresa's Academy",
       "classification": 4,
       "district": 8,
@@ -431,6 +420,17 @@
       "off_rank": 41,
       "def_rating": -0.28,
       "def_rank": 35
+    },
+    {
+      "ovr_rank": 39,
+      "school": "Jefferson City",
+      "classification": 4,
+      "district": 5,
+      "ovr_rating": -1.83,
+      "off_rating": 0.96,
+      "off_rank": 29,
+      "def_rating": -2.8,
+      "def_rank": 40
     },
     {
       "ovr_rank": 40,
@@ -471,7 +471,7 @@
       "classification": 4,
       "district": 5,
       "ovr_rating": -5.33,
-      "off_rating": -2.43,
+      "off_rating": -2.42,
       "off_rank": 42,
       "def_rating": -2.91,
       "def_rank": 42
@@ -481,8 +481,8 @@
       "school": "Camdenton",
       "classification": 4,
       "district": 5,
-      "ovr_rating": -8.46,
-      "off_rating": -3.24,
+      "ovr_rating": -8.49,
+      "off_rating": -3.26,
       "off_rank": 45,
       "def_rating": -5.22,
       "def_rank": 44
@@ -506,7 +506,7 @@
       "ovr_rating": -9.57,
       "off_rating": -4.22,
       "off_rank": 48,
-      "def_rating": -5.36,
+      "def_rating": -5.35,
       "def_rank": 45
     },
     {
@@ -558,7 +558,7 @@
       "school": "Affton",
       "classification": 4,
       "district": 2,
-      "ovr_rating": -13.57,
+      "ovr_rating": -13.58,
       "off_rating": -4.42,
       "off_rank": 49,
       "def_rating": -9.15,
@@ -580,7 +580,7 @@
       "school": "Hillcrest",
       "classification": 4,
       "district": 6,
-      "ovr_rating": -15.14,
+      "ovr_rating": -15.15,
       "off_rating": -5.01,
       "off_rank": 51,
       "def_rating": -10.13,
@@ -614,7 +614,7 @@
       "classification": 4,
       "district": 6,
       "ovr_rating": -20.48,
-      "off_rating": -7.15,
+      "off_rating": -7.16,
       "off_rank": 55,
       "def_rating": -13.32,
       "def_rank": 58
@@ -646,7 +646,7 @@
       "school": "Lincoln College Prep",
       "classification": 4,
       "district": 8,
-      "ovr_rating": -28.07,
+      "ovr_rating": -28.08,
       "off_rating": -10.62,
       "off_rank": 59,
       "def_rating": -17.46,

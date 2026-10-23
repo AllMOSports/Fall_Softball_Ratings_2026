@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 22, 2026 at 08:32 AM",
+  "last_updated": "October 23, 2026 at 08:31 AM",
   "league_average": 7.03,
   "classification": 2,
   "teams": [
@@ -53,7 +53,7 @@
       "classification": 2,
       "district": 4,
       "ovr_rating": 7.61,
-      "off_rating": 2.88,
+      "off_rating": 2.87,
       "off_rank": 8,
       "def_rating": 4.73,
       "def_rank": 6
@@ -71,6 +71,17 @@
     },
     {
       "ovr_rank": 7,
+      "school": "Linn",
+      "classification": 2,
+      "district": 4,
+      "ovr_rating": 7.11,
+      "off_rating": 2.87,
+      "off_rank": 9,
+      "def_rating": 4.23,
+      "def_rank": 11
+    },
+    {
+      "ovr_rank": 8,
       "school": "South Harrison",
       "classification": 2,
       "district": 6,
@@ -81,23 +92,12 @@
       "def_rank": 12
     },
     {
-      "ovr_rank": 8,
-      "school": "Linn",
-      "classification": 2,
-      "district": 4,
-      "ovr_rating": 7.09,
-      "off_rating": 2.87,
-      "off_rank": 9,
-      "def_rating": 4.22,
-      "def_rank": 11
-    },
-    {
       "ovr_rank": 9,
       "school": "Elsberry",
       "classification": 2,
       "district": 2,
-      "ovr_rating": 7.06,
-      "off_rating": 2.36,
+      "ovr_rating": 7.05,
+      "off_rating": 2.35,
       "off_rank": 11,
       "def_rating": 4.7,
       "def_rank": 7
@@ -140,10 +140,10 @@
       "school": "Salisbury",
       "classification": 2,
       "district": 3,
-      "ovr_rating": 5.35,
+      "ovr_rating": 5.36,
       "off_rating": 2.4,
       "off_rank": 10,
-      "def_rating": 2.95,
+      "def_rating": 2.96,
       "def_rank": 14
     },
     {
@@ -162,10 +162,10 @@
       "school": "Iberia",
       "classification": 2,
       "district": 4,
-      "ovr_rating": 3.47,
+      "ovr_rating": 3.48,
       "off_rating": 1.36,
       "off_rank": 13,
-      "def_rating": 2.11,
+      "def_rating": 2.12,
       "def_rank": 18
     },
     {
@@ -184,8 +184,8 @@
       "school": "Fayette",
       "classification": 2,
       "district": 3,
-      "ovr_rating": 2.94,
-      "off_rating": -1.32,
+      "ovr_rating": 2.95,
+      "off_rating": -1.31,
       "off_rank": 32,
       "def_rating": 4.26,
       "def_rank": 9
@@ -225,17 +225,6 @@
     },
     {
       "ovr_rank": 21,
-      "school": "Brookfield",
-      "classification": 2,
-      "district": 6,
-      "ovr_rating": 0.98,
-      "off_rating": -0.21,
-      "off_rank": 25,
-      "def_rating": 1.18,
-      "def_rank": 22
-    },
-    {
-      "ovr_rank": 22,
       "school": "Lafayette County",
       "classification": 2,
       "district": 8,
@@ -244,6 +233,17 @@
       "off_rank": 33,
       "def_rating": 2.34,
       "def_rank": 16
+    },
+    {
+      "ovr_rank": 22,
+      "school": "Brookfield",
+      "classification": 2,
+      "district": 6,
+      "ovr_rating": 0.98,
+      "off_rating": -0.21,
+      "off_rank": 25,
+      "def_rating": 1.18,
+      "def_rank": 22
     },
     {
       "ovr_rank": 23,
@@ -264,7 +264,7 @@
       "ovr_rating": -0.15,
       "off_rating": 0.08,
       "off_rank": 23,
-      "def_rating": -0.24,
+      "def_rating": -0.23,
       "def_rank": 30
     },
     {
@@ -294,7 +294,7 @@
       "school": "Trenton",
       "classification": 2,
       "district": 6,
-      "ovr_rating": -0.84,
+      "ovr_rating": -0.83,
       "off_rating": -1.95,
       "off_rank": 37,
       "def_rating": 1.11,
@@ -305,7 +305,7 @@
       "school": "Clark County",
       "classification": 2,
       "district": 5,
-      "ovr_rating": -0.88,
+      "ovr_rating": -0.87,
       "off_rating": -0.7,
       "off_rank": 28,
       "def_rating": -0.18,
@@ -372,7 +372,7 @@
       "classification": 2,
       "district": 3,
       "ovr_rating": -2.57,
-      "off_rating": -2.49,
+      "off_rating": -2.48,
       "off_rank": 41,
       "def_rating": -0.08,
       "def_rank": 27
@@ -405,9 +405,9 @@
       "classification": 2,
       "district": 4,
       "ovr_rating": -3.63,
-      "off_rating": -1.55,
+      "off_rating": -1.54,
       "off_rank": 35,
-      "def_rating": -2.09,
+      "def_rating": -2.08,
       "def_rank": 36
     },
     {
@@ -514,7 +514,7 @@
       "school": "Hancock",
       "classification": 2,
       "district": 2,
-      "ovr_rating": -12.8,
+      "ovr_rating": -12.81,
       "off_rating": -4.34,
       "off_rank": 46,
       "def_rating": -8.47,

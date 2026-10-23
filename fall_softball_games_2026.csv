@@ -3336,6 +3336,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-12,North Platte,1,Albany,6,False,False
 2026-10-12,"Brunswick with Keytesville, Northwestern (Mendon)",19,Atlanta,10,False,False
 2026-10-12,Linn County,16,Bevier,9,False,False
+2026-10-12,Jefferson City,3,Blair Oaks,18,False,False
 2026-10-12,Waynesville,1,Bolivar,16,False,False
 2026-10-12,Centralia,12,Bowling Green,0,False,False
 2026-10-12,Willard,8,Branson,2,False,False
@@ -3426,7 +3427,6 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-12,Grandview,3,William Chrisman,10,False,False
 2026-10-12,Sullivan,5,Windsor (Imperial),6,False,False
 2026-10-12,Owensville,11,Wright City,14,False,False
-2026-10-12,Jefferson City,,Blair Oaks,,False,False
 2026-10-12,Benton,,Richmond,,False,False
 2026-10-13,Community,0,Elsberry,6,False,False
 2026-10-13,St. Charles West with St. Charles,6,Incarnate Word Academy,9,False,False

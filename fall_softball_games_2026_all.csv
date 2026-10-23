@@ -3470,6 +3470,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-09,Albany,True,4,Princeton,True,5,False,False
 2026-10-09,Windsor (Imperial),True,10,Rolla,True,3,False,False
 2026-10-09,Green City,True,1,Schuyler County,True,16,False,False
+2026-10-09,St. Louis Patriots Sr.,False,2,St. Charles West with St. Charles,True,12,False,False
 2026-10-09,Hancock,True,21,STEAM Academy,True,9,False,False
 2026-10-09,Father Tolton,True,8,Sullivan,True,7,False,False
 2026-10-09,Nixa,True,15,Sullivan,True,0,False,False
@@ -3483,7 +3484,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-09,St. Francis Borgia,True,1,Willard,True,4,False,False
 2026-10-09,Marion County,True,,Brashear,True,,False,False
 2026-10-09,Lutheran St. Charles with Veritas Christian Academy,True,,Normandy Collaborative,False,,False,False
-2026-10-09,St. Louis Patriots Sr.,False,,St. Charles West with St. Charles,True,,False,False
 2026-10-10,Excelsior Springs,True,7,Bishop LeBlond,True,0,False,False
 2026-10-10,Cassville,True,1,Bolivar,True,4,False,False
 2026-10-10,Joplin,True,8,Bolivar,True,7,False,False
@@ -3548,6 +3548,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-12,"Brunswick with Keytesville, Northwestern (Mendon)",True,19,Atlanta,True,10,False,False
 2026-10-12,Hazelwood Central,False,2,Bayless,True,18,False,False
 2026-10-12,Linn County,True,16,Bevier,True,9,False,False
+2026-10-12,Jefferson City,True,3,Blair Oaks,True,18,False,False
 2026-10-12,Waynesville,True,1,Bolivar,True,16,False,False
 2026-10-12,Centralia,True,12,Bowling Green,True,0,False,False
 2026-10-12,Willard,True,8,Branson,True,2,False,False
@@ -3640,7 +3641,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-12,Grandview,True,3,William Chrisman,True,10,False,False
 2026-10-12,Sullivan,True,5,Windsor (Imperial),True,6,False,False
 2026-10-12,Owensville,True,11,Wright City,True,14,False,False
-2026-10-12,Jefferson City,True,,Blair Oaks,True,,False,False
 2026-10-12,University City,True,,Normandy Collaborative,False,,False,False
 2026-10-12,Benton,True,,Richmond,True,,False,False
 2026-10-13,Community,True,0,Elsberry,True,6,False,False
