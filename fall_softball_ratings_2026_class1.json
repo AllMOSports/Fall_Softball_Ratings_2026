@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 23, 2026 at 08:31 AM",
+  "last_updated": "October 24, 2026 at 08:31 AM",
   "league_average": 7.03,
   "classification": 1,
   "teams": [
@@ -775,17 +775,6 @@
     },
     {
       "ovr_rank": 71,
-      "school": "Climax Springs",
-      "classification": 1,
-      "district": 2,
-      "ovr_rating": -22.85,
-      "off_rating": -8.0,
-      "off_rank": 70,
-      "def_rating": -14.84,
-      "def_rank": 72
-    },
-    {
-      "ovr_rank": 72,
       "school": "Norborne with Hardin-Central",
       "classification": 1,
       "district": 6,
@@ -794,6 +783,17 @@
       "off_rank": 64,
       "def_rating": -16.45,
       "def_rank": 74
+    },
+    {
+      "ovr_rank": 72,
+      "school": "Climax Springs",
+      "classification": 1,
+      "district": 2,
+      "ovr_rating": -22.85,
+      "off_rating": -8.0,
+      "off_rank": 70,
+      "def_rating": -14.84,
+      "def_rank": 72
     },
     {
       "ovr_rank": 73,
