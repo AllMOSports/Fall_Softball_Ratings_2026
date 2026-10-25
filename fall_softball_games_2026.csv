@@ -3711,23 +3711,33 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-20,Jackson,5,Fox,1,False,False
 2026-10-20,Kickapoo,17,Nixa,19,False,False
 2026-10-21,Winfield,11,Wright City,1,False,False
-2026-10-24,Wheatland,,Vienna,,False,False
-2026-10-24,Silex,,St. Elizabeth,,False,False
-2026-10-24,Gallatin,,North Shelby,,False,False
-2026-10-24,Princeton,,King City with Union Star,,False,False
-2026-10-24,Elsberry,,Chaffee,,False,False
-2026-10-24,Fatima,,Fayette,,False,False
-2026-10-24,Marceline,,Highland,,False,False
-2026-10-24,Lone Jack,,Mid-Buchanan,,False,False
-2026-10-24,Sullivan,,Notre Dame (Cape Girardeau),,False,False
-2026-10-24,Centralia,,Winfield,,False,False
-2026-10-24,Bolivar,,Southern Boone,,False,False
-2026-10-24,Savannah,,Oak Grove,,False,False
-2026-10-24,Parkway West,,Festus,,False,False
-2026-10-24,Parkway Central,,St. Dominic,,False,False
-2026-10-24,Willard,,Helias Catholic,,False,False
-2026-10-24,Platte County,,Belton,,False,False
-2026-10-24,Eureka,,Jackson,,False,False
-2026-10-24,Troy Buchanan,,Francis Howell,,False,False
-2026-10-24,Lee's Summit,,Nixa,,False,False
-2026-10-24,Liberty,,Blue Springs South,,False,False
+2026-10-24,Wheatland,8,Vienna,7,False,False
+2026-10-24,Silex,5,St. Elizabeth,2,False,False
+2026-10-24,Gallatin,2,North Shelby,1,False,False
+2026-10-24,Princeton,1,King City with Union Star,0,False,False
+2026-10-24,Elsberry,2,Chaffee,6,False,False
+2026-10-24,Fatima,2,Fayette,1,False,False
+2026-10-24,Marceline,10,Highland,3,False,False
+2026-10-24,Lone Jack,2,Mid-Buchanan,7,False,False
+2026-10-24,Sullivan,2,Notre Dame (Cape Girardeau),3,False,False
+2026-10-24,Centralia,3,Winfield,0,False,False
+2026-10-24,Bolivar,5,Southern Boone,16,False,False
+2026-10-24,Savannah,2,Oak Grove,3,False,False
+2026-10-24,Parkway West,6,Festus,3,False,False
+2026-10-24,Parkway Central,2,St. Dominic,8,False,False
+2026-10-24,Willard,5,Helias Catholic,7,False,False
+2026-10-24,Platte County,13,Belton,9,False,False
+2026-10-24,Eureka,14,Jackson,0,False,False
+2026-10-24,Troy Buchanan,3,Francis Howell,1,False,False
+2026-10-24,Lee's Summit,10,Nixa,9,False,False
+2026-10-24,Liberty,5,Blue Springs South,3,False,False
+2026-10-29,St. Dominic,,Parkway West,,False,False
+2026-10-29,Platte County,,Helias Catholic,,False,False
+2026-10-29,Troy Buchanan,,Eureka,,False,False
+2026-10-29,Liberty,,Lee's Summit,,False,False
+2026-10-30,Silex,,Wheatland,,False,False
+2026-10-30,Princeton,,Gallatin,,False,False
+2026-10-30,Fatima,,Chaffee,,False,False
+2026-10-30,Mid-Buchanan,,Marceline,,False,False
+2026-10-30,Centralia,,Notre Dame (Cape Girardeau),,False,False
+2026-10-30,Oak Grove,,Southern Boone,,False,False

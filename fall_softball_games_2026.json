@@ -33410,132 +33410,195 @@
   {
     "date": "2026-10-24",
     "team1": "Wheatland",
-    "score1": null,
+    "score1": 8,
     "team2": "Vienna",
-    "score2": null,
+    "score2": 7,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-10-24",
     "team1": "Silex",
-    "score1": null,
+    "score1": 5,
     "team2": "St. Elizabeth",
-    "score2": null,
+    "score2": 2,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-10-24",
     "team1": "Gallatin",
-    "score1": null,
+    "score1": 2,
     "team2": "North Shelby",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-10-24",
     "team1": "Princeton",
-    "score1": null,
+    "score1": 1,
     "team2": "King City with Union Star",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-10-24",
     "team1": "Elsberry",
-    "score1": null,
+    "score1": 2,
     "team2": "Chaffee",
-    "score2": null,
+    "score2": 6,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-10-24",
     "team1": "Fatima",
-    "score1": null,
+    "score1": 2,
     "team2": "Fayette",
-    "score2": null,
+    "score2": 1,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-10-24",
     "team1": "Marceline",
-    "score1": null,
+    "score1": 10,
     "team2": "Highland",
-    "score2": null,
+    "score2": 3,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-10-24",
     "team1": "Lone Jack",
-    "score1": null,
+    "score1": 2,
     "team2": "Mid-Buchanan",
-    "score2": null,
+    "score2": 7,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-10-24",
     "team1": "Sullivan",
-    "score1": null,
+    "score1": 2,
     "team2": "Notre Dame (Cape Girardeau)",
-    "score2": null,
+    "score2": 3,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-10-24",
     "team1": "Centralia",
-    "score1": null,
+    "score1": 3,
     "team2": "Winfield",
-    "score2": null,
+    "score2": 0,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-10-24",
     "team1": "Bolivar",
-    "score1": null,
+    "score1": 5,
     "team2": "Southern Boone",
-    "score2": null,
+    "score2": 16,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-10-24",
     "team1": "Savannah",
-    "score1": null,
+    "score1": 2,
     "team2": "Oak Grove",
-    "score2": null,
+    "score2": 3,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-10-24",
     "team1": "Parkway West",
-    "score1": null,
+    "score1": 6,
     "team2": "Festus",
-    "score2": null,
+    "score2": 3,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-10-24",
     "team1": "Parkway Central",
-    "score1": null,
+    "score1": 2,
     "team2": "St. Dominic",
-    "score2": null,
+    "score2": 8,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-10-24",
     "team1": "Willard",
+    "score1": 5,
+    "team2": "Helias Catholic",
+    "score2": 7,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-24",
+    "team1": "Platte County",
+    "score1": 13,
+    "team2": "Belton",
+    "score2": 9,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-24",
+    "team1": "Eureka",
+    "score1": 14,
+    "team2": "Jackson",
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-24",
+    "team1": "Troy Buchanan",
+    "score1": 3,
+    "team2": "Francis Howell",
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-24",
+    "team1": "Lee's Summit",
+    "score1": 10,
+    "team2": "Nixa",
+    "score2": 9,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-24",
+    "team1": "Liberty",
+    "score1": 5,
+    "team2": "Blue Springs South",
+    "score2": 3,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-29",
+    "team1": "St. Dominic",
+    "score1": null,
+    "team2": "Parkway West",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-29",
+    "team1": "Platte County",
     "score1": null,
     "team2": "Helias Catholic",
     "score2": null,
@@ -33543,46 +33606,73 @@
     "overtime": false
   },
   {
-    "date": "2026-10-24",
-    "team1": "Platte County",
-    "score1": null,
-    "team2": "Belton",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-24",
-    "team1": "Eureka",
-    "score1": null,
-    "team2": "Jackson",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-24",
+    "date": "2026-10-29",
     "team1": "Troy Buchanan",
     "score1": null,
-    "team2": "Francis Howell",
+    "team2": "Eureka",
     "score2": null,
     "forfeit": false,
     "overtime": false
   },
   {
-    "date": "2026-10-24",
-    "team1": "Lee's Summit",
-    "score1": null,
-    "team2": "Nixa",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-24",
+    "date": "2026-10-29",
     "team1": "Liberty",
     "score1": null,
-    "team2": "Blue Springs South",
+    "team2": "Lee's Summit",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-30",
+    "team1": "Silex",
+    "score1": null,
+    "team2": "Wheatland",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-30",
+    "team1": "Princeton",
+    "score1": null,
+    "team2": "Gallatin",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-30",
+    "team1": "Fatima",
+    "score1": null,
+    "team2": "Chaffee",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-30",
+    "team1": "Mid-Buchanan",
+    "score1": null,
+    "team2": "Marceline",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-30",
+    "team1": "Centralia",
+    "score1": null,
+    "team2": "Notre Dame (Cape Girardeau)",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-30",
+    "team1": "Oak Grove",
+    "score1": null,
+    "team2": "Southern Boone",
     "score2": null,
     "forfeit": false,
     "overtime": false

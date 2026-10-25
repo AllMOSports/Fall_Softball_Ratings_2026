@@ -3926,23 +3926,33 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-20,Jackson,True,5,Fox,True,1,False,False
 2026-10-20,Kickapoo,True,17,Nixa,True,19,False,False
 2026-10-21,Winfield,True,11,Wright City,True,1,False,False
-2026-10-24,Wheatland,True,,Vienna,True,,False,False
-2026-10-24,Silex,True,,St. Elizabeth,True,,False,False
-2026-10-24,Gallatin,True,,North Shelby,True,,False,False
-2026-10-24,Princeton,True,,King City with Union Star,True,,False,False
-2026-10-24,Elsberry,True,,Chaffee,True,,False,False
-2026-10-24,Fatima,True,,Fayette,True,,False,False
-2026-10-24,Marceline,True,,Highland,True,,False,False
-2026-10-24,Lone Jack,True,,Mid-Buchanan,True,,False,False
-2026-10-24,Sullivan,True,,Notre Dame (Cape Girardeau),True,,False,False
-2026-10-24,Centralia,True,,Winfield,True,,False,False
-2026-10-24,Bolivar,True,,Southern Boone,True,,False,False
-2026-10-24,Savannah,True,,Oak Grove,True,,False,False
-2026-10-24,Parkway West,True,,Festus,True,,False,False
-2026-10-24,Parkway Central,True,,St. Dominic,True,,False,False
-2026-10-24,Willard,True,,Helias Catholic,True,,False,False
-2026-10-24,Platte County,True,,Belton,True,,False,False
-2026-10-24,Eureka,True,,Jackson,True,,False,False
-2026-10-24,Troy Buchanan,True,,Francis Howell,True,,False,False
-2026-10-24,Lee's Summit,True,,Nixa,True,,False,False
-2026-10-24,Liberty,True,,Blue Springs South,True,,False,False
+2026-10-24,Wheatland,True,8,Vienna,True,7,False,False
+2026-10-24,Silex,True,5,St. Elizabeth,True,2,False,False
+2026-10-24,Gallatin,True,2,North Shelby,True,1,False,False
+2026-10-24,Princeton,True,1,King City with Union Star,True,0,False,False
+2026-10-24,Elsberry,True,2,Chaffee,True,6,False,False
+2026-10-24,Fatima,True,2,Fayette,True,1,False,False
+2026-10-24,Marceline,True,10,Highland,True,3,False,False
+2026-10-24,Lone Jack,True,2,Mid-Buchanan,True,7,False,False
+2026-10-24,Sullivan,True,2,Notre Dame (Cape Girardeau),True,3,False,False
+2026-10-24,Centralia,True,3,Winfield,True,0,False,False
+2026-10-24,Bolivar,True,5,Southern Boone,True,16,False,False
+2026-10-24,Savannah,True,2,Oak Grove,True,3,False,False
+2026-10-24,Parkway West,True,6,Festus,True,3,False,False
+2026-10-24,Parkway Central,True,2,St. Dominic,True,8,False,False
+2026-10-24,Willard,True,5,Helias Catholic,True,7,False,False
+2026-10-24,Platte County,True,13,Belton,True,9,False,False
+2026-10-24,Eureka,True,14,Jackson,True,0,False,False
+2026-10-24,Troy Buchanan,True,3,Francis Howell,True,1,False,False
+2026-10-24,Lee's Summit,True,10,Nixa,True,9,False,False
+2026-10-24,Liberty,True,5,Blue Springs South,True,3,False,False
+2026-10-29,St. Dominic,True,,Parkway West,True,,False,False
+2026-10-29,Platte County,True,,Helias Catholic,True,,False,False
+2026-10-29,Troy Buchanan,True,,Eureka,True,,False,False
+2026-10-29,Liberty,True,,Lee's Summit,True,,False,False
+2026-10-30,Silex,True,,Wheatland,True,,False,False
+2026-10-30,Princeton,True,,Gallatin,True,,False,False
+2026-10-30,Fatima,True,,Chaffee,True,,False,False
+2026-10-30,Mid-Buchanan,True,,Marceline,True,,False,False
+2026-10-30,Centralia,True,,Notre Dame (Cape Girardeau),True,,False,False
+2026-10-30,Oak Grove,True,,Southern Boone,True,,False,False
