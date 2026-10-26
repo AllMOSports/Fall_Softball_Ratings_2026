@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 25, 2026 at 08:32 AM",
+  "last_updated": "October 26, 2026 at 08:32 AM",
   "league_average": 7.02,
   "classification": 5,
   "teams": [
@@ -346,17 +346,6 @@
     },
     {
       "ovr_rank": 32,
-      "school": "Carthage",
-      "classification": 5,
-      "district": 6,
-      "ovr_rating": 4.47,
-      "off_rating": 2.09,
-      "off_rank": 31,
-      "def_rating": 2.38,
-      "def_rank": 35
-    },
-    {
-      "ovr_rank": 33,
       "school": "Northwest (Cedar Hill)",
       "classification": 5,
       "district": 1,
@@ -365,6 +354,17 @@
       "off_rank": 35,
       "def_rating": 2.86,
       "def_rank": 32
+    },
+    {
+      "ovr_rank": 33,
+      "school": "Carthage",
+      "classification": 5,
+      "district": 6,
+      "ovr_rating": 4.47,
+      "off_rating": 2.09,
+      "off_rank": 31,
+      "def_rating": 2.38,
+      "def_rank": 35
     },
     {
       "ovr_rank": 34,

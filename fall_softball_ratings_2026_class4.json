@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 25, 2026 at 08:32 AM",
+  "last_updated": "October 26, 2026 at 08:32 AM",
   "league_average": 7.02,
   "classification": 4,
   "teams": [
@@ -49,17 +49,6 @@
     },
     {
       "ovr_rank": 5,
-      "school": "Cor Jesu Academy",
-      "classification": 4,
-      "district": 1,
-      "ovr_rating": 9.6,
-      "off_rating": 5.25,
-      "off_rank": 3,
-      "def_rating": 4.35,
-      "def_rank": 12
-    },
-    {
-      "ovr_rank": 6,
       "school": "Parkway West",
       "classification": 4,
       "district": 2,
@@ -68,6 +57,17 @@
       "off_rank": 9,
       "def_rating": 5.83,
       "def_rank": 4
+    },
+    {
+      "ovr_rank": 6,
+      "school": "Cor Jesu Academy",
+      "classification": 4,
+      "district": 1,
+      "ovr_rating": 9.6,
+      "off_rating": 5.25,
+      "off_rank": 3,
+      "def_rating": 4.35,
+      "def_rank": 12
     },
     {
       "ovr_rank": 7,
