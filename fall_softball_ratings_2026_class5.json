@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 26, 2026 at 08:32 AM",
+  "last_updated": "October 27, 2026 at 08:32 AM",
   "league_average": 7.02,
   "classification": 5,
   "teams": [
@@ -181,17 +181,6 @@
     },
     {
       "ovr_rank": 17,
-      "school": "Marquette",
-      "classification": 5,
-      "district": 2,
-      "ovr_rating": 8.83,
-      "off_rating": 3.36,
-      "off_rank": 22,
-      "def_rating": 5.47,
-      "def_rank": 17
-    },
-    {
-      "ovr_rank": 18,
       "school": "Park Hill",
       "classification": 5,
       "district": 8,
@@ -200,6 +189,17 @@
       "off_rank": 28,
       "def_rating": 6.22,
       "def_rank": 11
+    },
+    {
+      "ovr_rank": 18,
+      "school": "Marquette",
+      "classification": 5,
+      "district": 2,
+      "ovr_rating": 8.83,
+      "off_rating": 3.36,
+      "off_rank": 22,
+      "def_rating": 5.47,
+      "def_rank": 17
     },
     {
       "ovr_rank": 19,
@@ -346,17 +346,6 @@
     },
     {
       "ovr_rank": 32,
-      "school": "Northwest (Cedar Hill)",
-      "classification": 5,
-      "district": 1,
-      "ovr_rating": 4.47,
-      "off_rating": 1.61,
-      "off_rank": 35,
-      "def_rating": 2.86,
-      "def_rank": 32
-    },
-    {
-      "ovr_rank": 33,
       "school": "Carthage",
       "classification": 5,
       "district": 6,
@@ -365,6 +354,17 @@
       "off_rank": 31,
       "def_rating": 2.38,
       "def_rank": 35
+    },
+    {
+      "ovr_rank": 33,
+      "school": "Northwest (Cedar Hill)",
+      "classification": 5,
+      "district": 1,
+      "ovr_rating": 4.47,
+      "off_rating": 1.61,
+      "off_rank": 35,
+      "def_rating": 2.86,
+      "def_rank": 32
     },
     {
       "ovr_rank": 34,
@@ -401,17 +401,6 @@
     },
     {
       "ovr_rank": 37,
-      "school": "Fox",
-      "classification": 5,
-      "district": 1,
-      "ovr_rating": 3.47,
-      "off_rating": 0.63,
-      "off_rank": 43,
-      "def_rating": 2.84,
-      "def_rank": 33
-    },
-    {
-      "ovr_rank": 38,
       "school": "Parkway South",
       "classification": 5,
       "district": 2,
@@ -420,6 +409,17 @@
       "off_rank": 27,
       "def_rating": 0.83,
       "def_rank": 46
+    },
+    {
+      "ovr_rank": 38,
+      "school": "Fox",
+      "classification": 5,
+      "district": 1,
+      "ovr_rating": 3.47,
+      "off_rating": 0.63,
+      "off_rank": 43,
+      "def_rating": 2.84,
+      "def_rank": 33
     },
     {
       "ovr_rank": 39,
