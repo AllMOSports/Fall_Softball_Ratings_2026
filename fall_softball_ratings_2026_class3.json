@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 27, 2026 at 08:32 AM",
+  "last_updated": "October 28, 2026 at 08:32 AM",
   "league_average": 7.02,
   "classification": 3,
   "teams": [
@@ -225,17 +225,6 @@
     },
     {
       "ovr_rank": 21,
-      "school": "Hallsville with Christian Fellowship Sr.",
-      "classification": 3,
-      "district": 4,
-      "ovr_rating": 2.52,
-      "off_rating": 0.32,
-      "off_rank": 25,
-      "def_rating": 2.2,
-      "def_rank": 20
-    },
-    {
-      "ovr_rank": 22,
       "school": "Odessa",
       "classification": 3,
       "district": 7,
@@ -244,6 +233,17 @@
       "off_rank": 11,
       "def_rating": 0.74,
       "def_rank": 28
+    },
+    {
+      "ovr_rank": 22,
+      "school": "Hallsville with Christian Fellowship Sr.",
+      "classification": 3,
+      "district": 4,
+      "ovr_rating": 2.52,
+      "off_rating": 0.32,
+      "off_rank": 25,
+      "def_rating": 2.2,
+      "def_rank": 20
     },
     {
       "ovr_rank": 23,
@@ -445,17 +445,6 @@
     },
     {
       "ovr_rank": 41,
-      "school": "Monett",
-      "classification": 3,
-      "district": 6,
-      "ovr_rating": -5.11,
-      "off_rating": -2.86,
-      "off_rank": 45,
-      "def_rating": -2.25,
-      "def_rank": 41
-    },
-    {
-      "ovr_rank": 42,
       "school": "DeSoto",
       "classification": 3,
       "district": 1,
@@ -464,6 +453,17 @@
       "off_rank": 46,
       "def_rating": -1.9,
       "def_rank": 40
+    },
+    {
+      "ovr_rank": 42,
+      "school": "Monett",
+      "classification": 3,
+      "district": 6,
+      "ovr_rating": -5.11,
+      "off_rating": -2.86,
+      "off_rank": 45,
+      "def_rating": -2.25,
+      "def_rank": 41
     },
     {
       "ovr_rank": 43,
