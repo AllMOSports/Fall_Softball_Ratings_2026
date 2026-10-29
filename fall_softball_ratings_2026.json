@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 28, 2026 at 08:32 AM",
+  "last_updated": "October 29, 2026 at 08:31 AM",
   "league_average": 7.02,
   "teams": [
     {
@@ -356,17 +356,6 @@
     },
     {
       "ovr_rank": 33,
-      "school": "Marshfield",
-      "classification": 4,
-      "district": 6,
-      "ovr_rating": 8.83,
-      "off_rating": 2.65,
-      "off_rank": 57,
-      "def_rating": 6.18,
-      "def_rank": 19
-    },
-    {
-      "ovr_rank": 34,
       "school": "Marquette",
       "classification": 5,
       "district": 2,
@@ -375,6 +364,17 @@
       "off_rank": 43,
       "def_rating": 5.47,
       "def_rank": 32
+    },
+    {
+      "ovr_rank": 34,
+      "school": "Marshfield",
+      "classification": 4,
+      "district": 6,
+      "ovr_rating": 8.83,
+      "off_rating": 2.65,
+      "off_rank": 57,
+      "def_rating": 6.18,
+      "def_rank": 19
     },
     {
       "ovr_rank": 35,
@@ -510,17 +510,6 @@
     },
     {
       "ovr_rank": 47,
-      "school": "Mid-Buchanan",
-      "classification": 2,
-      "district": 7,
-      "ovr_rating": 7.51,
-      "off_rating": 3.3,
-      "off_rank": 45,
-      "def_rating": 4.2,
-      "def_rank": 61
-    },
-    {
-      "ovr_rank": 48,
       "school": "Blue Springs",
       "classification": 5,
       "district": 7,
@@ -529,6 +518,17 @@
       "off_rank": 83,
       "def_rating": 5.88,
       "def_rank": 23
+    },
+    {
+      "ovr_rank": 48,
+      "school": "Mid-Buchanan",
+      "classification": 2,
+      "district": 7,
+      "ovr_rating": 7.51,
+      "off_rating": 3.3,
+      "off_rank": 45,
+      "def_rating": 4.2,
+      "def_rank": 61
     },
     {
       "ovr_rank": 49,
@@ -906,17 +906,6 @@
     },
     {
       "ovr_rank": 83,
-      "school": "Northwest (Cedar Hill)",
-      "classification": 5,
-      "district": 1,
-      "ovr_rating": 4.47,
-      "off_rating": 1.61,
-      "off_rank": 86,
-      "def_rating": 2.86,
-      "def_rank": 86
-    },
-    {
-      "ovr_rank": 84,
       "school": "Carthage",
       "classification": 5,
       "district": 6,
@@ -925,6 +914,17 @@
       "off_rank": 70,
       "def_rating": 2.38,
       "def_rank": 99
+    },
+    {
+      "ovr_rank": 84,
+      "school": "Northwest (Cedar Hill)",
+      "classification": 5,
+      "district": 1,
+      "ovr_rating": 4.47,
+      "off_rating": 1.61,
+      "off_rank": 86,
+      "def_rating": 2.86,
+      "def_rank": 86
     },
     {
       "ovr_rank": 85,
@@ -1038,17 +1038,6 @@
     },
     {
       "ovr_rank": 95,
-      "school": "Parkway South",
-      "classification": 5,
-      "district": 2,
-      "ovr_rating": 3.47,
-      "off_rating": 2.63,
-      "off_rank": 58,
-      "def_rating": 0.83,
-      "def_rank": 139
-    },
-    {
-      "ovr_rank": 96,
       "school": "Fox",
       "classification": 5,
       "district": 1,
@@ -1057,6 +1046,17 @@
       "off_rank": 121,
       "def_rating": 2.84,
       "def_rank": 87
+    },
+    {
+      "ovr_rank": 96,
+      "school": "Parkway South",
+      "classification": 5,
+      "district": 2,
+      "ovr_rating": 3.47,
+      "off_rating": 2.63,
+      "off_rank": 58,
+      "def_rating": 0.83,
+      "def_rank": 139
     },
     {
       "ovr_rank": 97,
@@ -1489,17 +1489,6 @@
     },
     {
       "ovr_rank": 136,
-      "school": "Lafayette County",
-      "classification": 2,
-      "district": 8,
-      "ovr_rating": 0.99,
-      "off_rating": -1.35,
-      "off_rank": 189,
-      "def_rating": 2.34,
-      "def_rank": 101
-    },
-    {
-      "ovr_rank": 137,
       "school": "Pacific",
       "classification": 4,
       "district": 3,
@@ -1508,6 +1497,17 @@
       "off_rank": 130,
       "def_rating": 0.81,
       "def_rank": 141
+    },
+    {
+      "ovr_rank": 137,
+      "school": "Lafayette County",
+      "classification": 2,
+      "district": 8,
+      "ovr_rating": 0.99,
+      "off_rating": -1.35,
+      "off_rank": 189,
+      "def_rating": 2.34,
+      "def_rank": 101
     },
     {
       "ovr_rank": 138,
@@ -1676,17 +1676,6 @@
     },
     {
       "ovr_rank": 153,
-      "school": "Maysville",
-      "classification": 1,
-      "district": 7,
-      "ovr_rating": -0.18,
-      "off_rating": -0.77,
-      "off_rank": 172,
-      "def_rating": 0.58,
-      "def_rank": 149
-    },
-    {
-      "ovr_rank": 154,
       "school": "St. Charles West with St. Charles",
       "classification": 5,
       "district": 3,
@@ -1695,6 +1684,17 @@
       "off_rank": 149,
       "def_rating": 0.1,
       "def_rank": 158
+    },
+    {
+      "ovr_rank": 154,
+      "school": "Maysville",
+      "classification": 1,
+      "district": 7,
+      "ovr_rating": -0.18,
+      "off_rating": -0.77,
+      "off_rank": 172,
+      "def_rating": 0.58,
+      "def_rank": 149
     },
     {
       "ovr_rank": 155,
@@ -1709,17 +1709,6 @@
     },
     {
       "ovr_rank": 156,
-      "school": "Ft. Zumwalt East",
-      "classification": 4,
-      "district": 4,
-      "ovr_rating": -0.24,
-      "off_rating": -0.35,
-      "off_rank": 152,
-      "def_rating": 0.1,
-      "def_rank": 157
-    },
-    {
-      "ovr_rank": 157,
       "school": "Twin Rivers",
       "classification": 2,
       "district": 1,
@@ -1728,6 +1717,17 @@
       "off_rank": 135,
       "def_rating": -0.28,
       "def_rank": 168
+    },
+    {
+      "ovr_rank": 157,
+      "school": "Ft. Zumwalt East",
+      "classification": 4,
+      "district": 4,
+      "ovr_rating": -0.24,
+      "off_rating": -0.35,
+      "off_rank": 152,
+      "def_rating": 0.1,
+      "def_rank": 157
     },
     {
       "ovr_rank": 158,
@@ -2039,17 +2039,6 @@
     },
     {
       "ovr_rank": 186,
-      "school": "Slater with Malta Bend",
-      "classification": 2,
-      "district": 3,
-      "ovr_rating": -2.58,
-      "off_rating": -2.49,
-      "off_rank": 218,
-      "def_rating": -0.09,
-      "def_rank": 162
-    },
-    {
-      "ovr_rank": 187,
       "school": "Lebanon",
       "classification": 4,
       "district": 6,
@@ -2058,6 +2047,17 @@
       "off_rank": 127,
       "def_rating": -2.86,
       "def_rank": 205
+    },
+    {
+      "ovr_rank": 187,
+      "school": "Slater with Malta Bend",
+      "classification": 2,
+      "district": 3,
+      "ovr_rating": -2.58,
+      "off_rating": -2.49,
+      "off_rank": 218,
+      "def_rating": -0.09,
+      "def_rank": 162
     },
     {
       "ovr_rank": 188,
@@ -2094,17 +2094,6 @@
     },
     {
       "ovr_rank": 191,
-      "school": "Ritenour",
-      "classification": 5,
-      "district": 2,
-      "ovr_rating": -3.42,
-      "off_rating": -0.21,
-      "off_rank": 146,
-      "def_rating": -3.21,
-      "def_rank": 212
-    },
-    {
-      "ovr_rank": 192,
       "school": "Neelyville",
       "classification": 2,
       "district": 1,
@@ -2115,18 +2104,18 @@
       "def_rank": 178
     },
     {
-      "ovr_rank": 193,
-      "school": "St. Pius X (Kansas City)",
-      "classification": 3,
-      "district": 8,
-      "ovr_rating": -3.68,
-      "off_rating": -3.39,
-      "off_rank": 230,
-      "def_rating": -0.28,
-      "def_rank": 169
+      "ovr_rank": 192,
+      "school": "Ritenour",
+      "classification": 5,
+      "district": 2,
+      "ovr_rating": -3.42,
+      "off_rating": -0.21,
+      "off_rank": 146,
+      "def_rating": -3.21,
+      "def_rank": 212
     },
     {
-      "ovr_rank": 194,
+      "ovr_rank": 193,
       "school": "South Callaway",
       "classification": 2,
       "district": 4,
@@ -2135,6 +2124,17 @@
       "off_rank": 196,
       "def_rating": -2.12,
       "def_rank": 195
+    },
+    {
+      "ovr_rank": 194,
+      "school": "St. Pius X (Kansas City)",
+      "classification": 3,
+      "district": 8,
+      "ovr_rating": -3.68,
+      "off_rating": -3.39,
+      "off_rank": 230,
+      "def_rating": -0.28,
+      "def_rank": 169
     },
     {
       "ovr_rank": 195,
@@ -2248,14 +2248,14 @@
     },
     {
       "ovr_rank": 205,
-      "school": "DeSoto",
-      "classification": 3,
+      "school": "Naylor",
+      "classification": 1,
       "district": 1,
       "ovr_rating": -5.11,
-      "off_rating": -3.21,
-      "off_rank": 226,
-      "def_rating": -1.9,
-      "def_rank": 190
+      "off_rating": -4.41,
+      "off_rank": 249,
+      "def_rating": -0.71,
+      "def_rank": 175
     },
     {
       "ovr_rank": 206,
@@ -2270,14 +2270,14 @@
     },
     {
       "ovr_rank": 207,
-      "school": "Naylor",
-      "classification": 1,
+      "school": "DeSoto",
+      "classification": 3,
       "district": 1,
       "ovr_rating": -5.11,
-      "off_rating": -4.41,
-      "off_rank": 249,
-      "def_rating": -0.71,
-      "def_rank": 175
+      "off_rating": -3.21,
+      "off_rank": 226,
+      "def_rating": -1.9,
+      "def_rank": 190
     },
     {
       "ovr_rank": 208,

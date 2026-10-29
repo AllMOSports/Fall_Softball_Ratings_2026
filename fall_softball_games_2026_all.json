@@ -5764,6 +5764,17 @@
     "overtime": false
   },
   {
+    "date": "2026-08-31",
+    "team1": "Bishop LeBlond",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "East Buchanan",
+    "team2_classified": true,
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
     "date": "2026-09-01",
     "team1": "Stanberry",
     "team1_classified": true,
@@ -23877,6 +23888,17 @@
     "team2": "Windsor (Imperial)",
     "team2_classified": true,
     "score2": 13,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-09-22",
+    "team1": "East Buchanan",
+    "team1_classified": true,
+    "score1": null,
+    "team2": "Maryville",
+    "team2_classified": true,
+    "score2": null,
     "forfeit": false,
     "overtime": false
   },

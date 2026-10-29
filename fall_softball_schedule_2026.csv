@@ -229,6 +229,7 @@ Bevier,2026-10-12,Linn County,,9,16,L,9.49,11.88,-0.49,-4.12,-4.62,False,False
 Bevier,2026-10-14,Atlanta,,9,19,L,5.01,16.69,3.99,-2.31,1.67,False,False
 Bishop LeBlond,2026-08-29,Plattsburg,,27,7,W,18.33,9.05,8.67,2.05,10.72,False,False
 Bishop LeBlond,2026-08-29,Polo,,16,19,L,9.94,14.67,6.06,-4.33,1.74,False,False
+Bishop LeBlond,2026-08-31,East Buchanan,,,,,11.54,13.72,,,,False,False
 Bishop LeBlond,2026-09-01,East Buchanan,,12,13,L,11.54,13.72,0.46,0.72,1.18,False,False
 Bishop LeBlond,2026-09-02,North Platte,,3,16,L,6.15,18.08,-3.15,2.08,-1.07,False,False
 Bishop LeBlond,2026-09-03,Cameron,,0,15,L,2.15,18.16,-2.15,3.16,1.01,False,False
@@ -1316,6 +1317,7 @@ Doniphan,2026-10-19,Notre Dame (Cape Girardeau),,2,3,L,6.26,4.53,-4.26,1.53,-2.7
 East Buchanan,2026-08-29,Lone Jack,,5,13,L,2.94,12.75,2.06,-0.25,1.8,False,False
 East Buchanan,2026-08-29,North Platte,,3,11,L,4.61,14.36,-1.61,3.36,1.74,False,False
 East Buchanan,2026-08-29,Lexington,,8,13,L,8.15,13.05,-0.15,0.05,-0.1,False,False
+East Buchanan,2026-08-31,Bishop LeBlond,,,,,13.72,11.54,,,,False,False
 East Buchanan,2026-09-01,Bishop LeBlond,,13,12,W,13.72,11.54,-0.72,-0.46,-1.18,False,False
 East Buchanan,2026-09-03,DeKalb,,4,10,L,6.65,11.36,-2.65,1.36,-1.29,False,False
 East Buchanan,2026-09-07,St. Pius X (Kansas City),,4,14,L,3.59,10.32,0.41,-3.68,-3.26,False,False
@@ -1325,6 +1327,7 @@ East Buchanan,2026-09-12,DeKalb,,4,17,L,6.65,11.36,-2.65,-5.64,-8.29,False,False
 East Buchanan,2026-09-12,Maysville,,8,22,L,2.72,12.95,5.28,-9.05,-3.77,False,False
 East Buchanan,2026-09-17,Mid-Buchanan,,1,11,L,-0.9,17.02,1.9,6.02,7.92,False,False
 East Buchanan,2026-09-21,Polo,,8,13,L,8.4,10.96,-0.4,-2.04,-2.44,False,False
+East Buchanan,2026-09-22,Maryville,,,,,13.81,7.33,,,,False,False
 East Buchanan,2026-09-23,Maryville,,17,7,W,13.81,7.33,3.19,0.33,3.52,False,False
 East Buchanan,2026-09-24,West Platte,,1,12,L,0.68,14.43,0.32,2.43,2.76,False,False
 East Buchanan,2026-09-28,Northeast Nodaway,,4,3,W,6.93,9.15,-2.93,6.15,3.22,False,False
@@ -3983,6 +3986,7 @@ Maryville,2026-09-14,Jefferson (Conception) with South Nodaway,,1,14,L,2.36,17.0
 Maryville,2026-09-15,Savannah,,0,20,L,-4.24,22.51,4.24,2.51,6.75,False,False
 Maryville,2026-09-17,Benton,,0,21,L,-2.89,19.39,2.89,-1.61,1.28,False,False
 Maryville,2026-09-22,Chillicothe,,0,15,L,-8.01,21.82,8.01,6.82,14.83,False,False
+Maryville,2026-09-22,East Buchanan,,,,,7.33,13.81,,,,False,False
 Maryville,2026-09-23,East Buchanan,,7,17,L,7.33,13.81,-0.33,-3.19,-3.52,False,False
 Maryville,2026-09-24,Excelsior Springs,,5,18,L,-1.68,18.36,6.68,0.36,7.05,False,False
 Maryville,2026-09-28,Worth County,,0,17,L,-1.71,16.7,1.71,-0.3,1.41,False,False

@@ -1,4 +1,5 @@
 date,problem,team1,score1,team2,score2,both_classified
+2026-08-31,no score,Bishop LeBlond,,East Buchanan,,True
 2026-09-01,no score,Van Buren,,Twin Rivers,,False
 2026-09-03,no score,Chaffee,,Van Buren,,False
 2026-09-03,no score,Raytown,,William Chrisman,,True
@@ -16,6 +17,7 @@ date,problem,team1,score1,team2,score2,both_classified
 2026-09-21,no score,"Braymer with Breckenridge, Southwest (Livingston County)",,Cainsville,,False
 2026-09-21,no score,Van Buren,,Naylor,,False
 2026-09-21,no score,Normandy Collaborative,,University City,,False
+2026-09-22,no score,East Buchanan,,Maryville,,True
 2026-09-22,no score,Clayton,,Normandy Collaborative,,False
 2026-09-22,no score,East Carter,,Van Buren,,False
 2026-09-28,no score,Naylor,,Van Buren,,False

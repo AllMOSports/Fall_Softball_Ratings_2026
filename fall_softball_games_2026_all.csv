@@ -523,6 +523,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-08-31,Smith-Cotton,True,7,Warrensburg,True,9,False,False
 2026-08-31,Dadeville with Everton,True,7,Wheatland,True,2,False,False
 2026-08-31,Raytown,True,7,Winnetonka,True,5,False,False
+2026-08-31,Bishop LeBlond,True,,East Buchanan,True,,False,False
 2026-09-01,Stanberry,True,5,Albany,True,3,False,False
 2026-09-01,Capital City,True,2,Battle,True,9,False,False
 2026-09-01,South Harrison,True,11,Benton,True,15,False,False
@@ -2170,6 +2171,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-09-22,Webster Groves,True,1,Westminster Christian Academy,True,11,False,False
 2026-09-22,Hermitage,True,0,Wheatland,True,8,False,False
 2026-09-22,St. Francis Borgia,True,0,Windsor (Imperial),True,13,False,False
+2026-09-22,East Buchanan,True,,Maryville,True,,False,False
 2026-09-22,Clayton,True,,Normandy Collaborative,False,,False,False
 2026-09-22,East Carter,True,,Van Buren,False,,False,False
 2026-09-23,Helias Catholic,True,8,Battle,True,1,False,False
