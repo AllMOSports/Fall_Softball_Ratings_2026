@@ -3316,6 +3316,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-08,North Callaway,True,7,Bowling Green,True,5,False,False
 2026-10-08,Lone Jack,True,8,"Braymer with Breckenridge, Southwest (Livingston County)",True,0,False,False
 2026-10-08,Salisbury,True,9,Brookfield,True,2,False,False
+2026-10-08,Meadville,True,11,Bucklin with Macon County,True,17,False,False
 2026-10-08,Worth County,True,3,Cameron,True,2,False,False
 2026-10-08,Scotland County,True,2,Canton,True,3,False,False
 2026-10-08,West Plains,True,1,Carl Junction,True,12,False,False
@@ -3432,7 +3433,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-08,Grain Valley,True,16,William Chrisman,True,0,False,False
 2026-10-08,Festus,True,2,Windsor (Imperial),True,3,False,False
 2026-10-08,Wellsville-Middletown,True,2,Wright City,True,17,False,False
-2026-10-08,Meadville,True,,Bucklin with Macon County,True,,False,False
 2026-10-08,Worth County,True,,Maysville,True,,False,False
 2026-10-09,Novinger,True,4,Atlanta,True,14,False,False
 2026-10-09,Metro,True,5,Bayless,True,9,False,False
@@ -3948,13 +3948,17 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-24,Troy Buchanan,True,3,Francis Howell,True,1,False,False
 2026-10-24,Lee's Summit,True,10,Nixa,True,9,False,False
 2026-10-24,Liberty,True,5,Blue Springs South,True,3,False,False
-2026-10-29,St. Dominic,True,,Parkway West,True,,False,False
-2026-10-29,Platte County,True,,Helias Catholic,True,,False,False
-2026-10-29,Troy Buchanan,True,,Eureka,True,,False,False
-2026-10-29,Liberty,True,,Lee's Summit,True,,False,False
+2026-10-29,Platte County,True,4,St. Dominic,True,6,False,False
+2026-10-29,St. Dominic,True,0,Parkway West,True,3,False,False
+2026-10-29,Platte County,True,1,Helias Catholic,True,2,False,False
+2026-10-29,Liberty,True,6,Eureka,True,1,False,False
+2026-10-29,Troy Buchanan,True,2,Eureka,True,0,False,False
+2026-10-29,Liberty,True,6,Lee's Summit,True,7,False,False
 2026-10-30,Silex,True,,Wheatland,True,,False,False
 2026-10-30,Princeton,True,,Gallatin,True,,False,False
 2026-10-30,Fatima,True,,Chaffee,True,,False,False
 2026-10-30,Mid-Buchanan,True,,Marceline,True,,False,False
 2026-10-30,Centralia,True,,Notre Dame (Cape Girardeau),True,,False,False
 2026-10-30,Oak Grove,True,,Southern Boone,True,,False,False
+2026-10-30,Helias Catholic,True,,Parkway West,True,,False,False
+2026-10-30,Lee's Summit,True,,Troy Buchanan,True,,False,False

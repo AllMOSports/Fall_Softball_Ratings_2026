@@ -28009,6 +28009,15 @@
   },
   {
     "date": "2026-10-08",
+    "team1": "Meadville",
+    "score1": 11,
+    "team2": "Bucklin with Macon County",
+    "score2": 17,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-08",
     "team1": "Worth County",
     "score1": 3,
     "team2": "Cameron",
@@ -29030,15 +29039,6 @@
     "score1": 2,
     "team2": "Wright City",
     "score2": 17,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-08",
-    "team1": "Meadville",
-    "score1": null,
-    "team2": "Bucklin with Macon County",
-    "score2": null,
     "forfeit": false,
     "overtime": false
   },
@@ -33607,37 +33607,55 @@
   },
   {
     "date": "2026-10-29",
+    "team1": "Platte County",
+    "score1": 4,
+    "team2": "St. Dominic",
+    "score2": 6,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-29",
     "team1": "St. Dominic",
-    "score1": null,
+    "score1": 0,
     "team2": "Parkway West",
-    "score2": null,
+    "score2": 3,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-10-29",
     "team1": "Platte County",
-    "score1": null,
+    "score1": 1,
     "team2": "Helias Catholic",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-29",
-    "team1": "Troy Buchanan",
-    "score1": null,
-    "team2": "Eureka",
-    "score2": null,
+    "score2": 2,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-10-29",
     "team1": "Liberty",
-    "score1": null,
+    "score1": 6,
+    "team2": "Eureka",
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-29",
+    "team1": "Troy Buchanan",
+    "score1": 2,
+    "team2": "Eureka",
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-29",
+    "team1": "Liberty",
+    "score1": 6,
     "team2": "Lee's Summit",
-    "score2": null,
+    "score2": 7,
     "forfeit": false,
     "overtime": false
   },
@@ -33691,6 +33709,24 @@
     "team1": "Oak Grove",
     "score1": null,
     "team2": "Southern Boone",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-30",
+    "team1": "Helias Catholic",
+    "score1": null,
+    "team2": "Parkway West",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-30",
+    "team1": "Lee's Summit",
+    "score1": null,
+    "team2": "Troy Buchanan",
     "score2": null,
     "forfeit": false,
     "overtime": false

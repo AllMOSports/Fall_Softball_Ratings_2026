@@ -3111,6 +3111,7 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-08,North Callaway,7,Bowling Green,5,False,False
 2026-10-08,Lone Jack,8,"Braymer with Breckenridge, Southwest (Livingston County)",0,False,False
 2026-10-08,Salisbury,9,Brookfield,2,False,False
+2026-10-08,Meadville,11,Bucklin with Macon County,17,False,False
 2026-10-08,Worth County,3,Cameron,2,False,False
 2026-10-08,Scotland County,2,Canton,3,False,False
 2026-10-08,West Plains,1,Carl Junction,12,False,False
@@ -3225,7 +3226,6 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-08,Grain Valley,16,William Chrisman,0,False,False
 2026-10-08,Festus,2,Windsor (Imperial),3,False,False
 2026-10-08,Wellsville-Middletown,2,Wright City,17,False,False
-2026-10-08,Meadville,,Bucklin with Macon County,,False,False
 2026-10-08,Worth County,,Maysville,,False,False
 2026-10-09,Novinger,4,Atlanta,14,False,False
 2026-10-09,Metro,5,Bayless,9,False,False
@@ -3733,13 +3733,17 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-24,Troy Buchanan,3,Francis Howell,1,False,False
 2026-10-24,Lee's Summit,10,Nixa,9,False,False
 2026-10-24,Liberty,5,Blue Springs South,3,False,False
-2026-10-29,St. Dominic,,Parkway West,,False,False
-2026-10-29,Platte County,,Helias Catholic,,False,False
-2026-10-29,Troy Buchanan,,Eureka,,False,False
-2026-10-29,Liberty,,Lee's Summit,,False,False
+2026-10-29,Platte County,4,St. Dominic,6,False,False
+2026-10-29,St. Dominic,0,Parkway West,3,False,False
+2026-10-29,Platte County,1,Helias Catholic,2,False,False
+2026-10-29,Liberty,6,Eureka,1,False,False
+2026-10-29,Troy Buchanan,2,Eureka,0,False,False
+2026-10-29,Liberty,6,Lee's Summit,7,False,False
 2026-10-30,Silex,,Wheatland,,False,False
 2026-10-30,Princeton,,Gallatin,,False,False
 2026-10-30,Fatima,,Chaffee,,False,False
 2026-10-30,Mid-Buchanan,,Marceline,,False,False
 2026-10-30,Centralia,,Notre Dame (Cape Girardeau),,False,False
 2026-10-30,Oak Grove,,Southern Boone,,False,False
+2026-10-30,Helias Catholic,,Parkway West,,False,False
+2026-10-30,Lee's Summit,,Troy Buchanan,,False,False
