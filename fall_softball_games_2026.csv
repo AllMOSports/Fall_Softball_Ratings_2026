@@ -3739,11 +3739,17 @@ date,team1,score1,team2,score2,forfeit,overtime
 2026-10-29,Liberty,6,Eureka,1,False,False
 2026-10-29,Troy Buchanan,2,Eureka,0,False,False
 2026-10-29,Liberty,6,Lee's Summit,7,False,False
-2026-10-30,Silex,,Wheatland,,False,False
-2026-10-30,Princeton,,Gallatin,,False,False
-2026-10-30,Fatima,,Chaffee,,False,False
-2026-10-30,Mid-Buchanan,,Marceline,,False,False
-2026-10-30,Centralia,,Notre Dame (Cape Girardeau),,False,False
-2026-10-30,Oak Grove,,Southern Boone,,False,False
-2026-10-30,Helias Catholic,,Parkway West,,False,False
-2026-10-30,Lee's Summit,,Troy Buchanan,,False,False
+2026-10-30,Gallatin,,Wheatland,,False,False
+2026-10-30,Silex,11,Wheatland,0,False,False
+2026-10-30,Princeton,6,Gallatin,0,False,False
+2026-10-30,Marceline,1,Fatima,3,False,False
+2026-10-30,Fatima,2,Chaffee,7,False,False
+2026-10-30,Mid-Buchanan,7,Marceline,0,False,False
+2026-10-30,Southern Boone,5,Notre Dame (Cape Girardeau),7,False,False
+2026-10-30,Centralia,5,Notre Dame (Cape Girardeau),1,False,False
+2026-10-30,Oak Grove,2,Southern Boone,1,False,False
+2026-10-30,Helias Catholic,12,Parkway West,0,False,False
+2026-10-30,Lee's Summit,4,Troy Buchanan,0,False,False
+2026-10-31,Princeton,,Silex,,False,False
+2026-10-31,Mid-Buchanan,,Chaffee,,False,False
+2026-10-31,Oak Grove,,Centralia,,False,False

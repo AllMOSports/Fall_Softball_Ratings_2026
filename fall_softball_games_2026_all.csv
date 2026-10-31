@@ -3275,6 +3275,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-07,Louisiana,True,5,Mark Twain,True,15,False,False
 2026-10-07,Mid-Buchanan,True,15,Maryville,True,0,False,False
 2026-10-07,La Plata,True,13,Meadville,True,1,False,False
+2026-10-07,McCluer North,True,18,Normandy Collaborative,False,2,False,False
 2026-10-07,West Platte,True,13,North Platte,True,6,False,False
 2026-10-07,DeKalb,True,9,Northeast Nodaway,True,6,False,False
 2026-10-07,Clinton,True,0,Oak Grove,True,15,False,False
@@ -3306,7 +3307,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-07,Wheatland,True,12,Weaubleau,True,1,False,False
 2026-10-07,Troy Buchanan,True,7,Westminster Christian Academy,True,3,False,False
 2026-10-07,North Kansas City,True,0,Winnetonka,True,15,False,False
-2026-10-07,McCluer North,True,,Normandy Collaborative,False,,False,False
 2026-10-08,Mehlville,True,6,Affton,True,9,False,False
 2026-10-08,Milan,True,1,Albany,True,16,False,False
 2026-10-08,Kirksville,True,9,Battle,True,4,False,False
@@ -3954,11 +3954,17 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-29,Liberty,True,6,Eureka,True,1,False,False
 2026-10-29,Troy Buchanan,True,2,Eureka,True,0,False,False
 2026-10-29,Liberty,True,6,Lee's Summit,True,7,False,False
-2026-10-30,Silex,True,,Wheatland,True,,False,False
-2026-10-30,Princeton,True,,Gallatin,True,,False,False
-2026-10-30,Fatima,True,,Chaffee,True,,False,False
-2026-10-30,Mid-Buchanan,True,,Marceline,True,,False,False
-2026-10-30,Centralia,True,,Notre Dame (Cape Girardeau),True,,False,False
-2026-10-30,Oak Grove,True,,Southern Boone,True,,False,False
-2026-10-30,Helias Catholic,True,,Parkway West,True,,False,False
-2026-10-30,Lee's Summit,True,,Troy Buchanan,True,,False,False
+2026-10-30,Gallatin,True,,Wheatland,True,,False,False
+2026-10-30,Silex,True,11,Wheatland,True,0,False,False
+2026-10-30,Princeton,True,6,Gallatin,True,0,False,False
+2026-10-30,Marceline,True,1,Fatima,True,3,False,False
+2026-10-30,Fatima,True,2,Chaffee,True,7,False,False
+2026-10-30,Mid-Buchanan,True,7,Marceline,True,0,False,False
+2026-10-30,Southern Boone,True,5,Notre Dame (Cape Girardeau),True,7,False,False
+2026-10-30,Centralia,True,5,Notre Dame (Cape Girardeau),True,1,False,False
+2026-10-30,Oak Grove,True,2,Southern Boone,True,1,False,False
+2026-10-30,Helias Catholic,True,12,Parkway West,True,0,False,False
+2026-10-30,Lee's Summit,True,4,Troy Buchanan,True,0,False,False
+2026-10-31,Princeton,True,,Silex,True,,False,False
+2026-10-31,Mid-Buchanan,True,,Chaffee,True,,False,False
+2026-10-31,Oak Grove,True,,Centralia,True,,False,False

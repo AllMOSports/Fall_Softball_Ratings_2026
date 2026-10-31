@@ -33661,7 +33661,7 @@
   },
   {
     "date": "2026-10-30",
-    "team1": "Silex",
+    "team1": "Gallatin",
     "score1": null,
     "team2": "Wheatland",
     "score2": null,
@@ -33670,16 +33670,106 @@
   },
   {
     "date": "2026-10-30",
+    "team1": "Silex",
+    "score1": 11,
+    "team2": "Wheatland",
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-30",
     "team1": "Princeton",
-    "score1": null,
+    "score1": 6,
     "team2": "Gallatin",
-    "score2": null,
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-30",
+    "team1": "Marceline",
+    "score1": 1,
+    "team2": "Fatima",
+    "score2": 3,
     "forfeit": false,
     "overtime": false
   },
   {
     "date": "2026-10-30",
     "team1": "Fatima",
+    "score1": 2,
+    "team2": "Chaffee",
+    "score2": 7,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-30",
+    "team1": "Mid-Buchanan",
+    "score1": 7,
+    "team2": "Marceline",
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-30",
+    "team1": "Southern Boone",
+    "score1": 5,
+    "team2": "Notre Dame (Cape Girardeau)",
+    "score2": 7,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-30",
+    "team1": "Centralia",
+    "score1": 5,
+    "team2": "Notre Dame (Cape Girardeau)",
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-30",
+    "team1": "Oak Grove",
+    "score1": 2,
+    "team2": "Southern Boone",
+    "score2": 1,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-30",
+    "team1": "Helias Catholic",
+    "score1": 12,
+    "team2": "Parkway West",
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-30",
+    "team1": "Lee's Summit",
+    "score1": 4,
+    "team2": "Troy Buchanan",
+    "score2": 0,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-31",
+    "team1": "Princeton",
+    "score1": null,
+    "team2": "Silex",
+    "score2": null,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-31",
+    "team1": "Mid-Buchanan",
     "score1": null,
     "team2": "Chaffee",
     "score2": null,
@@ -33687,46 +33777,10 @@
     "overtime": false
   },
   {
-    "date": "2026-10-30",
-    "team1": "Mid-Buchanan",
-    "score1": null,
-    "team2": "Marceline",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-30",
-    "team1": "Centralia",
-    "score1": null,
-    "team2": "Notre Dame (Cape Girardeau)",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "team1": "Oak Grove",
     "score1": null,
-    "team2": "Southern Boone",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-30",
-    "team1": "Helias Catholic",
-    "score1": null,
-    "team2": "Parkway West",
-    "score2": null,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-30",
-    "team1": "Lee's Summit",
-    "score1": null,
-    "team2": "Troy Buchanan",
+    "team2": "Centralia",
     "score2": null,
     "forfeit": false,
     "overtime": false

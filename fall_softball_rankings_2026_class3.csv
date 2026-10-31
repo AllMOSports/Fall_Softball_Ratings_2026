@@ -1,60 +1,60 @@
 School,OFF Rating,DEF Rating,OVR Rating,OFF Rank,DEF Rank,OVR Rank
-Chillicothe,4.31,8.59,12.9,3,1,1
-Centralia,3.88,7.5,11.39,4,2,2
-Oak Grove,2.86,7.03,9.9,8,3,3
-Savannah,4.98,4.84,9.82,1,8,4
-Southern Boone,4.41,5.16,9.57,2,6,5
-Pleasant Hill,3.35,6.07,9.43,6,5,6
-Winfield,1.96,6.15,8.11,10,4,7
-Mexico,3.45,3.83,7.28,5,9,8
-Doniphan,2.73,3.71,6.43,9,10,9
-Blair Oaks,1.72,3.53,5.24,12,13,10
-Kirksville,1.38,3.57,4.95,14,11,11
-Bolivar,2.97,1.97,4.94,7,21,12
-Eldon,-0.12,5.0,4.88,29,7,13
-Notre Dame (Cape Girardeau),1.22,3.48,4.7,15,15,14
-Osage,1.04,2.68,3.72,18,16,15
-Cameron,0.71,2.68,3.4,22,17,16
-North County,0.65,2.48,3.14,23,18,17
-Excelsior Springs,0.83,2.3,3.13,20,19,18
-Sullivan,1.12,1.87,2.99,16,22,19
-Richmond,-0.62,3.52,2.9,33,14,20
-Hallsville with Christian Fellowship Sr.,0.31,2.2,2.51,25,20,21
-Odessa,1.77,0.73,2.5,11,29,22
-Moberly,0.83,1.66,2.49,21,23,23
-Cassville,-1.29,3.56,2.27,37,12,24
-Holden,1.09,0.76,1.85,17,27,25
-Wright City,0.93,0.86,1.79,19,26,26
-Macon,0.14,1.08,1.23,26,24,27
-Saxony Lutheran with St. Vincent,-0.45,1.03,0.58,31,25,28
-Boonville,-0.68,0.74,0.05,34,28,29
-Bowling Green,1.53,-1.54,-0.01,13,36,30
-Aurora,-0.37,0.22,-0.15,30,32,31
-Summit Christian Academy,-0.77,0.37,-0.4,35,30,32
-Fredericktown,-0.57,-0.12,-0.69,32,33,33
-Owensville,0.49,-1.76,-1.27,24,38,34
-St. Michael the Archangel,-0.0,-1.82,-1.82,27,39,35
-California,-1.68,-0.32,-1.99,40,35,36
-Seneca,-2.38,0.36,-2.01,43,31,37
-St. Pius X (Kansas City),-3.4,-0.29,-3.69,48,34,38
-Lutheran South,-2.39,-1.71,-4.1,44,37,39
-Orchard Farm,-1.67,-2.47,-4.15,39,42,40
-Monett,-2.86,-2.25,-5.11,45,41,41
-DeSoto,-3.22,-1.91,-5.13,46,40,42
-Perryville,-2.22,-2.91,-5.14,42,43,43
-Harrisonville,-2.22,-3.55,-5.77,41,44,44
-Lutheran St. Charles with Veritas Christian Academy,-1.33,-5.52,-6.85,38,46,45
-Hermann with New Haven,-0.09,-7.43,-7.52,28,51,46
-Fulton,-1.2,-6.63,-7.82,36,50,47
-Clinton,-3.22,-5.9,-9.13,47,48,48
-St. James,-5.2,-5.37,-10.57,53,45,49
-Knob Noster,-4.96,-5.7,-10.66,51,47,50
-St. Clair,-5.12,-6.27,-11.39,52,49,51
-Notre Dame de Sion,-4.68,-8.07,-12.75,50,52,52
-Notre Dame (St. Louis),-4.22,-10.58,-14.81,49,55,53
-Bayless,-7.07,-9.69,-16.76,57,53,54
-Maryville,-6.39,-10.51,-16.91,55,54,55
-Nevada,-6.72,-11.5,-18.23,56,56,56
-Herculaneum with Crystal City,-5.7,-12.87,-18.57,54,57,57
-Cuba,-7.39,-15.1,-22.48,58,58,58
-STEAM Academy,-12.24,-18.99,-31.23,59,59,59
+Chillicothe,4.33,8.57,12.9,2,1,1
+Centralia,3.82,7.51,11.32,4,2,2
+Oak Grove,2.75,7.19,9.94,9,3,3
+Savannah,5.01,4.83,9.84,1,8,4
+Pleasant Hill,3.39,6.06,9.45,6,5,5
+Southern Boone,4.17,5.13,9.3,3,6,6
+Winfield,1.92,6.09,8.01,10,4,7
+Mexico,3.43,3.81,7.24,5,9,8
+Doniphan,2.78,3.73,6.51,8,10,9
+Blair Oaks,1.73,3.5,5.23,12,15,10
+Notre Dame (Cape Girardeau),1.36,3.64,5.0,14,11,11
+Bolivar,2.99,1.96,4.95,7,21,12
+Kirksville,1.35,3.53,4.88,15,13,13
+Eldon,-0.12,4.97,4.85,29,7,14
+Osage,1.03,2.65,3.68,18,16,15
+Cameron,0.7,2.63,3.34,22,17,16
+North County,0.67,2.5,3.17,23,18,17
+Excelsior Springs,0.83,2.31,3.14,20,19,18
+Sullivan,1.13,1.85,2.98,16,22,19
+Richmond,-0.63,3.51,2.89,33,14,20
+Odessa,1.8,0.75,2.55,11,28,21
+Hallsville with Christian Fellowship Sr.,0.3,2.16,2.46,25,20,22
+Moberly,0.78,1.6,2.38,21,23,23
+Cassville,-1.27,3.57,2.29,37,12,24
+Holden,1.12,0.75,1.88,17,27,25
+Wright City,0.91,0.84,1.75,19,26,26
+Macon,0.11,1.01,1.12,26,25,27
+Saxony Lutheran with St. Vincent,-0.42,1.04,0.62,31,24,28
+Boonville,-0.69,0.72,0.04,34,29,29
+Bowling Green,1.5,-1.58,-0.08,13,36,30
+Aurora,-0.36,0.22,-0.13,30,32,31
+Summit Christian Academy,-0.76,0.38,-0.38,35,30,32
+Fredericktown,-0.54,-0.1,-0.64,32,33,33
+Owensville,0.48,-1.79,-1.31,24,38,34
+St. Michael the Archangel,0.01,-1.82,-1.81,27,39,35
+Seneca,-2.36,0.37,-1.99,43,31,36
+California,-1.69,-0.34,-2.03,39,35,37
+St. Pius X (Kansas City),-3.39,-0.29,-3.68,48,34,38
+Lutheran South,-2.4,-1.73,-4.13,44,37,39
+Orchard Farm,-1.7,-2.5,-4.2,40,42,40
+Monett,-2.84,-2.25,-5.09,45,41,41
+Perryville,-2.21,-2.91,-5.12,41,43,42
+DeSoto,-3.21,-1.91,-5.13,47,40,43
+Harrisonville,-2.21,-3.55,-5.76,42,44,44
+Lutheran St. Charles with Veritas Christian Academy,-1.35,-5.55,-6.9,38,46,45
+Hermann with New Haven,-0.11,-7.45,-7.56,28,51,46
+Fulton,-1.22,-6.66,-7.87,36,50,47
+Clinton,-3.21,-5.91,-9.13,46,48,48
+St. James,-5.21,-5.38,-10.59,53,45,49
+Knob Noster,-4.96,-5.71,-10.67,51,47,50
+St. Clair,-5.13,-6.29,-11.41,52,49,51
+Notre Dame de Sion,-4.68,-8.07,-12.74,50,52,52
+Notre Dame (St. Louis),-4.23,-10.6,-14.84,49,55,53
+Bayless,-7.08,-9.71,-16.79,57,53,54
+Maryville,-6.41,-10.54,-16.95,55,54,55
+Nevada,-6.71,-11.5,-18.22,56,56,56
+Herculaneum with Crystal City,-5.7,-12.89,-18.59,54,57,57
+Cuba,-7.39,-15.11,-22.5,58,58,58
+STEAM Academy,-12.25,-19.01,-31.26,59,59,59

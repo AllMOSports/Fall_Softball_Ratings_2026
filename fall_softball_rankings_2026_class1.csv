@@ -1,78 +1,78 @@
 School,OFF Rating,DEF Rating,OVR Rating,OFF Rank,DEF Rank,OVR Rank
-Silex,1.97,5.9,7.86,4,1,1
-St. Elizabeth,2.58,5.15,7.73,2,2,2
-Princeton,2.6,3.74,6.34,1,5,3
-Eugene,2.12,3.0,5.12,3,6,4
-North Shelby,-0.07,4.98,4.91,8,3,5
-King City with Union Star,-0.36,4.24,3.88,12,4,6
-Stanberry,0.98,2.11,3.09,6,9,7
-Russellville,1.56,0.63,2.19,5,18,8
-Albany,-0.63,2.7,2.07,18,7,9
-Worth County,-0.83,2.33,1.5,22,8,10
-Glasgow,0.64,0.83,1.47,7,16,11
-Vienna,-0.15,1.39,1.24,10,13,12
-Halfway,-0.33,1.47,1.14,11,12,13
-North Andrew,-1.24,1.75,0.51,27,10,14
-Paris,-1.19,1.51,0.32,25,11,15
-Gallatin,-0.62,0.52,-0.1,16,20,16
-Maysville,-0.77,0.57,-0.2,21,19,17
-Dadeville with Everton,-1.36,1.15,-0.21,28,15,18
-Clopton,-1.21,0.71,-0.51,26,17,19
-Community,-1.81,1.29,-0.53,31,14,20
-Schuyler County,-0.87,0.1,-0.77,23,21,21
-Canton,-1.36,0.08,-1.28,29,22,22
-"Pattonsburg with North Daviess, Winston",-0.6,-1.44,-2.05,15,25,23
-Jefferson (Conception) with South Nodaway,-0.46,-1.74,-2.2,13,27,24
-Wheatland,-2.25,-0.63,-2.88,33,23,25
-Northeast (Cairo),-0.71,-2.61,-3.31,19,30,26
-Jamestown,-0.77,-2.99,-3.75,20,33,27
-Crocker,-0.48,-3.42,-3.9,14,38,28
-Van-Far,-0.62,-3.64,-4.26,17,39,29
-Scotland County,-2.39,-1.92,-4.31,37,28,30
-Gilman City with Tri-County,-1.56,-3.14,-4.7,30,35,31
-Naylor,-4.41,-0.71,-5.13,50,24,32
-Stoutland,-2.34,-2.85,-5.19,35,31,33
-Norwood,-2.27,-3.24,-5.51,34,36,34
-North Harrison,-0.11,-5.49,-5.6,9,46,35
-DeKalb,-2.37,-3.36,-5.73,36,37,36
-Knox County,-2.72,-3.04,-5.76,38,34,37
-"Brunswick with Keytesville, Northwestern (Mendon)",-4.25,-1.53,-5.78,49,26,38
-New Franklin,-3.11,-2.98,-6.09,41,32,39
-Sturgeon,-4.06,-2.05,-6.11,45,29,40
-Westran,-1.09,-5.45,-6.54,24,45,41
-Polo,-2.75,-5.11,-7.86,39,43,42
-Northeast Nodaway,-4.57,-3.64,-8.21,51,40,43
-Tuscumbia,-3.98,-4.36,-8.34,44,42,44
+Silex,1.98,5.84,7.83,4,1,1
+St. Elizabeth,2.59,5.14,7.73,1,2,2
+Princeton,2.46,3.8,6.26,2,5,3
+Eugene,2.11,2.98,5.09,3,6,4
+North Shelby,-0.13,4.9,4.78,8,3,5
+King City with Union Star,-0.35,4.2,3.85,12,4,6
+Stanberry,0.95,2.08,3.03,6,9,7
+Russellville,1.54,0.62,2.16,5,18,8
+Albany,-0.64,2.66,2.02,16,7,9
+Worth County,-0.85,2.29,1.44,22,8,10
+Glasgow,0.61,0.79,1.4,7,16,11
+Vienna,-0.15,1.38,1.22,10,13,12
+Halfway,-0.33,1.47,1.14,11,11,13
+North Andrew,-1.26,1.72,0.46,27,10,14
+Paris,-1.23,1.46,0.23,25,12,15
+Gallatin,-0.76,0.58,-0.18,19,19,16
+Dadeville with Everton,-1.35,1.16,-0.2,28,15,17
+Maysville,-0.8,0.49,-0.31,21,20,18
+Clopton,-1.25,0.67,-0.58,26,17,19
+Community,-1.84,1.24,-0.6,31,14,20
+Schuyler County,-0.92,0.04,-0.88,23,21,21
+Canton,-1.42,0.03,-1.38,29,22,22
+"Pattonsburg with North Daviess, Winston",-0.63,-1.48,-2.11,15,25,23
+Jefferson (Conception) with South Nodaway,-0.48,-1.8,-2.27,13,27,24
+Wheatland,-2.22,-0.66,-2.89,33,23,25
+Northeast (Cairo),-0.74,-2.65,-3.39,18,30,26
+Jamestown,-0.78,-3.01,-3.79,20,32,27
+Crocker,-0.48,-3.43,-3.91,14,38,28
+Van-Far,-0.66,-3.67,-4.33,17,40,29
+Scotland County,-2.45,-1.97,-4.42,37,28,30
+Gilman City with Tri-County,-1.58,-3.19,-4.77,30,35,31
+Naylor,-4.4,-0.71,-5.1,50,24,32
+Stoutland,-2.34,-2.86,-5.2,35,31,33
+Norwood,-2.26,-3.23,-5.5,34,36,34
+North Harrison,-0.14,-5.52,-5.66,9,46,35
+DeKalb,-2.4,-3.38,-5.79,36,37,36
+"Brunswick with Keytesville, Northwestern (Mendon)",-4.28,-1.58,-5.85,49,26,37
+Knox County,-2.77,-3.11,-5.88,38,34,38
+New Franklin,-3.13,-3.01,-6.14,41,33,39
+Sturgeon,-4.1,-2.09,-6.19,45,29,40
+Westran,-1.13,-5.5,-6.62,24,45,41
+Polo,-2.77,-5.15,-7.92,39,43,42
+Northeast Nodaway,-4.59,-3.67,-8.26,51,39,43
+Tuscumbia,-3.99,-4.37,-8.36,44,42,44
 Weaubleau,-4.16,-4.27,-8.42,47,41,45
-La Plata,-3.43,-6.08,-9.5,42,50,46
-Pilot Grove,-3.74,-5.86,-9.59,43,48,47
-Stewartsville with Osborn,-4.12,-6.48,-10.6,46,52,48
+La Plata,-3.47,-6.13,-9.6,42,50,46
+Pilot Grove,-3.76,-5.89,-9.65,43,48,47
+Stewartsville with Osborn,-4.14,-6.5,-10.65,46,52,48
 Macks Creek,-5.43,-5.58,-11.01,56,47,49
-Madison,-4.22,-6.89,-11.11,48,54,50
-"Mercer with Cainsville, Ridgeway",-5.1,-6.03,-11.13,54,49,51
-Higbee,-6.1,-5.38,-11.48,61,44,52
-Atlanta,-2.84,-9.14,-11.98,40,61,53
-Hermitage,-6.07,-6.25,-12.33,59,51,54
-Bishop LeBlond,-2.19,-10.43,-12.61,32,64,55
-Richland,-5.03,-7.78,-12.81,53,57,56
-"Braymer with Breckenridge, Southwest (Livingston County)",-6.32,-6.67,-12.99,63,53,57
-Newburg,-6.78,-7.04,-13.82,65,55,58
+Madison,-4.25,-6.93,-11.18,48,54,50
+"Mercer with Cainsville, Ridgeway",-5.13,-6.07,-11.2,54,49,51
+Higbee,-6.14,-5.42,-11.56,61,44,52
+Atlanta,-2.88,-9.19,-12.07,40,62,53
+Hermitage,-6.07,-6.26,-12.33,59,51,54
+Bishop LeBlond,-2.19,-10.44,-12.64,32,64,55
+Richland,-5.03,-7.79,-12.82,53,57,56
+"Braymer with Breckenridge, Southwest (Livingston County)",-6.35,-6.7,-13.05,63,53,57
+Newburg,-6.78,-7.05,-13.83,65,55,58
 Humansville,-5.89,-8.41,-14.3,58,58,59
-Green City,-5.37,-9.71,-15.08,55,63,60
-Montrose with Appleton City,-6.16,-9.16,-15.32,62,62,61
-Novinger,-8.01,-7.53,-15.54,71,56,62
-Milan,-7.25,-8.61,-15.86,67,59,63
-Brashear,-7.02,-8.9,-15.92,66,60,64
-Walnut Grove,-4.83,-11.93,-16.76,52,66,65
-Wellsville-Middletown,-5.78,-12.67,-18.46,57,69,66
-"Tina-Avalon with Bosworth, Hale",-8.54,-12.1,-20.64,72,67,67
-Grundy County with Newtown-Harris,-8.73,-11.92,-20.66,73,65,68
-Linn County,-7.65,-13.7,-21.34,68,71,69
-Marion County,-9.49,-12.81,-22.3,74,70,70
-Climax Springs,-8.0,-14.86,-22.87,70,72,71
-Norborne with Hardin-Central,-6.4,-16.58,-22.97,64,75,72
-Bevier,-11.01,-12.59,-23.61,76,68,73
-Bucklin with Macon County,-7.66,-15.96,-23.62,69,74,74
-Meadville,-6.09,-17.73,-23.81,60,77,75
-Laquey,-10.96,-15.49,-26.46,75,73,76
-Fair Play,-13.75,-16.61,-30.36,77,76,77
+Green City,-5.41,-9.76,-15.17,55,63,60
+Montrose with Appleton City,-6.15,-9.17,-15.32,62,61,61
+Novinger,-8.05,-7.59,-15.64,71,56,62
+Milan,-7.29,-8.67,-15.96,67,59,63
+Brashear,-7.06,-8.95,-16.01,66,60,64
+Walnut Grove,-4.82,-11.94,-16.76,52,65,65
+Wellsville-Middletown,-5.82,-12.71,-18.53,57,69,66
+"Tina-Avalon with Bosworth, Hale",-8.57,-12.14,-20.71,72,67,67
+Grundy County with Newtown-Harris,-8.77,-11.97,-20.73,73,66,68
+Linn County,-7.68,-13.75,-21.43,68,71,69
+Marion County,-9.53,-12.86,-22.39,74,70,70
+Climax Springs,-8.0,-14.87,-22.87,70,72,71
+Norborne with Hardin-Central,-6.42,-16.61,-23.04,64,75,72
+Bevier,-11.05,-12.64,-23.69,76,68,73
+Bucklin with Macon County,-7.7,-16.0,-23.7,69,74,74
+Meadville,-6.12,-17.77,-23.89,60,77,75
+Laquey,-10.96,-15.5,-26.46,75,73,76
+Fair Play,-13.75,-16.62,-30.36,77,76,77
