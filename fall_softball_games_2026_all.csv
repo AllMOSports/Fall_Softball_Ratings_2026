@@ -3954,7 +3954,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-29,Liberty,True,6,Eureka,True,1,False,False
 2026-10-29,Troy Buchanan,True,2,Eureka,True,0,False,False
 2026-10-29,Liberty,True,6,Lee's Summit,True,7,False,False
-2026-10-30,Gallatin,True,,Wheatland,True,,False,False
+2026-10-30,Gallatin,True,5,Wheatland,True,6,False,False
 2026-10-30,Silex,True,11,Wheatland,True,0,False,False
 2026-10-30,Princeton,True,6,Gallatin,True,0,False,False
 2026-10-30,Marceline,True,1,Fatima,True,3,False,False
@@ -3965,6 +3965,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-30,Oak Grove,True,2,Southern Boone,True,1,False,False
 2026-10-30,Helias Catholic,True,12,Parkway West,True,0,False,False
 2026-10-30,Lee's Summit,True,4,Troy Buchanan,True,0,False,False
-2026-10-31,Princeton,True,,Silex,True,,False,False
-2026-10-31,Mid-Buchanan,True,,Chaffee,True,,False,False
-2026-10-31,Oak Grove,True,,Centralia,True,,False,False
+2026-10-31,Princeton,True,0,Silex,True,10,False,False
+2026-10-31,Mid-Buchanan,True,10,Chaffee,True,6,False,False
+2026-10-31,Oak Grove,True,0,Centralia,True,4,False,False
