@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 01, 2026 at 09:31 AM",
+  "last_updated": "November 02, 2026 at 09:32 AM",
   "league_average": 7.0,
   "teams": [
     {
@@ -323,17 +323,6 @@
     },
     {
       "ovr_rank": 30,
-      "school": "Westminster Christian Academy",
-      "classification": 4,
-      "district": 2,
-      "ovr_rating": 9.21,
-      "off_rating": 3.6,
-      "off_rank": 38,
-      "def_rating": 5.61,
-      "def_rank": 29
-    },
-    {
-      "ovr_rank": 31,
       "school": "Parkway West",
       "classification": 4,
       "district": 2,
@@ -342,6 +331,17 @@
       "off_rank": 39,
       "def_rating": 5.64,
       "def_rank": 26
+    },
+    {
+      "ovr_rank": 31,
+      "school": "Westminster Christian Academy",
+      "classification": 4,
+      "district": 2,
+      "ovr_rating": 9.21,
+      "off_rating": 3.6,
+      "off_rank": 38,
+      "def_rating": 5.61,
+      "def_rank": 29
     },
     {
       "ovr_rank": 32,
@@ -378,17 +378,6 @@
     },
     {
       "ovr_rank": 35,
-      "school": "Staley",
-      "classification": 5,
-      "district": 8,
-      "ovr_rating": 8.73,
-      "off_rating": 3.32,
-      "off_rank": 45,
-      "def_rating": 5.42,
-      "def_rank": 33
-    },
-    {
-      "ovr_rank": 36,
       "school": "Marquette",
       "classification": 5,
       "district": 2,
@@ -397,6 +386,17 @@
       "off_rank": 44,
       "def_rating": 5.4,
       "def_rank": 34
+    },
+    {
+      "ovr_rank": 36,
+      "school": "Staley",
+      "classification": 5,
+      "district": 8,
+      "ovr_rating": 8.73,
+      "off_rating": 3.32,
+      "off_rank": 45,
+      "def_rating": 5.42,
+      "def_rank": 33
     },
     {
       "ovr_rank": 37,
@@ -499,17 +499,6 @@
     },
     {
       "ovr_rank": 46,
-      "school": "Ozark",
-      "classification": 5,
-      "district": 5,
-      "ovr_rating": 7.77,
-      "off_rating": 2.88,
-      "off_rank": 51,
-      "def_rating": 4.89,
-      "def_rank": 46
-    },
-    {
-      "ovr_rank": 47,
       "school": "St. Elizabeth",
       "classification": 1,
       "district": 3,
@@ -518,6 +507,17 @@
       "off_rank": 59,
       "def_rating": 5.16,
       "def_rank": 40
+    },
+    {
+      "ovr_rank": 47,
+      "school": "Ozark",
+      "classification": 5,
+      "district": 5,
+      "ovr_rating": 7.77,
+      "off_rating": 2.88,
+      "off_rank": 51,
+      "def_rating": 4.89,
+      "def_rank": 46
     },
     {
       "ovr_rank": 48,
@@ -807,17 +807,6 @@
     },
     {
       "ovr_rank": 74,
-      "school": "Eugene",
-      "classification": 1,
-      "district": 3,
-      "ovr_rating": 5.12,
-      "off_rating": 2.12,
-      "off_rank": 71,
-      "def_rating": 3.0,
-      "def_rank": 83
-    },
-    {
-      "ovr_rank": 75,
       "school": "Salisbury",
       "classification": 2,
       "district": 3,
@@ -826,6 +815,17 @@
       "off_rank": 63,
       "def_rating": 2.78,
       "def_rank": 87
+    },
+    {
+      "ovr_rank": 75,
+      "school": "Eugene",
+      "classification": 1,
+      "district": 3,
+      "ovr_rating": 5.12,
+      "off_rating": 2.12,
+      "off_rank": 71,
+      "def_rating": 3.0,
+      "def_rank": 83
     },
     {
       "ovr_rank": 76,
@@ -1368,17 +1368,6 @@
     },
     {
       "ovr_rank": 125,
-      "school": "Albany",
-      "classification": 1,
-      "district": 8,
-      "ovr_rating": 1.84,
-      "off_rating": -0.73,
-      "off_rank": 166,
-      "def_rating": 2.58,
-      "def_rank": 94
-    },
-    {
-      "ovr_rank": 126,
       "school": "Smith-Cotton",
       "classification": 5,
       "district": 7,
@@ -1387,6 +1376,17 @@
       "off_rank": 139,
       "def_rating": 1.93,
       "def_rank": 111
+    },
+    {
+      "ovr_rank": 126,
+      "school": "Albany",
+      "classification": 1,
+      "district": 8,
+      "ovr_rating": 1.84,
+      "off_rating": -0.73,
+      "off_rank": 166,
+      "def_rating": 2.58,
+      "def_rank": 94
     },
     {
       "ovr_rank": 127,
@@ -1775,17 +1775,6 @@
     },
     {
       "ovr_rank": 162,
-      "school": "Fredericktown",
-      "classification": 3,
-      "district": 1,
-      "ovr_rating": -0.65,
-      "off_rating": -0.55,
-      "off_rank": 160,
-      "def_rating": -0.11,
-      "def_rank": 162
-    },
-    {
-      "ovr_rank": 163,
       "school": "Lone Jack",
       "classification": 2,
       "district": 8,
@@ -1794,6 +1783,17 @@
       "off_rank": 179,
       "def_rating": 0.33,
       "def_rank": 154
+    },
+    {
+      "ovr_rank": 163,
+      "school": "Fredericktown",
+      "classification": 3,
+      "district": 1,
+      "ovr_rating": -0.65,
+      "off_rating": -0.55,
+      "off_rank": 160,
+      "def_rating": -0.11,
+      "def_rank": 162
     },
     {
       "ovr_rank": 164,
@@ -1819,6 +1819,17 @@
     },
     {
       "ovr_rank": 166,
+      "school": "Ft. Zumwalt North",
+      "classification": 5,
+      "district": 3,
+      "ovr_rating": -0.97,
+      "off_rating": 0.98,
+      "off_rank": 103,
+      "def_rating": -1.95,
+      "def_rank": 191
+    },
+    {
+      "ovr_rank": 167,
       "school": "Schuyler County",
       "classification": 1,
       "district": 5,
@@ -1829,7 +1840,7 @@
       "def_rank": 160
     },
     {
-      "ovr_rank": 167,
+      "ovr_rank": 168,
       "school": "Trenton",
       "classification": 2,
       "district": 6,
@@ -1838,17 +1849,6 @@
       "off_rank": 202,
       "def_rating": 1.02,
       "def_rank": 132
-    },
-    {
-      "ovr_rank": 168,
-      "school": "Ft. Zumwalt North",
-      "classification": 5,
-      "district": 3,
-      "ovr_rating": -0.97,
-      "off_rating": 0.98,
-      "off_rank": 103,
-      "def_rating": -1.95,
-      "def_rank": 191
     },
     {
       "ovr_rank": 169,
@@ -2270,17 +2270,6 @@
     },
     {
       "ovr_rank": 207,
-      "school": "Raytown",
-      "classification": 4,
-      "district": 7,
-      "ovr_rating": -5.12,
-      "off_rating": -3.72,
-      "off_rank": 234,
-      "def_rating": -1.4,
-      "def_rank": 179
-    },
-    {
-      "ovr_rank": 208,
       "school": "Perryville",
       "classification": 3,
       "district": 1,
@@ -2291,7 +2280,7 @@
       "def_rank": 206
     },
     {
-      "ovr_rank": 209,
+      "ovr_rank": 208,
       "school": "East Carter",
       "classification": 2,
       "district": 1,
@@ -2300,6 +2289,17 @@
       "off_rank": 219,
       "def_rating": -2.42,
       "def_rank": 199
+    },
+    {
+      "ovr_rank": 209,
+      "school": "Raytown",
+      "classification": 4,
+      "district": 7,
+      "ovr_rating": -5.12,
+      "off_rating": -3.72,
+      "off_rank": 234,
+      "def_rating": -1.4,
+      "def_rank": 179
     },
     {
       "ovr_rank": 210,
