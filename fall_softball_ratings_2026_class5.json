@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 04, 2026 at 09:32 AM",
+  "last_updated": "November 05, 2026 at 09:31 AM",
   "league_average": 7.0,
   "classification": 5,
   "teams": [
@@ -192,17 +192,6 @@
     },
     {
       "ovr_rank": 18,
-      "school": "Marquette",
-      "classification": 5,
-      "district": 2,
-      "ovr_rating": 8.73,
-      "off_rating": 3.33,
-      "off_rank": 22,
-      "def_rating": 5.4,
-      "def_rank": 19
-    },
-    {
-      "ovr_rank": 19,
       "school": "Staley",
       "classification": 5,
       "district": 8,
@@ -211,6 +200,17 @@
       "off_rank": 23,
       "def_rating": 5.42,
       "def_rank": 18
+    },
+    {
+      "ovr_rank": 19,
+      "school": "Marquette",
+      "classification": 5,
+      "district": 2,
+      "ovr_rating": 8.73,
+      "off_rating": 3.33,
+      "off_rank": 22,
+      "def_rating": 5.4,
+      "def_rank": 19
     },
     {
       "ovr_rank": 20,

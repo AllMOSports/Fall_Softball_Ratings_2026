@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 04, 2026 at 09:32 AM",
+  "last_updated": "November 05, 2026 at 09:31 AM",
   "league_average": 7.0,
   "teams": [
     {
@@ -323,17 +323,6 @@
     },
     {
       "ovr_rank": 30,
-      "school": "Parkway West",
-      "classification": 4,
-      "district": 2,
-      "ovr_rating": 9.21,
-      "off_rating": 3.57,
-      "off_rank": 39,
-      "def_rating": 5.64,
-      "def_rank": 26
-    },
-    {
-      "ovr_rank": 31,
       "school": "Westminster Christian Academy",
       "classification": 4,
       "district": 2,
@@ -342,6 +331,17 @@
       "off_rank": 38,
       "def_rating": 5.61,
       "def_rank": 29
+    },
+    {
+      "ovr_rank": 31,
+      "school": "Parkway West",
+      "classification": 4,
+      "district": 2,
+      "ovr_rating": 9.21,
+      "off_rating": 3.57,
+      "off_rank": 39,
+      "def_rating": 5.64,
+      "def_rank": 26
     },
     {
       "ovr_rank": 32,
@@ -378,17 +378,6 @@
     },
     {
       "ovr_rank": 35,
-      "school": "Marquette",
-      "classification": 5,
-      "district": 2,
-      "ovr_rating": 8.73,
-      "off_rating": 3.33,
-      "off_rank": 44,
-      "def_rating": 5.4,
-      "def_rank": 34
-    },
-    {
-      "ovr_rank": 36,
       "school": "Staley",
       "classification": 5,
       "district": 8,
@@ -397,6 +386,17 @@
       "off_rank": 45,
       "def_rating": 5.42,
       "def_rank": 33
+    },
+    {
+      "ovr_rank": 36,
+      "school": "Marquette",
+      "classification": 5,
+      "district": 2,
+      "ovr_rating": 8.73,
+      "off_rating": 3.33,
+      "off_rank": 44,
+      "def_rating": 5.4,
+      "def_rank": 34
     },
     {
       "ovr_rank": 37,
@@ -499,17 +499,6 @@
     },
     {
       "ovr_rank": 46,
-      "school": "Ozark",
-      "classification": 5,
-      "district": 5,
-      "ovr_rating": 7.77,
-      "off_rating": 2.88,
-      "off_rank": 51,
-      "def_rating": 4.89,
-      "def_rank": 46
-    },
-    {
-      "ovr_rank": 47,
       "school": "St. Elizabeth",
       "classification": 1,
       "district": 3,
@@ -518,6 +507,17 @@
       "off_rank": 59,
       "def_rating": 5.16,
       "def_rank": 40
+    },
+    {
+      "ovr_rank": 47,
+      "school": "Ozark",
+      "classification": 5,
+      "district": 5,
+      "ovr_rating": 7.77,
+      "off_rating": 2.88,
+      "off_rank": 51,
+      "def_rating": 4.89,
+      "def_rank": 46
     },
     {
       "ovr_rank": 48,
@@ -884,17 +884,6 @@
     },
     {
       "ovr_rank": 81,
-      "school": "Carthage",
-      "classification": 5,
-      "district": 6,
-      "ovr_rating": 4.52,
-      "off_rating": 2.12,
-      "off_rank": 70,
-      "def_rating": 2.4,
-      "def_rank": 99
-    },
-    {
-      "ovr_rank": 82,
       "school": "St. Francis Borgia",
       "classification": 4,
       "district": 3,
@@ -903,6 +892,17 @@
       "off_rank": 79,
       "def_rating": 2.75,
       "def_rank": 88
+    },
+    {
+      "ovr_rank": 82,
+      "school": "Carthage",
+      "classification": 5,
+      "district": 6,
+      "ovr_rating": 4.52,
+      "off_rating": 2.12,
+      "off_rank": 70,
+      "def_rating": 2.4,
+      "def_rank": 99
     },
     {
       "ovr_rank": 83,
@@ -1148,17 +1148,6 @@
     },
     {
       "ovr_rank": 105,
-      "school": "Stanberry",
-      "classification": 1,
-      "district": 7,
-      "ovr_rating": 2.85,
-      "off_rating": 0.86,
-      "off_rank": 109,
-      "def_rating": 1.99,
-      "def_rank": 107
-    },
-    {
-      "ovr_rank": 106,
       "school": "Richmond",
       "classification": 3,
       "district": 8,
@@ -1167,6 +1156,17 @@
       "off_rank": 161,
       "def_rating": 3.49,
       "def_rank": 73
+    },
+    {
+      "ovr_rank": 106,
+      "school": "Stanberry",
+      "classification": 1,
+      "district": 7,
+      "ovr_rating": 2.85,
+      "off_rating": 0.86,
+      "off_rank": 109,
+      "def_rating": 1.99,
+      "def_rank": 107
     },
     {
       "ovr_rank": 107,
@@ -1610,17 +1610,6 @@
     },
     {
       "ovr_rank": 147,
-      "school": "Bowling Green",
-      "classification": 3,
-      "district": 3,
-      "ovr_rating": -0.04,
-      "off_rating": 1.52,
-      "off_rank": 90,
-      "def_rating": -1.56,
-      "def_rank": 180
-    },
-    {
-      "ovr_rank": 148,
       "school": "Poplar Bluff",
       "classification": 5,
       "district": 1,
@@ -1629,6 +1618,17 @@
       "off_rank": 86,
       "def_rating": -1.64,
       "def_rank": 183
+    },
+    {
+      "ovr_rank": 148,
+      "school": "Bowling Green",
+      "classification": 3,
+      "district": 3,
+      "ovr_rating": -0.04,
+      "off_rating": 1.52,
+      "off_rank": 90,
+      "def_rating": -1.56,
+      "def_rank": 180
     },
     {
       "ovr_rank": 149,
@@ -1775,17 +1775,6 @@
     },
     {
       "ovr_rank": 162,
-      "school": "Fredericktown",
-      "classification": 3,
-      "district": 1,
-      "ovr_rating": -0.65,
-      "off_rating": -0.55,
-      "off_rank": 160,
-      "def_rating": -0.11,
-      "def_rank": 162
-    },
-    {
-      "ovr_rank": 163,
       "school": "Lone Jack",
       "classification": 2,
       "district": 8,
@@ -1794,6 +1783,17 @@
       "off_rank": 179,
       "def_rating": 0.33,
       "def_rank": 154
+    },
+    {
+      "ovr_rank": 163,
+      "school": "Fredericktown",
+      "classification": 3,
+      "district": 1,
+      "ovr_rating": -0.65,
+      "off_rating": -0.55,
+      "off_rank": 160,
+      "def_rating": -0.11,
+      "def_rank": 162
     },
     {
       "ovr_rank": 164,
@@ -1819,17 +1819,6 @@
     },
     {
       "ovr_rank": 166,
-      "school": "Trenton",
-      "classification": 2,
-      "district": 6,
-      "ovr_rating": -0.97,
-      "off_rating": -1.99,
-      "off_rank": 202,
-      "def_rating": 1.02,
-      "def_rank": 132
-    },
-    {
-      "ovr_rank": 167,
       "school": "Ft. Zumwalt North",
       "classification": 5,
       "district": 3,
@@ -1840,7 +1829,7 @@
       "def_rank": 191
     },
     {
-      "ovr_rank": 168,
+      "ovr_rank": 167,
       "school": "Schuyler County",
       "classification": 1,
       "district": 5,
@@ -1849,6 +1838,17 @@
       "off_rank": 177,
       "def_rating": -0.01,
       "def_rank": 160
+    },
+    {
+      "ovr_rank": 168,
+      "school": "Trenton",
+      "classification": 2,
+      "district": 6,
+      "ovr_rating": -0.97,
+      "off_rating": -1.99,
+      "off_rank": 202,
+      "def_rating": 1.02,
+      "def_rank": 132
     },
     {
       "ovr_rank": 169,
@@ -2391,17 +2391,6 @@
     },
     {
       "ovr_rank": 218,
-      "school": "Brunswick with Keytesville, Northwestern (Mendon)",
-      "classification": 1,
-      "district": 6,
-      "ovr_rating": -5.93,
-      "off_rating": -4.31,
-      "off_rank": 247,
-      "def_rating": -1.62,
-      "def_rank": 182
-    },
-    {
-      "ovr_rank": 219,
       "school": "Knox County",
       "classification": 1,
       "district": 5,
@@ -2410,6 +2399,17 @@
       "off_rank": 220,
       "def_rating": -3.13,
       "def_rank": 210
+    },
+    {
+      "ovr_rank": 219,
+      "school": "Brunswick with Keytesville, Northwestern (Mendon)",
+      "classification": 1,
+      "district": 6,
+      "ovr_rating": -5.93,
+      "off_rating": -4.31,
+      "off_rank": 247,
+      "def_rating": -1.62,
+      "def_rank": 182
     },
     {
       "ovr_rank": 220,
@@ -2974,17 +2974,6 @@
     },
     {
       "ovr_rank": 271,
-      "school": "Green City",
-      "classification": 1,
-      "district": 8,
-      "ovr_rating": -15.26,
-      "off_rating": -5.46,
-      "off_rank": 267,
-      "def_rating": -9.8,
-      "def_rank": 272
-    },
-    {
-      "ovr_rank": 272,
       "school": "Montrose with Appleton City",
       "classification": 1,
       "district": 2,
@@ -2993,6 +2982,17 @@
       "off_rank": 274,
       "def_rating": -9.14,
       "def_rank": 268
+    },
+    {
+      "ovr_rank": 272,
+      "school": "Green City",
+      "classification": 1,
+      "district": 8,
+      "ovr_rating": -15.26,
+      "off_rating": -5.46,
+      "off_rank": 267,
+      "def_rating": -9.8,
+      "def_rank": 272
     },
     {
       "ovr_rank": 273,
