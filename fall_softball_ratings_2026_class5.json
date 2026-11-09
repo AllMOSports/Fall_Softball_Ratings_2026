@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 08, 2026 at 09:32 AM",
+  "last_updated": "November 09, 2026 at 09:31 AM",
   "league_average": 7.0,
   "classification": 5,
   "teams": [
@@ -71,17 +71,6 @@
     },
     {
       "ovr_rank": 7,
-      "school": "Francis Howell",
-      "classification": 5,
-      "district": 3,
-      "ovr_rating": 11.76,
-      "off_rating": 3.92,
-      "off_rank": 19,
-      "def_rating": 7.84,
-      "def_rank": 3
-    },
-    {
-      "ovr_rank": 8,
       "school": "Rock Bridge",
       "classification": 5,
       "district": 4,
@@ -90,6 +79,17 @@
       "off_rank": 10,
       "def_rating": 7.25,
       "def_rank": 6
+    },
+    {
+      "ovr_rank": 8,
+      "school": "Francis Howell",
+      "classification": 5,
+      "district": 3,
+      "ovr_rating": 11.76,
+      "off_rating": 3.92,
+      "off_rank": 19,
+      "def_rating": 7.84,
+      "def_rank": 3
     },
     {
       "ovr_rank": 9,
@@ -192,17 +192,6 @@
     },
     {
       "ovr_rank": 18,
-      "school": "Staley",
-      "classification": 5,
-      "district": 8,
-      "ovr_rating": 8.73,
-      "off_rating": 3.32,
-      "off_rank": 23,
-      "def_rating": 5.42,
-      "def_rank": 18
-    },
-    {
-      "ovr_rank": 19,
       "school": "Marquette",
       "classification": 5,
       "district": 2,
@@ -211,6 +200,17 @@
       "off_rank": 22,
       "def_rating": 5.4,
       "def_rank": 19
+    },
+    {
+      "ovr_rank": 19,
+      "school": "Staley",
+      "classification": 5,
+      "district": 8,
+      "ovr_rating": 8.73,
+      "off_rating": 3.32,
+      "off_rank": 23,
+      "def_rating": 5.42,
+      "def_rank": 18
     },
     {
       "ovr_rank": 20,

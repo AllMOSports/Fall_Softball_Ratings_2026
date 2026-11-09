@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 08, 2026 at 09:32 AM",
+  "last_updated": "November 09, 2026 at 09:31 AM",
   "league_average": 7.0,
   "teams": [
     {
@@ -103,17 +103,6 @@
     },
     {
       "ovr_rank": 10,
-      "school": "Francis Howell",
-      "classification": 5,
-      "district": 3,
-      "ovr_rating": 11.76,
-      "off_rating": 3.92,
-      "off_rank": 32,
-      "def_rating": 7.84,
-      "def_rank": 5
-    },
-    {
-      "ovr_rank": 11,
       "school": "Rock Bridge",
       "classification": 5,
       "district": 4,
@@ -122,6 +111,17 @@
       "off_rank": 18,
       "def_rating": 7.25,
       "def_rank": 9
+    },
+    {
+      "ovr_rank": 11,
+      "school": "Francis Howell",
+      "classification": 5,
+      "district": 3,
+      "ovr_rating": 11.76,
+      "off_rating": 3.92,
+      "off_rank": 32,
+      "def_rating": 7.84,
+      "def_rank": 5
     },
     {
       "ovr_rank": 12,
@@ -389,17 +389,6 @@
     },
     {
       "ovr_rank": 36,
-      "school": "Staley",
-      "classification": 5,
-      "district": 8,
-      "ovr_rating": 8.73,
-      "off_rating": 3.32,
-      "off_rank": 45,
-      "def_rating": 5.42,
-      "def_rank": 33
-    },
-    {
-      "ovr_rank": 37,
       "school": "Marquette",
       "classification": 5,
       "district": 2,
@@ -408,6 +397,17 @@
       "off_rank": 44,
       "def_rating": 5.4,
       "def_rank": 34
+    },
+    {
+      "ovr_rank": 37,
+      "school": "Staley",
+      "classification": 5,
+      "district": 8,
+      "ovr_rating": 8.73,
+      "off_rating": 3.32,
+      "off_rank": 45,
+      "def_rating": 5.42,
+      "def_rank": 33
     },
     {
       "ovr_rank": 38,
@@ -1610,17 +1610,6 @@
     },
     {
       "ovr_rank": 147,
-      "school": "Poplar Bluff",
-      "classification": 5,
-      "district": 1,
-      "ovr_rating": -0.04,
-      "off_rating": 1.6,
-      "off_rank": 86,
-      "def_rating": -1.64,
-      "def_rank": 183
-    },
-    {
-      "ovr_rank": 148,
       "school": "Bowling Green",
       "classification": 3,
       "district": 3,
@@ -1629,6 +1618,17 @@
       "off_rank": 90,
       "def_rating": -1.56,
       "def_rank": 180
+    },
+    {
+      "ovr_rank": 148,
+      "school": "Poplar Bluff",
+      "classification": 5,
+      "district": 1,
+      "ovr_rating": -0.04,
+      "off_rating": 1.6,
+      "off_rank": 86,
+      "def_rating": -1.64,
+      "def_rank": 183
     },
     {
       "ovr_rank": 149,
@@ -1775,17 +1775,6 @@
     },
     {
       "ovr_rank": 162,
-      "school": "Fredericktown",
-      "classification": 3,
-      "district": 1,
-      "ovr_rating": -0.65,
-      "off_rating": -0.55,
-      "off_rank": 160,
-      "def_rating": -0.11,
-      "def_rank": 162
-    },
-    {
-      "ovr_rank": 163,
       "school": "Lone Jack",
       "classification": 2,
       "district": 8,
@@ -1794,6 +1783,17 @@
       "off_rank": 179,
       "def_rating": 0.33,
       "def_rank": 154
+    },
+    {
+      "ovr_rank": 163,
+      "school": "Fredericktown",
+      "classification": 3,
+      "district": 1,
+      "ovr_rating": -0.65,
+      "off_rating": -0.55,
+      "off_rank": 160,
+      "def_rating": -0.11,
+      "def_rank": 162
     },
     {
       "ovr_rank": 164,
@@ -2391,17 +2391,6 @@
     },
     {
       "ovr_rank": 218,
-      "school": "Brunswick with Keytesville, Northwestern (Mendon)",
-      "classification": 1,
-      "district": 6,
-      "ovr_rating": -5.93,
-      "off_rating": -4.31,
-      "off_rank": 247,
-      "def_rating": -1.62,
-      "def_rank": 182
-    },
-    {
-      "ovr_rank": 219,
       "school": "Knox County",
       "classification": 1,
       "district": 5,
@@ -2410,6 +2399,17 @@
       "off_rank": 220,
       "def_rating": -3.13,
       "def_rank": 210
+    },
+    {
+      "ovr_rank": 219,
+      "school": "Brunswick with Keytesville, Northwestern (Mendon)",
+      "classification": 1,
+      "district": 6,
+      "ovr_rating": -5.93,
+      "off_rating": -4.31,
+      "off_rank": 247,
+      "def_rating": -1.62,
+      "def_rank": 182
     },
     {
       "ovr_rank": 220,
@@ -2974,17 +2974,6 @@
     },
     {
       "ovr_rank": 271,
-      "school": "Montrose with Appleton City",
-      "classification": 1,
-      "district": 2,
-      "ovr_rating": -15.26,
-      "off_rating": -6.13,
-      "off_rank": 274,
-      "def_rating": -9.14,
-      "def_rank": 268
-    },
-    {
-      "ovr_rank": 272,
       "school": "Green City",
       "classification": 1,
       "district": 8,
@@ -2993,6 +2982,17 @@
       "off_rank": 267,
       "def_rating": -9.8,
       "def_rank": 272
+    },
+    {
+      "ovr_rank": 272,
+      "school": "Montrose with Appleton City",
+      "classification": 1,
+      "district": 2,
+      "ovr_rating": -15.26,
+      "off_rating": -6.13,
+      "off_rank": 274,
+      "def_rating": -9.14,
+      "def_rank": 268
     },
     {
       "ovr_rank": 273,
