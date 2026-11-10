@@ -1,6 +1,6 @@
 {
-  "last_updated": "November 09, 2026 at 09:31 AM",
-  "league_average": 7.0,
+  "last_updated": "November 10, 2026 at 09:31 AM",
+  "league_average": 7.01,
   "classification": 4,
   "teams": [
     {
@@ -9,7 +9,7 @@
       "classification": 4,
       "district": 5,
       "ovr_rating": 13.57,
-      "off_rating": 5.61,
+      "off_rating": 5.6,
       "off_rank": 2,
       "def_rating": 7.97,
       "def_rank": 1
@@ -44,7 +44,7 @@
       "ovr_rating": 10.1,
       "off_rating": 4.91,
       "off_rank": 5,
-      "def_rating": 5.19,
+      "def_rating": 5.2,
       "def_rank": 9
     },
     {
@@ -152,9 +152,9 @@
       "classification": 4,
       "district": 8,
       "ovr_rating": 6.67,
-      "off_rating": 3.42,
+      "off_rating": 3.41,
       "off_rank": 11,
-      "def_rating": 3.25,
+      "def_rating": 3.26,
       "def_rank": 18
     },
     {
@@ -187,7 +187,7 @@
       "ovr_rating": 5.34,
       "off_rating": 1.85,
       "off_rank": 17,
-      "def_rating": 3.49,
+      "def_rating": 3.5,
       "def_rank": 16
     },
     {
@@ -198,7 +198,7 @@
       "ovr_rating": 4.52,
       "off_rating": 1.77,
       "off_rank": 19,
-      "def_rating": 2.75,
+      "def_rating": 2.76,
       "def_rank": 20
     },
     {
@@ -264,7 +264,7 @@
       "ovr_rating": 2.78,
       "off_rating": 0.25,
       "off_rank": 33,
-      "def_rating": 2.53,
+      "def_rating": 2.54,
       "def_rank": 23
     },
     {
@@ -272,8 +272,8 @@
       "school": "Battle",
       "classification": 4,
       "district": 5,
-      "ovr_rating": 2.65,
-      "off_rating": 1.53,
+      "ovr_rating": 2.66,
+      "off_rating": 1.54,
       "off_rank": 24,
       "def_rating": 1.12,
       "def_rank": 27
@@ -295,9 +295,9 @@
       "classification": 4,
       "district": 5,
       "ovr_rating": 2.28,
-      "off_rating": 1.71,
+      "off_rating": 1.7,
       "off_rank": 20,
-      "def_rating": 0.57,
+      "def_rating": 0.58,
       "def_rank": 32
     },
     {
@@ -418,7 +418,7 @@
       "ovr_rating": -1.79,
       "off_rating": -1.47,
       "off_rank": 41,
-      "def_rating": -0.32,
+      "def_rating": -0.31,
       "def_rank": 35
     },
     {
@@ -471,7 +471,7 @@
       "classification": 4,
       "district": 5,
       "ovr_rating": -5.4,
-      "off_rating": -2.44,
+      "off_rating": -2.45,
       "off_rank": 42,
       "def_rating": -2.96,
       "def_rank": 42
@@ -495,7 +495,7 @@
       "ovr_rating": -8.96,
       "off_rating": -2.9,
       "off_rank": 43,
-      "def_rating": -6.06,
+      "def_rating": -6.05,
       "def_rank": 46
     },
     {
@@ -525,7 +525,7 @@
       "school": "Winnetonka",
       "classification": 4,
       "district": 8,
-      "ovr_rating": -11.71,
+      "ovr_rating": -11.7,
       "off_rating": -4.14,
       "off_rank": 47,
       "def_rating": -7.57,
@@ -646,7 +646,7 @@
       "school": "Lincoln College Prep",
       "classification": 4,
       "district": 8,
-      "ovr_rating": -28.11,
+      "ovr_rating": -28.1,
       "off_rating": -10.62,
       "off_rank": 59,
       "def_rating": -17.48,

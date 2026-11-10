@@ -1,6 +1,6 @@
 {
-  "last_updated": "November 09, 2026 at 09:31 AM",
-  "league_average": 7.0,
+  "last_updated": "November 10, 2026 at 09:31 AM",
+  "league_average": 7.01,
   "classification": 3,
   "teams": [
     {
@@ -20,7 +20,7 @@
       "classification": 3,
       "district": 4,
       "ovr_rating": 11.42,
-      "off_rating": 3.83,
+      "off_rating": 3.82,
       "off_rank": 4,
       "def_rating": 7.6,
       "def_rank": 2
@@ -30,7 +30,7 @@
       "school": "Oak Grove",
       "classification": 3,
       "district": 7,
-      "ovr_rating": 9.83,
+      "ovr_rating": 9.82,
       "off_rating": 2.66,
       "off_rank": 9,
       "def_rating": 7.16,
@@ -52,8 +52,8 @@
       "school": "Pleasant Hill",
       "classification": 3,
       "district": 7,
-      "ovr_rating": 9.44,
-      "off_rating": 3.39,
+      "ovr_rating": 9.43,
+      "off_rating": 3.38,
       "off_rank": 6,
       "def_rating": 6.04,
       "def_rank": 5
@@ -228,11 +228,11 @@
       "school": "Odessa",
       "classification": 3,
       "district": 7,
-      "ovr_rating": 2.56,
-      "off_rating": 1.8,
+      "ovr_rating": 2.52,
+      "off_rating": 1.86,
       "off_rank": 11,
-      "def_rating": 0.75,
-      "def_rank": 27
+      "def_rating": 0.66,
+      "def_rank": 29
     },
     {
       "ovr_rank": 22,
@@ -264,7 +264,7 @@
       "ovr_rating": 2.31,
       "off_rating": -1.26,
       "off_rank": 37,
-      "def_rating": 3.57,
+      "def_rating": 3.58,
       "def_rank": 12
     },
     {
@@ -275,8 +275,8 @@
       "ovr_rating": 1.86,
       "off_rating": 1.12,
       "off_rank": 17,
-      "def_rating": 0.74,
-      "def_rank": 28
+      "def_rating": 0.75,
+      "def_rank": 27
     },
     {
       "ovr_rank": 26,
@@ -319,8 +319,8 @@
       "ovr_rating": 0.04,
       "off_rating": -0.69,
       "off_rank": 34,
-      "def_rating": 0.72,
-      "def_rank": 29
+      "def_rating": 0.73,
+      "def_rank": 28
     },
     {
       "ovr_rank": 30,
@@ -382,10 +382,10 @@
       "school": "St. Michael the Archangel",
       "classification": 3,
       "district": 7,
-      "ovr_rating": -1.81,
+      "ovr_rating": -1.82,
       "off_rating": 0.01,
       "off_rank": 27,
-      "def_rating": -1.83,
+      "def_rating": -1.82,
       "def_rank": 39
     },
     {
@@ -416,7 +416,7 @@
       "classification": 3,
       "district": 8,
       "ovr_rating": -3.69,
-      "off_rating": -3.4,
+      "off_rating": -3.41,
       "off_rank": 48,
       "def_rating": -0.29,
       "def_rank": 34
@@ -462,7 +462,7 @@
       "ovr_rating": -5.12,
       "off_rating": -2.21,
       "off_rank": 41,
-      "def_rating": -2.92,
+      "def_rating": -2.91,
       "def_rank": 43
     },
     {
@@ -472,8 +472,8 @@
       "district": 1,
       "ovr_rating": -5.13,
       "off_rating": -3.21,
-      "off_rank": 47,
-      "def_rating": -1.92,
+      "off_rank": 46,
+      "def_rating": -1.91,
       "def_rank": 40
     },
     {
@@ -481,8 +481,8 @@
       "school": "Harrisonville",
       "classification": 3,
       "district": 7,
-      "ovr_rating": -5.77,
-      "off_rating": -2.21,
+      "ovr_rating": -5.78,
+      "off_rating": -2.22,
       "off_rank": 42,
       "def_rating": -3.56,
       "def_rank": 44
@@ -525,9 +525,9 @@
       "school": "Clinton",
       "classification": 3,
       "district": 6,
-      "ovr_rating": -9.13,
-      "off_rating": -3.21,
-      "off_rank": 46,
+      "ovr_rating": -9.14,
+      "off_rating": -3.22,
+      "off_rank": 47,
       "def_rating": -5.92,
       "def_rank": 48
     },

@@ -1,6 +1,6 @@
 {
-  "last_updated": "November 09, 2026 at 09:31 AM",
-  "league_average": 7.0,
+  "last_updated": "November 10, 2026 at 09:31 AM",
+  "league_average": 7.01,
   "classification": 2,
   "teams": [
     {
@@ -55,7 +55,7 @@
       "ovr_rating": 7.47,
       "off_rating": 2.62,
       "off_rank": 9,
-      "def_rating": 4.85,
+      "def_rating": 4.86,
       "def_rank": 5
     },
     {
@@ -176,7 +176,7 @@
       "ovr_rating": 3.37,
       "off_rating": 0.73,
       "off_rank": 17,
-      "def_rating": 2.63,
+      "def_rating": 2.64,
       "def_rank": 15
     },
     {
@@ -217,7 +217,7 @@
       "school": "Lawson",
       "classification": 2,
       "district": 8,
-      "ovr_rating": 2.14,
+      "ovr_rating": 2.13,
       "off_rating": 2.36,
       "off_rank": 10,
       "def_rating": -0.22,
@@ -229,7 +229,7 @@
       "classification": 2,
       "district": 8,
       "ovr_rating": 0.92,
-      "off_rating": -1.38,
+      "off_rating": -1.39,
       "off_rank": 33,
       "def_rating": 2.3,
       "def_rank": 16
@@ -295,9 +295,9 @@
       "classification": 2,
       "district": 6,
       "ovr_rating": -0.97,
-      "off_rating": -1.99,
+      "off_rating": -2.0,
       "off_rank": 37,
-      "def_rating": 1.02,
+      "def_rating": 1.03,
       "def_rank": 23
     },
     {
@@ -393,7 +393,7 @@
       "school": "Neelyville",
       "classification": 2,
       "district": 1,
-      "ovr_rating": -3.42,
+      "ovr_rating": -3.41,
       "off_rating": -2.05,
       "off_rank": 38,
       "def_rating": -1.36,
@@ -448,7 +448,7 @@
       "school": "Lexington",
       "classification": 2,
       "district": 8,
-      "ovr_rating": -5.57,
+      "ovr_rating": -5.58,
       "off_rating": -0.69,
       "off_rank": 27,
       "def_rating": -4.89,
@@ -481,7 +481,7 @@
       "school": "East Buchanan",
       "classification": 2,
       "district": 7,
-      "ovr_rating": -10.53,
+      "ovr_rating": -10.54,
       "off_rating": -3.76,
       "off_rank": 44,
       "def_rating": -6.77,
@@ -503,7 +503,7 @@
       "school": "Sherwood",
       "classification": 2,
       "district": 8,
-      "ovr_rating": -11.14,
+      "ovr_rating": -11.15,
       "off_rating": -4.63,
       "off_rank": 47,
       "def_rating": -6.52,
