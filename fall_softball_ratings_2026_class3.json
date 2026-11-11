@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 10, 2026 at 09:31 AM",
+  "last_updated": "November 11, 2026 at 09:31 AM",
   "league_average": 7.01,
   "classification": 3,
   "teams": [
@@ -27,17 +27,6 @@
     },
     {
       "ovr_rank": 3,
-      "school": "Oak Grove",
-      "classification": 3,
-      "district": 7,
-      "ovr_rating": 9.82,
-      "off_rating": 2.66,
-      "off_rank": 9,
-      "def_rating": 7.16,
-      "def_rank": 3
-    },
-    {
-      "ovr_rank": 4,
       "school": "Savannah",
       "classification": 3,
       "district": 8,
@@ -46,6 +35,17 @@
       "off_rank": 1,
       "def_rating": 4.82,
       "def_rank": 8
+    },
+    {
+      "ovr_rank": 4,
+      "school": "Oak Grove",
+      "classification": 3,
+      "district": 7,
+      "ovr_rating": 9.82,
+      "off_rating": 2.66,
+      "off_rank": 9,
+      "def_rating": 7.16,
+      "def_rank": 3
     },
     {
       "ovr_rank": 5,
