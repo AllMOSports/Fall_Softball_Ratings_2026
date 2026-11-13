@@ -27424,6 +27424,15 @@
   },
   {
     "date": "2026-10-07",
+    "team1": "Northeast Nodaway",
+    "score1": 6,
+    "team2": "DeKalb",
+    "score2": 9,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-07",
     "team1": "Stewartsville with Osborn",
     "score1": 9,
     "team2": "East Buchanan",
@@ -27643,15 +27652,6 @@
     "team1": "West Platte",
     "score1": 13,
     "team2": "North Platte",
-    "score2": 6,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-07",
-    "team1": "DeKalb",
-    "score1": 9,
-    "team2": "Northeast Nodaway",
     "score2": 6,
     "forfeit": false,
     "overtime": false

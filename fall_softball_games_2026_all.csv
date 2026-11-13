@@ -3249,6 +3249,7 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-07,Saxony Lutheran with St. Vincent,True,16,Central (Cape Girardeau),True,0,False,False
 2026-10-07,Monroe City,True,2,Clopton,True,0,False,False
 2026-10-07,Webster Groves,True,2,Cor Jesu Academy,True,14,False,False
+2026-10-07,Northeast Nodaway,True,6,DeKalb,True,9,False,False
 2026-10-07,Stewartsville with Osborn,True,9,East Buchanan,True,13,False,False
 2026-10-07,Warrensburg,True,4,Excelsior Springs,True,8,False,False
 2026-10-07,Helias Catholic,True,10,Fatima,True,0,False,False
@@ -3276,7 +3277,6 @@ date,team1,team1_classified,score1,team2,team2_classified,score2,forfeit,overtim
 2026-10-07,La Plata,True,13,Meadville,True,1,False,False
 2026-10-07,McCluer North,True,18,Normandy Collaborative,False,2,False,False
 2026-10-07,West Platte,True,13,North Platte,True,6,False,False
-2026-10-07,DeKalb,True,9,Northeast Nodaway,True,6,False,False
 2026-10-07,Clinton,True,0,Oak Grove,True,15,False,False
 2026-10-07,Lindbergh,True,10,Oakville,True,3,False,False
 2026-10-07,Ladue Horton Watkins,True,2,Orchard Farm,True,17,False,False

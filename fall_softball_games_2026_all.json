@@ -35751,6 +35751,17 @@
   },
   {
     "date": "2026-10-07",
+    "team1": "Northeast Nodaway",
+    "team1_classified": true,
+    "score1": 6,
+    "team2": "DeKalb",
+    "team2_classified": true,
+    "score2": 9,
+    "forfeit": false,
+    "overtime": false
+  },
+  {
+    "date": "2026-10-07",
     "team1": "Stewartsville with Osborn",
     "team1_classified": true,
     "score1": 9,
@@ -36041,17 +36052,6 @@
     "team1_classified": true,
     "score1": 13,
     "team2": "North Platte",
-    "team2_classified": true,
-    "score2": 6,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-07",
-    "team1": "DeKalb",
-    "team1_classified": true,
-    "score1": 9,
-    "team2": "Northeast Nodaway",
     "team2_classified": true,
     "score2": 6,
     "forfeit": false,
