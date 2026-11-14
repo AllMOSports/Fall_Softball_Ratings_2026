@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 13, 2026 at 09:31 AM",
+  "last_updated": "November 14, 2026 at 09:31 AM",
   "league_average": 7.01,
   "classification": 1,
   "teams": [
@@ -654,17 +654,6 @@
     },
     {
       "ovr_rank": 60,
-      "school": "Montrose with Appleton City",
-      "classification": 1,
-      "district": 2,
-      "ovr_rating": -15.26,
-      "off_rating": -6.13,
-      "off_rank": 60,
-      "def_rating": -9.14,
-      "def_rank": 61
-    },
-    {
-      "ovr_rank": 61,
       "school": "Green City",
       "classification": 1,
       "district": 8,
@@ -673,6 +662,17 @@
       "off_rank": 56,
       "def_rating": -9.8,
       "def_rank": 63
+    },
+    {
+      "ovr_rank": 61,
+      "school": "Montrose with Appleton City",
+      "classification": 1,
+      "district": 2,
+      "ovr_rating": -15.26,
+      "off_rating": -6.13,
+      "off_rank": 60,
+      "def_rating": -9.14,
+      "def_rank": 61
     },
     {
       "ovr_rank": 62,
