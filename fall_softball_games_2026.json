@@ -33748,32 +33748,5 @@
     "score2": 0,
     "forfeit": false,
     "overtime": false
-  },
-  {
-    "date": "2026-10-31",
-    "team1": "Princeton",
-    "score1": 0,
-    "team2": "Silex",
-    "score2": 10,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-31",
-    "team1": "Mid-Buchanan",
-    "score1": 10,
-    "team2": "Chaffee",
-    "score2": 6,
-    "forfeit": false,
-    "overtime": false
-  },
-  {
-    "date": "2026-10-31",
-    "team1": "Oak Grove",
-    "score1": 0,
-    "team2": "Centralia",
-    "score2": 4,
-    "forfeit": false,
-    "overtime": false
   }
 ]
